@@ -17,6 +17,7 @@
 - pip install sklearn_crfsuite
 - pip install tornado
 - pip install responses
+- pip install nltk
 
 - Git clone the repository, and cd into rasa folder
 
