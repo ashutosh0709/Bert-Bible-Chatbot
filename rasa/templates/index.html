@@ -1,0 +1,24 @@
+<head>
+  <link rel="stylesheet" href="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.css" />
+ <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}" /> 
+</head>
+<body>
+
+
+  <div class="chat-container"></div>
+
+  <script src="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.js"/></script>
+  <script type="text/javascript">
+    var chatroom = new window.Chatroom({
+      host: "http://localhost:5800",
+      title: "Bot, powered by RASA",
+      container: document.querySelector(".chat-container"),
+      welcomeMessage: "Hi, I am RASA  bot, how may I help you?",
+     // speechRecognition: "en-US",
+     // voiceLang: "en-US"		
+    });
+    chatroom.openChat();
+  </script>
+</body>
+
+
