@@ -10,7 +10,7 @@
  - python3 -m spacy download en_core_web_md
  - Now open python prompt (python3) -> then write:
         >>> import spacy
-        >>> nlp=spacy.load('en_core_web_md)
+        >>> nlp=spacy.load('en_core_web_md')
    # ctrl-Z to come out of shell.
 - pip install -U rasa_core
 - pip install h5py==2.10.0
