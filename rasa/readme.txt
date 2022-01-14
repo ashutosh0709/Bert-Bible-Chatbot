@@ -3,6 +3,7 @@
  
  
  # INSTALLATION:
+ Enter super user mode : 'sudo su'
  - python3 -m pip install --upgrade pip
  - pip install rasa_nlu
  - pip install spacy
