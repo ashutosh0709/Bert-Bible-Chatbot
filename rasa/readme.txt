@@ -18,7 +18,7 @@
 - pip install tornado
 - pip install responses
 
-- Git pull the repository, and cd into rasa folder
+- Git clone the repository, and cd into rasa folder
 
 
 # RUNNING THE MODEL:
