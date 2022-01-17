@@ -203,7 +203,7 @@
 
 
 ## lookup:keyword  
-data\keywords.txt
+data/keywords.txt
 
 
 
