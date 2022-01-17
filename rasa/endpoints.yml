@@ -12,6 +12,10 @@
 
 action_endpoint:
   url: "http://localhost:5055/webhook"
+  
+core_endpoint:
+   url: http://localhost:5800
+  
 
 # Tracker store which is used to store the conversations.
 # By default the conversations are stored in memory.
