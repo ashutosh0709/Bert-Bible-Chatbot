@@ -17,7 +17,7 @@ from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
 from nltk.tokenize import sent_tokenize
 ############################################################################
-url = "http://192.168.43.50:8002/str" #endpoint where the bertmodel-api is placed.
+url = "http://44.193.196.134:8002/str" #endpoint where the bertmodel-api is placed.
 link_url = ""
 
 ############################################################################
