@@ -20,7 +20,7 @@
 ################################################
 * sudo su
 * cd /home/ubuntu/rasa_3/alexa_bible_skill  
-* git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
+* If needed, then only run :-> git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
 * cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3/actions
 * vi actions.py  :-> Now update url(located just below the 'from' and 'import' statements) with the bert machine's IP ('wq' for saving and exiting vi).
 * cd /home/ubuntu 
