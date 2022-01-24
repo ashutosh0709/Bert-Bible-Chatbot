@@ -21,7 +21,7 @@ from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
 from nltk.tokenize import sent_tokenize
 ############################################################################
-url = "http://3.237.199.36:8002/str" #endpoint where the bertmodel-api is placed.
+url = "http://localhost:8002/str" #endpoint where the bertmodel-api is placed.
 link_url = ""
 
 ############################################################################
@@ -127,6 +127,13 @@ class one_keyword_api_call(Action):
         print("this is the obj of slot value -> " , type(slot_value) , "thi is slot value -> " , slot_value)
         print(slot_value[-6:]) #to check if the last 6 letters of the intent name is "intent" - for verifying inen validation before api-call. Not yet implemented!
         print(slot_value[ : -7]) #will remove the last "_intent" from intent name and we will get the keyword.
+        if slot_value[-6:] != "intent":
+            dispatcher.utter_message("Sorry, I did not get you")
+            global link_url
+            link_url = ""   
+            return []
+
+
         slot_value = slot_value[ : -7]
         
         if slot_value != None:
@@ -135,7 +142,6 @@ class one_keyword_api_call(Action):
             para = bestParaExtractor(article , str(slot_value))
             dispatcher.utter_message(para)
         else:
-            global link_url
             link_url = ""    
         #return[SlotSet("kings_slot", None)]
         return []  
@@ -157,7 +163,11 @@ class DisplayLink(Action):
             except:
                 pass  
         else:
-            dispatcher.utter_message("Sorry, I did not get you.")
+            dispatcher.utter_message("Please try again!")
         return []    
 
+
+#  3.237.199.36
+# /home/ubuntu/bibleDocumentClassification/docker_version/data/downloaded_articles -> move from here.
+# cp -R /home/ubuntu/bibleDocumentClassification/docker_version/data/downloaded_articles/ /home/ubuntu/bible_api_rasa/docker_version/data/downloaded_articles/
 
