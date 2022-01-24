@@ -105,8 +105,6 @@ nlu:
 
 
 
-
-
 - intent: thorns_intent
   examples: |
     - what does the bible say about thorns
@@ -3887,3 +3885,5722 @@ nlu:
     - asaph in bible
     - asaph as explained by bible
     - asaph as said by jesus
+
+- intent: tower_intent
+  examples: |
+    - what does the bible say about tower
+    - what does the bible have to say ontower
+    - what does the bible say on tower
+    - bible on tower
+    - what does christianity say about tower
+    - what does christianity have to say on tower
+    - how is explained in the bible?tower
+    - what jesus said about tower
+    - how is tower explained in christianity?
+    - what jesus spoke about tower
+    - what christianity says on tower
+    - christianity on tower
+    - jesus on tower
+    - tower in bible
+    - tower as explained by bible
+    - tower as said by jesus
+
+- intent: violence_intent
+  examples: |
+    - what does the bible say about violence
+    - what does the bible have to say onviolence
+    - what does the bible say on violence
+    - bible on violence
+    - what does christianity say about violence
+    - what does christianity have to say on violence
+    - how is explained in the bible?violence
+    - what jesus said about violence
+    - how is violence explained in christianity?
+    - what jesus spoke about violence
+    - what christianity says on violence
+    - christianity on violence
+    - jesus on violence
+    - violence in bible
+    - violence as explained by bible
+    - violence as said by jesus
+
+- intent: expressions_intent
+  examples: |
+    - what does the bible say about expressions
+    - what does the bible have to say onexpressions
+    - what does the bible say on expressions
+    - bible on expressions
+    - what does christianity say about expressions
+    - what does christianity have to say on expressions
+    - how is explained in the bible?expressions
+    - what jesus said about expressions
+    - how is expressions explained in christianity?
+    - what jesus spoke about expressions
+    - what christianity says on expressions
+    - christianity on expressions
+    - jesus on expressions
+    - expressions in bible
+    - expressions as explained by bible
+    - expressions as said by jesus
+
+- intent: tent_intent
+  examples: |
+    - what does the bible say about tent
+    - what does the bible have to say ontent
+    - what does the bible say on tent
+    - bible on tent
+    - what does christianity say about tent
+    - what does christianity have to say on tent
+    - how is explained in the bible?tent
+    - what jesus said about tent
+    - how is tent explained in christianity?
+    - what jesus spoke about tent
+    - what christianity says on tent
+    - christianity on tent
+    - jesus on tent
+    - tent in bible
+    - tent as explained by bible
+    - tent as said by jesus
+
+- intent: rites_intent
+  examples: |
+    - what does the bible say about rites
+    - what does the bible have to say onrites
+    - what does the bible say on rites
+    - bible on rites
+    - what does christianity say about rites
+    - what does christianity have to say on rites
+    - how is explained in the bible?rites
+    - what jesus said about rites
+    - how is rites explained in christianity?
+    - what jesus spoke about rites
+    - what christianity says on rites
+    - christianity on rites
+    - jesus on rites
+    - rites in bible
+    - rites as explained by bible
+    - rites as said by jesus
+
+- intent: pose_intent
+  examples: |
+    - what does the bible say about pose
+    - what does the bible have to say onpose
+    - what does the bible say on pose
+    - bible on pose
+    - what does christianity say about pose
+    - what does christianity have to say on pose
+    - how is explained in the bible?pose
+    - what jesus said about pose
+    - how is pose explained in christianity?
+    - what jesus spoke about pose
+    - what christianity says on pose
+    - christianity on pose
+    - jesus on pose
+    - pose in bible
+    - pose as explained by bible
+    - pose as said by jesus
+
+- intent: thing_intent
+  examples: |
+    - what does the bible say about thing
+    - what does the bible have to say onthing
+    - what does the bible say on thing
+    - bible on thing
+    - what does christianity say about thing
+    - what does christianity have to say on thing
+    - how is explained in the bible?thing
+    - what jesus said about thing
+    - how is thing explained in christianity?
+    - what jesus spoke about thing
+    - what christianity says on thing
+    - christianity on thing
+    - jesus on thing
+    - thing in bible
+    - thing as explained by bible
+    - thing as said by jesus
+
+- intent: centredness_intent
+  examples: |
+    - what does the bible say about centredness
+    - what does the bible have to say oncentredness
+    - what does the bible say on centredness
+    - bible on centredness
+    - what does christianity say about centredness
+    - what does christianity have to say on centredness
+    - how is explained in the bible?centredness
+    - what jesus said about centredness
+    - how is centredness explained in christianity?
+    - what jesus spoke about centredness
+    - what christianity says on centredness
+    - christianity on centredness
+    - jesus on centredness
+    - centredness in bible
+    - centredness as explained by bible
+    - centredness as said by jesus
+
+- intent: surface_intent
+  examples: |
+    - what does the bible say about surface
+    - what does the bible have to say onsurface
+    - what does the bible say on surface
+    - bible on surface
+    - what does christianity say about surface
+    - what does christianity have to say on surface
+    - how is explained in the bible?surface
+    - what jesus said about surface
+    - how is surface explained in christianity?
+    - what jesus spoke about surface
+    - what christianity says on surface
+    - christianity on surface
+    - jesus on surface
+    - surface in bible
+    - surface as explained by bible
+    - surface as said by jesus
+
+- intent: hammer_intent
+  examples: |
+    - what does the bible say about hammer
+    - what does the bible have to say onhammer
+    - what does the bible say on hammer
+    - bible on hammer
+    - what does christianity say about hammer
+    - what does christianity have to say on hammer
+    - how is explained in the bible?hammer
+    - what jesus said about hammer
+    - how is hammer explained in christianity?
+    - what jesus spoke about hammer
+    - what christianity says on hammer
+    - christianity on hammer
+    - jesus on hammer
+    - hammer in bible
+    - hammer as explained by bible
+    - hammer as said by jesus
+
+- intent: lord_intent
+  examples: |
+    - what does the bible say about lord
+    - what does the bible have to say onlord
+    - what does the bible say on lord
+    - bible on lord
+    - what does christianity say about lord
+    - what does christianity have to say on lord
+    - how is explained in the bible?lord
+    - what jesus said about lord
+    - how is lord explained in christianity?
+    - what jesus spoke about lord
+    - what christianity says on lord
+    - christianity on lord
+    - jesus on lord
+    - lord in bible
+    - lord as explained by bible
+    - lord as said by jesus
+
+- intent: prayers_intent
+  examples: |
+    - what does the bible say about prayers
+    - what does the bible have to say onprayers
+    - what does the bible say on prayers
+    - bible on prayers
+    - what does christianity say about prayers
+    - what does christianity have to say on prayers
+    - how is explained in the bible?prayers
+    - what jesus said about prayers
+    - how is prayers explained in christianity?
+    - what jesus spoke about prayers
+    - what christianity says on prayers
+    - christianity on prayers
+    - jesus on prayers
+    - prayers in bible
+    - prayers as explained by bible
+    - prayers as said by jesus
+
+- intent: river_intent
+  examples: |
+    - what does the bible say about river
+    - what does the bible have to say onriver
+    - what does the bible say on river
+    - bible on river
+    - what does christianity say about river
+    - what does christianity have to say on river
+    - how is explained in the bible?river
+    - what jesus said about river
+    - how is river explained in christianity?
+    - what jesus spoke about river
+    - what christianity says on river
+    - christianity on river
+    - jesus on river
+    - river in bible
+    - river as explained by bible
+    - river as said by jesus
+
+- intent: blackboard_intent
+  examples: |
+    - what does the bible say about blackboard
+    - what does the bible have to say onblackboard
+    - what does the bible say on blackboard
+    - bible on blackboard
+    - what does christianity say about blackboard
+    - what does christianity have to say on blackboard
+    - how is explained in the bible?blackboard
+    - what jesus said about blackboard
+    - how is blackboard explained in christianity?
+    - what jesus spoke about blackboard
+    - what christianity says on blackboard
+    - christianity on blackboard
+    - jesus on blackboard
+    - blackboard in bible
+    - blackboard as explained by bible
+    - blackboard as said by jesus
+
+- intent: news_intent
+  examples: |
+    - what does the bible say about news
+    - what does the bible have to say onnews
+    - what does the bible say on news
+    - bible on news
+    - what does christianity say about news
+    - what does christianity have to say on news
+    - how is explained in the bible?news
+    - what jesus said about news
+    - how is news explained in christianity?
+    - what jesus spoke about news
+    - what christianity says on news
+    - christianity on news
+    - jesus on news
+    - news in bible
+    - news as explained by bible
+    - news as said by jesus
+
+- intent: rest_intent
+  examples: |
+    - what does the bible say about rest
+    - what does the bible have to say onrest
+    - what does the bible say on rest
+    - bible on rest
+    - what does christianity say about rest
+    - what does christianity have to say on rest
+    - how is explained in the bible?rest
+    - what jesus said about rest
+    - how is rest explained in christianity?
+    - what jesus spoke about rest
+    - what christianity says on rest
+    - christianity on rest
+    - jesus on rest
+    - rest in bible
+    - rest as explained by bible
+    - rest as said by jesus
+
+- intent: accidents_intent
+  examples: |
+    - what does the bible say about accidents
+    - what does the bible have to say onaccidents
+    - what does the bible say on accidents
+    - bible on accidents
+    - what does christianity say about accidents
+    - what does christianity have to say on accidents
+    - how is explained in the bible?accidents
+    - what jesus said about accidents
+    - how is accidents explained in christianity?
+    - what jesus spoke about accidents
+    - what christianity says on accidents
+    - christianity on accidents
+    - jesus on accidents
+    - accidents in bible
+    - accidents as explained by bible
+    - accidents as said by jesus
+
+- intent: mornings_intent
+  examples: |
+    - what does the bible say about mornings
+    - what does the bible have to say onmornings
+    - what does the bible say on mornings
+    - bible on mornings
+    - what does christianity say about mornings
+    - what does christianity have to say on mornings
+    - how is explained in the bible?mornings
+    - what jesus said about mornings
+    - how is mornings explained in christianity?
+    - what jesus spoke about mornings
+    - what christianity says on mornings
+    - christianity on mornings
+    - jesus on mornings
+    - mornings in bible
+    - mornings as explained by bible
+    - mornings as said by jesus
+
+- intent: hagar_intent
+  examples: |
+    - what does the bible say about hagar
+    - what does the bible have to say onhagar
+    - what does the bible say on hagar
+    - bible on hagar
+    - what does christianity say about hagar
+    - what does christianity have to say on hagar
+    - how is explained in the bible?hagar
+    - what jesus said about hagar
+    - how is hagar explained in christianity?
+    - what jesus spoke about hagar
+    - what christianity says on hagar
+    - christianity on hagar
+    - jesus on hagar
+    - hagar in bible
+    - hagar as explained by bible
+    - hagar as said by jesus
+
+- intent: prevention_intent
+  examples: |
+    - what does the bible say about prevention
+    - what does the bible have to say onprevention
+    - what does the bible say on prevention
+    - bible on prevention
+    - what does christianity say about prevention
+    - what does christianity have to say on prevention
+    - how is explained in the bible?prevention
+    - what jesus said about prevention
+    - how is prevention explained in christianity?
+    - what jesus spoke about prevention
+    - what christianity says on prevention
+    - christianity on prevention
+    - jesus on prevention
+    - prevention in bible
+    - prevention as explained by bible
+    - prevention as said by jesus
+
+- intent: trumpet_intent
+  examples: |
+    - what does the bible say about trumpet
+    - what does the bible have to say ontrumpet
+    - what does the bible say on trumpet
+    - bible on trumpet
+    - what does christianity say about trumpet
+    - what does christianity have to say on trumpet
+    - how is explained in the bible?trumpet
+    - what jesus said about trumpet
+    - how is trumpet explained in christianity?
+    - what jesus spoke about trumpet
+    - what christianity says on trumpet
+    - christianity on trumpet
+    - jesus on trumpet
+    - trumpet in bible
+    - trumpet as explained by bible
+    - trumpet as said by jesus
+
+- intent: trickle_intent
+  examples: |
+    - what does the bible say about trickle
+    - what does the bible have to say ontrickle
+    - what does the bible say on trickle
+    - bible on trickle
+    - what does christianity say about trickle
+    - what does christianity have to say on trickle
+    - how is explained in the bible?trickle
+    - what jesus said about trickle
+    - how is trickle explained in christianity?
+    - what jesus spoke about trickle
+    - what christianity says on trickle
+    - christianity on trickle
+    - jesus on trickle
+    - trickle in bible
+    - trickle as explained by bible
+    - trickle as said by jesus
+
+- intent: consecration_intent
+  examples: |
+    - what does the bible say about consecration
+    - what does the bible have to say onconsecration
+    - what does the bible say on consecration
+    - bible on consecration
+    - what does christianity say about consecration
+    - what does christianity have to say on consecration
+    - how is explained in the bible?consecration
+    - what jesus said about consecration
+    - how is consecration explained in christianity?
+    - what jesus spoke about consecration
+    - what christianity says on consecration
+    - christianity on consecration
+    - jesus on consecration
+    - consecration in bible
+    - consecration as explained by bible
+    - consecration as said by jesus
+
+- intent: enemies_intent
+  examples: |
+    - what does the bible say about enemies
+    - what does the bible have to say onenemies
+    - what does the bible say on enemies
+    - bible on enemies
+    - what does christianity say about enemies
+    - what does christianity have to say on enemies
+    - how is explained in the bible?enemies
+    - what jesus said about enemies
+    - how is enemies explained in christianity?
+    - what jesus spoke about enemies
+    - what christianity says on enemies
+    - christianity on enemies
+    - jesus on enemies
+    - enemies in bible
+    - enemies as explained by bible
+    - enemies as said by jesus
+
+- intent: corporation_intent
+  examples: |
+    - what does the bible say about corporation
+    - what does the bible have to say oncorporation
+    - what does the bible say on corporation
+    - bible on corporation
+    - what does christianity say about corporation
+    - what does christianity have to say on corporation
+    - how is explained in the bible?corporation
+    - what jesus said about corporation
+    - how is corporation explained in christianity?
+    - what jesus spoke about corporation
+    - what christianity says on corporation
+    - christianity on corporation
+    - jesus on corporation
+    - corporation in bible
+    - corporation as explained by bible
+    - corporation as said by jesus
+
+- intent: mercy_intent
+  examples: |
+    - what does the bible say about mercy
+    - what does the bible have to say onmercy
+    - what does the bible say on mercy
+    - bible on mercy
+    - what does christianity say about mercy
+    - what does christianity have to say on mercy
+    - how is explained in the bible?mercy
+    - what jesus said about mercy
+    - how is mercy explained in christianity?
+    - what jesus spoke about mercy
+    - what christianity says on mercy
+    - christianity on mercy
+    - jesus on mercy
+    - mercy in bible
+    - mercy as explained by bible
+    - mercy as said by jesus
+
+- intent: sardis_intent
+  examples: |
+    - what does the bible say about sardis
+    - what does the bible have to say onsardis
+    - what does the bible say on sardis
+    - bible on sardis
+    - what does christianity say about sardis
+    - what does christianity have to say on sardis
+    - how is explained in the bible?sardis
+    - what jesus said about sardis
+    - how is sardis explained in christianity?
+    - what jesus spoke about sardis
+    - what christianity says on sardis
+    - christianity on sardis
+    - jesus on sardis
+    - sardis in bible
+    - sardis as explained by bible
+    - sardis as said by jesus
+
+- intent: watch_intent
+  examples: |
+    - what does the bible say about watch
+    - what does the bible have to say onwatch
+    - what does the bible say on watch
+    - bible on watch
+    - what does christianity say about watch
+    - what does christianity have to say on watch
+    - how is explained in the bible?watch
+    - what jesus said about watch
+    - how is watch explained in christianity?
+    - what jesus spoke about watch
+    - what christianity says on watch
+    - christianity on watch
+    - jesus on watch
+    - watch in bible
+    - watch as explained by bible
+    - watch as said by jesus
+
+- intent: categories_intent
+  examples: |
+    - what does the bible say about categories
+    - what does the bible have to say oncategories
+    - what does the bible say on categories
+    - bible on categories
+    - what does christianity say about categories
+    - what does christianity have to say on categories
+    - how is explained in the bible?categories
+    - what jesus said about categories
+    - how is categories explained in christianity?
+    - what jesus spoke about categories
+    - what christianity says on categories
+    - christianity on categories
+    - jesus on categories
+    - categories in bible
+    - categories as explained by bible
+    - categories as said by jesus
+
+- intent: seek_intent
+  examples: |
+    - what does the bible say about seek
+    - what does the bible have to say onseek
+    - what does the bible say on seek
+    - bible on seek
+    - what does christianity say about seek
+    - what does christianity have to say on seek
+    - how is explained in the bible?seek
+    - what jesus said about seek
+    - how is seek explained in christianity?
+    - what jesus spoke about seek
+    - what christianity says on seek
+    - christianity on seek
+    - jesus on seek
+    - seek in bible
+    - seek as explained by bible
+    - seek as said by jesus
+
+- intent: see_intent
+  examples: |
+    - what does the bible say about see
+    - what does the bible have to say onsee
+    - what does the bible say on see
+    - bible on see
+    - what does christianity say about see
+    - what does christianity have to say on see
+    - how is explained in the bible?see
+    - what jesus said about see
+    - how is see explained in christianity?
+    - what jesus spoke about see
+    - what christianity says on see
+    - christianity on see
+    - jesus on see
+    - see in bible
+    - see as explained by bible
+    - see as said by jesus
+
+- intent: hardness_intent
+  examples: |
+    - what does the bible say about hardness
+    - what does the bible have to say onhardness
+    - what does the bible say on hardness
+    - bible on hardness
+    - what does christianity say about hardness
+    - what does christianity have to say on hardness
+    - how is explained in the bible?hardness
+    - what jesus said about hardness
+    - how is hardness explained in christianity?
+    - what jesus spoke about hardness
+    - what christianity says on hardness
+    - christianity on hardness
+    - jesus on hardness
+    - hardness in bible
+    - hardness as explained by bible
+    - hardness as said by jesus
+
+- intent: faithfulness_intent
+  examples: |
+    - what does the bible say about faithfulness
+    - what does the bible have to say onfaithfulness
+    - what does the bible say on faithfulness
+    - bible on faithfulness
+    - what does christianity say about faithfulness
+    - what does christianity have to say on faithfulness
+    - how is explained in the bible?faithfulness
+    - what jesus said about faithfulness
+    - how is faithfulness explained in christianity?
+    - what jesus spoke about faithfulness
+    - what christianity says on faithfulness
+    - christianity on faithfulness
+    - jesus on faithfulness
+    - faithfulness in bible
+    - faithfulness as explained by bible
+    - faithfulness as said by jesus
+
+- intent: resurrection_intent
+  examples: |
+    - what does the bible say about resurrection
+    - what does the bible have to say onresurrection
+    - what does the bible say on resurrection
+    - bible on resurrection
+    - what does christianity say about resurrection
+    - what does christianity have to say on resurrection
+    - how is explained in the bible?resurrection
+    - what jesus said about resurrection
+    - how is resurrection explained in christianity?
+    - what jesus spoke about resurrection
+    - what christianity says on resurrection
+    - christianity on resurrection
+    - jesus on resurrection
+    - resurrection in bible
+    - resurrection as explained by bible
+    - resurrection as said by jesus
+
+- intent: visibility_intent
+  examples: |
+    - what does the bible say about visibility
+    - what does the bible have to say onvisibility
+    - what does the bible say on visibility
+    - bible on visibility
+    - what does christianity say about visibility
+    - what does christianity have to say on visibility
+    - how is explained in the bible?visibility
+    - what jesus said about visibility
+    - how is visibility explained in christianity?
+    - what jesus spoke about visibility
+    - what christianity says on visibility
+    - christianity on visibility
+    - jesus on visibility
+    - visibility in bible
+    - visibility as explained by bible
+    - visibility as said by jesus
+
+- intent: beasts_intent
+  examples: |
+    - what does the bible say about beasts
+    - what does the bible have to say onbeasts
+    - what does the bible say on beasts
+    - bible on beasts
+    - what does christianity say about beasts
+    - what does christianity have to say on beasts
+    - how is explained in the bible?beasts
+    - what jesus said about beasts
+    - how is beasts explained in christianity?
+    - what jesus spoke about beasts
+    - what christianity says on beasts
+    - christianity on beasts
+    - jesus on beasts
+    - beasts in bible
+    - beasts as explained by bible
+    - beasts as said by jesus
+
+- intent: speaker_intent
+  examples: |
+    - what does the bible say about speaker
+    - what does the bible have to say onspeaker
+    - what does the bible say on speaker
+    - bible on speaker
+    - what does christianity say about speaker
+    - what does christianity have to say on speaker
+    - how is explained in the bible?speaker
+    - what jesus said about speaker
+    - how is speaker explained in christianity?
+    - what jesus spoke about speaker
+    - what christianity says on speaker
+    - christianity on speaker
+    - jesus on speaker
+    - speaker in bible
+    - speaker as explained by bible
+    - speaker as said by jesus
+
+- intent: esau_intent
+  examples: |
+    - what does the bible say about esau
+    - what does the bible have to say onesau
+    - what does the bible say on esau
+    - bible on esau
+    - what does christianity say about esau
+    - what does christianity have to say on esau
+    - how is explained in the bible?esau
+    - what jesus said about esau
+    - how is esau explained in christianity?
+    - what jesus spoke about esau
+    - what christianity says on esau
+    - christianity on esau
+    - jesus on esau
+    - esau in bible
+    - esau as explained by bible
+    - esau as said by jesus
+
+- intent: ankle_intent
+  examples: |
+    - what does the bible say about ankle
+    - what does the bible have to say onankle
+    - what does the bible say on ankle
+    - bible on ankle
+    - what does christianity say about ankle
+    - what does christianity have to say on ankle
+    - how is explained in the bible?ankle
+    - what jesus said about ankle
+    - how is ankle explained in christianity?
+    - what jesus spoke about ankle
+    - what christianity says on ankle
+    - christianity on ankle
+    - jesus on ankle
+    - ankle in bible
+    - ankle as explained by bible
+    - ankle as said by jesus
+
+- intent: theologians_intent
+  examples: |
+    - what does the bible say about theologians
+    - what does the bible have to say ontheologians
+    - what does the bible say on theologians
+    - bible on theologians
+    - what does christianity say about theologians
+    - what does christianity have to say on theologians
+    - how is explained in the bible?theologians
+    - what jesus said about theologians
+    - how is theologians explained in christianity?
+    - what jesus spoke about theologians
+    - what christianity says on theologians
+    - christianity on theologians
+    - jesus on theologians
+    - theologians in bible
+    - theologians as explained by bible
+    - theologians as said by jesus
+
+- intent: theory_intent
+  examples: |
+    - what does the bible say about theory
+    - what does the bible have to say ontheory
+    - what does the bible say on theory
+    - bible on theory
+    - what does christianity say about theory
+    - what does christianity have to say on theory
+    - how is explained in the bible?theory
+    - what jesus said about theory
+    - how is theory explained in christianity?
+    - what jesus spoke about theory
+    - what christianity says on theory
+    - christianity on theory
+    - jesus on theory
+    - theory in bible
+    - theory as explained by bible
+    - theory as said by jesus
+
+- intent: excel_intent
+  examples: |
+    - what does the bible say about excel
+    - what does the bible have to say onexcel
+    - what does the bible say on excel
+    - bible on excel
+    - what does christianity say about excel
+    - what does christianity have to say on excel
+    - how is explained in the bible?excel
+    - what jesus said about excel
+    - how is excel explained in christianity?
+    - what jesus spoke about excel
+    - what christianity says on excel
+    - christianity on excel
+    - jesus on excel
+    - excel in bible
+    - excel as explained by bible
+    - excel as said by jesus
+
+- intent: noon_intent
+  examples: |
+    - what does the bible say about noon
+    - what does the bible have to say onnoon
+    - what does the bible say on noon
+    - bible on noon
+    - what does christianity say about noon
+    - what does christianity have to say on noon
+    - how is explained in the bible?noon
+    - what jesus said about noon
+    - how is noon explained in christianity?
+    - what jesus spoke about noon
+    - what christianity says on noon
+    - christianity on noon
+    - jesus on noon
+    - noon in bible
+    - noon as explained by bible
+    - noon as said by jesus
+
+- intent: conflict_intent
+  examples: |
+    - what does the bible say about conflict
+    - what does the bible have to say onconflict
+    - what does the bible say on conflict
+    - bible on conflict
+    - what does christianity say about conflict
+    - what does christianity have to say on conflict
+    - how is explained in the bible?conflict
+    - what jesus said about conflict
+    - how is conflict explained in christianity?
+    - what jesus spoke about conflict
+    - what christianity says on conflict
+    - christianity on conflict
+    - jesus on conflict
+    - conflict in bible
+    - conflict as explained by bible
+    - conflict as said by jesus
+
+- intent: prey_intent
+  examples: |
+    - what does the bible say about prey
+    - what does the bible have to say onprey
+    - what does the bible say on prey
+    - bible on prey
+    - what does christianity say about prey
+    - what does christianity have to say on prey
+    - how is explained in the bible?prey
+    - what jesus said about prey
+    - how is prey explained in christianity?
+    - what jesus spoke about prey
+    - what christianity says on prey
+    - christianity on prey
+    - jesus on prey
+    - prey in bible
+    - prey as explained by bible
+    - prey as said by jesus
+
+- intent: hardships_intent
+  examples: |
+    - what does the bible say about hardships
+    - what does the bible have to say onhardships
+    - what does the bible say on hardships
+    - bible on hardships
+    - what does christianity say about hardships
+    - what does christianity have to say on hardships
+    - how is explained in the bible?hardships
+    - what jesus said about hardships
+    - how is hardships explained in christianity?
+    - what jesus spoke about hardships
+    - what christianity says on hardships
+    - christianity on hardships
+    - jesus on hardships
+    - hardships in bible
+    - hardships as explained by bible
+    - hardships as said by jesus
+
+- intent: gods_intent
+  examples: |
+    - what does the bible say about gods
+    - what does the bible have to say ongods
+    - what does the bible say on gods
+    - bible on gods
+    - what does christianity say about gods
+    - what does christianity have to say on gods
+    - how is explained in the bible?gods
+    - what jesus said about gods
+    - how is gods explained in christianity?
+    - what jesus spoke about gods
+    - what christianity says on gods
+    - christianity on gods
+    - jesus on gods
+    - gods in bible
+    - gods as explained by bible
+    - gods as said by jesus
+
+- intent: wineskin_intent
+  examples: |
+    - what does the bible say about wineskin
+    - what does the bible have to say onwineskin
+    - what does the bible say on wineskin
+    - bible on wineskin
+    - what does christianity say about wineskin
+    - what does christianity have to say on wineskin
+    - how is explained in the bible?wineskin
+    - what jesus said about wineskin
+    - how is wineskin explained in christianity?
+    - what jesus spoke about wineskin
+    - what christianity says on wineskin
+    - christianity on wineskin
+    - jesus on wineskin
+    - wineskin in bible
+    - wineskin as explained by bible
+    - wineskin as said by jesus
+
+- intent: meek_intent
+  examples: |
+    - what does the bible say about meek
+    - what does the bible have to say onmeek
+    - what does the bible say on meek
+    - bible on meek
+    - what does christianity say about meek
+    - what does christianity have to say on meek
+    - how is explained in the bible?meek
+    - what jesus said about meek
+    - how is meek explained in christianity?
+    - what jesus spoke about meek
+    - what christianity says on meek
+    - christianity on meek
+    - jesus on meek
+    - meek in bible
+    - meek as explained by bible
+    - meek as said by jesus
+
+- intent: infection_intent
+  examples: |
+    - what does the bible say about infection
+    - what does the bible have to say oninfection
+    - what does the bible say on infection
+    - bible on infection
+    - what does christianity say about infection
+    - what does christianity have to say on infection
+    - how is explained in the bible?infection
+    - what jesus said about infection
+    - how is infection explained in christianity?
+    - what jesus spoke about infection
+    - what christianity says on infection
+    - christianity on infection
+    - jesus on infection
+    - infection in bible
+    - infection as explained by bible
+    - infection as said by jesus
+
+- intent: gita_intent
+  examples: |
+    - what does the bible say about gita
+    - what does the bible have to say ongita
+    - what does the bible say on gita
+    - bible on gita
+    - what does christianity say about gita
+    - what does christianity have to say on gita
+    - how is explained in the bible?gita
+    - what jesus said about gita
+    - how is gita explained in christianity?
+    - what jesus spoke about gita
+    - what christianity says on gita
+    - christianity on gita
+    - jesus on gita
+    - gita in bible
+    - gita as explained by bible
+    - gita as said by jesus
+
+- intent: midst_intent
+  examples: |
+    - what does the bible say about midst
+    - what does the bible have to say onmidst
+    - what does the bible say on midst
+    - bible on midst
+    - what does christianity say about midst
+    - what does christianity have to say on midst
+    - how is explained in the bible?midst
+    - what jesus said about midst
+    - how is midst explained in christianity?
+    - what jesus spoke about midst
+    - what christianity says on midst
+    - christianity on midst
+    - jesus on midst
+    - midst in bible
+    - midst as explained by bible
+    - midst as said by jesus
+
+- intent: cor_intent
+  examples: |
+    - what does the bible say about cor
+    - what does the bible have to say oncor
+    - what does the bible say on cor
+    - bible on cor
+    - what does christianity say about cor
+    - what does christianity have to say on cor
+    - how is explained in the bible?cor
+    - what jesus said about cor
+    - how is cor explained in christianity?
+    - what jesus spoke about cor
+    - what christianity says on cor
+    - christianity on cor
+    - jesus on cor
+    - cor in bible
+    - cor as explained by bible
+    - cor as said by jesus
+
+- intent: pattern_intent
+  examples: |
+    - what does the bible say about pattern
+    - what does the bible have to say onpattern
+    - what does the bible say on pattern
+    - bible on pattern
+    - what does christianity say about pattern
+    - what does christianity have to say on pattern
+    - how is explained in the bible?pattern
+    - what jesus said about pattern
+    - how is pattern explained in christianity?
+    - what jesus spoke about pattern
+    - what christianity says on pattern
+    - christianity on pattern
+    - jesus on pattern
+    - pattern in bible
+    - pattern as explained by bible
+    - pattern as said by jesus
+
+- intent: aright_intent
+  examples: |
+    - what does the bible say about aright
+    - what does the bible have to say onaright
+    - what does the bible say on aright
+    - bible on aright
+    - what does christianity say about aright
+    - what does christianity have to say on aright
+    - how is explained in the bible?aright
+    - what jesus said about aright
+    - how is aright explained in christianity?
+    - what jesus spoke about aright
+    - what christianity says on aright
+    - christianity on aright
+    - jesus on aright
+    - aright in bible
+    - aright as explained by bible
+    - aright as said by jesus
+
+- intent: st_intent
+  examples: |
+    - what does the bible say about st
+    - what does the bible have to say onst
+    - what does the bible say on st
+    - bible on st
+    - what does christianity say about st
+    - what does christianity have to say on st
+    - how is explained in the bible?st
+    - what jesus said about st
+    - how is st explained in christianity?
+    - what jesus spoke about st
+    - what christianity says on st
+    - christianity on st
+    - jesus on st
+    - st in bible
+    - st as explained by bible
+    - st as said by jesus
+
+- intent: daily_intent
+  examples: |
+    - what does the bible say about daily
+    - what does the bible have to say ondaily
+    - what does the bible say on daily
+    - bible on daily
+    - what does christianity say about daily
+    - what does christianity have to say on daily
+    - how is explained in the bible?daily
+    - what jesus said about daily
+    - how is daily explained in christianity?
+    - what jesus spoke about daily
+    - what christianity says on daily
+    - christianity on daily
+    - jesus on daily
+    - daily in bible
+    - daily as explained by bible
+    - daily as said by jesus
+
+- intent: deadness_intent
+  examples: |
+    - what does the bible say about deadness
+    - what does the bible have to say ondeadness
+    - what does the bible say on deadness
+    - bible on deadness
+    - what does christianity say about deadness
+    - what does christianity have to say on deadness
+    - how is explained in the bible?deadness
+    - what jesus said about deadness
+    - how is deadness explained in christianity?
+    - what jesus spoke about deadness
+    - what christianity says on deadness
+    - christianity on deadness
+    - jesus on deadness
+    - deadness in bible
+    - deadness as explained by bible
+    - deadness as said by jesus
+
+- intent: ambassador_intent
+  examples: |
+    - what does the bible say about ambassador
+    - what does the bible have to say onambassador
+    - what does the bible say on ambassador
+    - bible on ambassador
+    - what does christianity say about ambassador
+    - what does christianity have to say on ambassador
+    - how is explained in the bible?ambassador
+    - what jesus said about ambassador
+    - how is ambassador explained in christianity?
+    - what jesus spoke about ambassador
+    - what christianity says on ambassador
+    - christianity on ambassador
+    - jesus on ambassador
+    - ambassador in bible
+    - ambassador as explained by bible
+    - ambassador as said by jesus
+
+- intent: wallet_intent
+  examples: |
+    - what does the bible say about wallet
+    - what does the bible have to say onwallet
+    - what does the bible say on wallet
+    - bible on wallet
+    - what does christianity say about wallet
+    - what does christianity have to say on wallet
+    - how is explained in the bible?wallet
+    - what jesus said about wallet
+    - how is wallet explained in christianity?
+    - what jesus spoke about wallet
+    - what christianity says on wallet
+    - christianity on wallet
+    - jesus on wallet
+    - wallet in bible
+    - wallet as explained by bible
+    - wallet as said by jesus
+
+- intent: possessor_intent
+  examples: |
+    - what does the bible say about possessor
+    - what does the bible have to say onpossessor
+    - what does the bible say on possessor
+    - bible on possessor
+    - what does christianity say about possessor
+    - what does christianity have to say on possessor
+    - how is explained in the bible?possessor
+    - what jesus said about possessor
+    - how is possessor explained in christianity?
+    - what jesus spoke about possessor
+    - what christianity says on possessor
+    - christianity on possessor
+    - jesus on possessor
+    - possessor in bible
+    - possessor as explained by bible
+    - possessor as said by jesus
+
+- intent: bullock_intent
+  examples: |
+    - what does the bible say about bullock
+    - what does the bible have to say onbullock
+    - what does the bible say on bullock
+    - bible on bullock
+    - what does christianity say about bullock
+    - what does christianity have to say on bullock
+    - how is explained in the bible?bullock
+    - what jesus said about bullock
+    - how is bullock explained in christianity?
+    - what jesus spoke about bullock
+    - what christianity says on bullock
+    - christianity on bullock
+    - jesus on bullock
+    - bullock in bible
+    - bullock as explained by bible
+    - bullock as said by jesus
+
+- intent: appetites_intent
+  examples: |
+    - what does the bible say about appetites
+    - what does the bible have to say onappetites
+    - what does the bible say on appetites
+    - bible on appetites
+    - what does christianity say about appetites
+    - what does christianity have to say on appetites
+    - how is explained in the bible?appetites
+    - what jesus said about appetites
+    - how is appetites explained in christianity?
+    - what jesus spoke about appetites
+    - what christianity says on appetites
+    - christianity on appetites
+    - jesus on appetites
+    - appetites in bible
+    - appetites as explained by bible
+    - appetites as said by jesus
+
+- intent: overcome_intent
+  examples: |
+    - what does the bible say about overcome
+    - what does the bible have to say onovercome
+    - what does the bible say on overcome
+    - bible on overcome
+    - what does christianity say about overcome
+    - what does christianity have to say on overcome
+    - how is explained in the bible?overcome
+    - what jesus said about overcome
+    - how is overcome explained in christianity?
+    - what jesus spoke about overcome
+    - what christianity says on overcome
+    - christianity on overcome
+    - jesus on overcome
+    - overcome in bible
+    - overcome as explained by bible
+    - overcome as said by jesus
+
+- intent: daddy_intent
+  examples: |
+    - what does the bible say about daddy
+    - what does the bible have to say ondaddy
+    - what does the bible say on daddy
+    - bible on daddy
+    - what does christianity say about daddy
+    - what does christianity have to say on daddy
+    - how is explained in the bible?daddy
+    - what jesus said about daddy
+    - how is daddy explained in christianity?
+    - what jesus spoke about daddy
+    - what christianity says on daddy
+    - christianity on daddy
+    - jesus on daddy
+    - daddy in bible
+    - daddy as explained by bible
+    - daddy as said by jesus
+
+- intent: others_intent
+  examples: |
+    - what does the bible say about others
+    - what does the bible have to say onothers
+    - what does the bible say on others
+    - bible on others
+    - what does christianity say about others
+    - what does christianity have to say on others
+    - how is explained in the bible?others
+    - what jesus said about others
+    - how is others explained in christianity?
+    - what jesus spoke about others
+    - what christianity says on others
+    - christianity on others
+    - jesus on others
+    - others in bible
+    - others as explained by bible
+    - others as said by jesus
+
+- intent: languages_intent
+  examples: |
+    - what does the bible say about languages
+    - what does the bible have to say onlanguages
+    - what does the bible say on languages
+    - bible on languages
+    - what does christianity say about languages
+    - what does christianity have to say on languages
+    - how is explained in the bible?languages
+    - what jesus said about languages
+    - how is languages explained in christianity?
+    - what jesus spoke about languages
+    - what christianity says on languages
+    - christianity on languages
+    - jesus on languages
+    - languages in bible
+    - languages as explained by bible
+    - languages as said by jesus
+
+- intent: test_intent
+  examples: |
+    - what does the bible say about test
+    - what does the bible have to say ontest
+    - what does the bible say on test
+    - bible on test
+    - what does christianity say about test
+    - what does christianity have to say on test
+    - how is explained in the bible?test
+    - what jesus said about test
+    - how is test explained in christianity?
+    - what jesus spoke about test
+    - what christianity says on test
+    - christianity on test
+    - jesus on test
+    - test in bible
+    - test as explained by bible
+    - test as said by jesus
+
+- intent: drunkenness_intent
+  examples: |
+    - what does the bible say about drunkenness
+    - what does the bible have to say ondrunkenness
+    - what does the bible say on drunkenness
+    - bible on drunkenness
+    - what does christianity say about drunkenness
+    - what does christianity have to say on drunkenness
+    - how is explained in the bible?drunkenness
+    - what jesus said about drunkenness
+    - how is drunkenness explained in christianity?
+    - what jesus spoke about drunkenness
+    - what christianity says on drunkenness
+    - christianity on drunkenness
+    - jesus on drunkenness
+    - drunkenness in bible
+    - drunkenness as explained by bible
+    - drunkenness as said by jesus
+
+- intent: extent_intent
+  examples: |
+    - what does the bible say about extent
+    - what does the bible have to say onextent
+    - what does the bible say on extent
+    - bible on extent
+    - what does christianity say about extent
+    - what does christianity have to say on extent
+    - how is explained in the bible?extent
+    - what jesus said about extent
+    - how is extent explained in christianity?
+    - what jesus spoke about extent
+    - what christianity says on extent
+    - christianity on extent
+    - jesus on extent
+    - extent in bible
+    - extent as explained by bible
+    - extent as said by jesus
+
+- intent: salary_intent
+  examples: |
+    - what does the bible say about salary
+    - what does the bible have to say onsalary
+    - what does the bible say on salary
+    - bible on salary
+    - what does christianity say about salary
+    - what does christianity have to say on salary
+    - how is explained in the bible?salary
+    - what jesus said about salary
+    - how is salary explained in christianity?
+    - what jesus spoke about salary
+    - what christianity says on salary
+    - christianity on salary
+    - jesus on salary
+    - salary in bible
+    - salary as explained by bible
+    - salary as said by jesus
+
+- intent: mountains_intent
+  examples: |
+    - what does the bible say about mountains
+    - what does the bible have to say onmountains
+    - what does the bible say on mountains
+    - bible on mountains
+    - what does christianity say about mountains
+    - what does christianity have to say on mountains
+    - how is explained in the bible?mountains
+    - what jesus said about mountains
+    - how is mountains explained in christianity?
+    - what jesus spoke about mountains
+    - what christianity says on mountains
+    - christianity on mountains
+    - jesus on mountains
+    - mountains in bible
+    - mountains as explained by bible
+    - mountains as said by jesus
+
+- intent: judas_intent
+  examples: |
+    - what does the bible say about judas
+    - what does the bible have to say onjudas
+    - what does the bible say on judas
+    - bible on judas
+    - what does christianity say about judas
+    - what does christianity have to say on judas
+    - how is explained in the bible?judas
+    - what jesus said about judas
+    - how is judas explained in christianity?
+    - what jesus spoke about judas
+    - what christianity says on judas
+    - christianity on judas
+    - jesus on judas
+    - judas in bible
+    - judas as explained by bible
+    - judas as said by jesus
+
+- intent: regret_intent
+  examples: |
+    - what does the bible say about regret
+    - what does the bible have to say onregret
+    - what does the bible say on regret
+    - bible on regret
+    - what does christianity say about regret
+    - what does christianity have to say on regret
+    - how is explained in the bible?regret
+    - what jesus said about regret
+    - how is regret explained in christianity?
+    - what jesus spoke about regret
+    - what christianity says on regret
+    - christianity on regret
+    - jesus on regret
+    - regret in bible
+    - regret as explained by bible
+    - regret as said by jesus
+
+- intent: well_intent
+  examples: |
+    - what does the bible say about well
+    - what does the bible have to say onwell
+    - what does the bible say on well
+    - bible on well
+    - what does christianity say about well
+    - what does christianity have to say on well
+    - how is explained in the bible?well
+    - what jesus said about well
+    - how is well explained in christianity?
+    - what jesus spoke about well
+    - what christianity says on well
+    - christianity on well
+    - jesus on well
+    - well in bible
+    - well as explained by bible
+    - well as said by jesus
+
+- intent: catholic_intent
+  examples: |
+    - what does the bible say about catholic
+    - what does the bible have to say oncatholic
+    - what does the bible say on catholic
+    - bible on catholic
+    - what does christianity say about catholic
+    - what does christianity have to say on catholic
+    - how is explained in the bible?catholic
+    - what jesus said about catholic
+    - how is catholic explained in christianity?
+    - what jesus spoke about catholic
+    - what christianity says on catholic
+    - christianity on catholic
+    - jesus on catholic
+    - catholic in bible
+    - catholic as explained by bible
+    - catholic as said by jesus
+
+- intent: scent_intent
+  examples: |
+    - what does the bible say about scent
+    - what does the bible have to say onscent
+    - what does the bible say on scent
+    - bible on scent
+    - what does christianity say about scent
+    - what does christianity have to say on scent
+    - how is explained in the bible?scent
+    - what jesus said about scent
+    - how is scent explained in christianity?
+    - what jesus spoke about scent
+    - what christianity says on scent
+    - christianity on scent
+    - jesus on scent
+    - scent in bible
+    - scent as explained by bible
+    - scent as said by jesus
+
+- intent: tyrants_intent
+  examples: |
+    - what does the bible say about tyrants
+    - what does the bible have to say ontyrants
+    - what does the bible say on tyrants
+    - bible on tyrants
+    - what does christianity say about tyrants
+    - what does christianity have to say on tyrants
+    - how is explained in the bible?tyrants
+    - what jesus said about tyrants
+    - how is tyrants explained in christianity?
+    - what jesus spoke about tyrants
+    - what christianity says on tyrants
+    - christianity on tyrants
+    - jesus on tyrants
+    - tyrants in bible
+    - tyrants as explained by bible
+    - tyrants as said by jesus
+
+- intent: card_intent
+  examples: |
+    - what does the bible say about card
+    - what does the bible have to say oncard
+    - what does the bible say on card
+    - bible on card
+    - what does christianity say about card
+    - what does christianity have to say on card
+    - how is explained in the bible?card
+    - what jesus said about card
+    - how is card explained in christianity?
+    - what jesus spoke about card
+    - what christianity says on card
+    - christianity on card
+    - jesus on card
+    - card in bible
+    - card as explained by bible
+    - card as said by jesus
+
+- intent: fortunes_intent
+  examples: |
+    - what does the bible say about fortunes
+    - what does the bible have to say onfortunes
+    - what does the bible say on fortunes
+    - bible on fortunes
+    - what does christianity say about fortunes
+    - what does christianity have to say on fortunes
+    - how is explained in the bible?fortunes
+    - what jesus said about fortunes
+    - how is fortunes explained in christianity?
+    - what jesus spoke about fortunes
+    - what christianity says on fortunes
+    - christianity on fortunes
+    - jesus on fortunes
+    - fortunes in bible
+    - fortunes as explained by bible
+    - fortunes as said by jesus
+
+- intent: surprise_intent
+  examples: |
+    - what does the bible say about surprise
+    - what does the bible have to say onsurprise
+    - what does the bible say on surprise
+    - bible on surprise
+    - what does christianity say about surprise
+    - what does christianity have to say on surprise
+    - how is explained in the bible?surprise
+    - what jesus said about surprise
+    - how is surprise explained in christianity?
+    - what jesus spoke about surprise
+    - what christianity says on surprise
+    - christianity on surprise
+    - jesus on surprise
+    - surprise in bible
+    - surprise as explained by bible
+    - surprise as said by jesus
+
+- intent: prophet_intent
+  examples: |
+    - what does the bible say about prophet
+    - what does the bible have to say onprophet
+    - what does the bible say on prophet
+    - bible on prophet
+    - what does christianity say about prophet
+    - what does christianity have to say on prophet
+    - how is explained in the bible?prophet
+    - what jesus said about prophet
+    - how is prophet explained in christianity?
+    - what jesus spoke about prophet
+    - what christianity says on prophet
+    - christianity on prophet
+    - jesus on prophet
+    - prophet in bible
+    - prophet as explained by bible
+    - prophet as said by jesus
+
+- intent: worldly_intent
+  examples: |
+    - what does the bible say about worldly
+    - what does the bible have to say onworldly
+    - what does the bible say on worldly
+    - bible on worldly
+    - what does christianity say about worldly
+    - what does christianity have to say on worldly
+    - how is explained in the bible?worldly
+    - what jesus said about worldly
+    - how is worldly explained in christianity?
+    - what jesus spoke about worldly
+    - what christianity says on worldly
+    - christianity on worldly
+    - jesus on worldly
+    - worldly in bible
+    - worldly as explained by bible
+    - worldly as said by jesus
+
+- intent: powerlessness_intent
+  examples: |
+    - what does the bible say about powerlessness
+    - what does the bible have to say onpowerlessness
+    - what does the bible say on powerlessness
+    - bible on powerlessness
+    - what does christianity say about powerlessness
+    - what does christianity have to say on powerlessness
+    - how is explained in the bible?powerlessness
+    - what jesus said about powerlessness
+    - how is powerlessness explained in christianity?
+    - what jesus spoke about powerlessness
+    - what christianity says on powerlessness
+    - christianity on powerlessness
+    - jesus on powerlessness
+    - powerlessness in bible
+    - powerlessness as explained by bible
+    - powerlessness as said by jesus
+
+- intent: jubilee_intent
+  examples: |
+    - what does the bible say about jubilee
+    - what does the bible have to say onjubilee
+    - what does the bible say on jubilee
+    - bible on jubilee
+    - what does christianity say about jubilee
+    - what does christianity have to say on jubilee
+    - how is explained in the bible?jubilee
+    - what jesus said about jubilee
+    - how is jubilee explained in christianity?
+    - what jesus spoke about jubilee
+    - what christianity says on jubilee
+    - christianity on jubilee
+    - jesus on jubilee
+    - jubilee in bible
+    - jubilee as explained by bible
+    - jubilee as said by jesus
+
+- intent: authorities_intent
+  examples: |
+    - what does the bible say about authorities
+    - what does the bible have to say onauthorities
+    - what does the bible say on authorities
+    - bible on authorities
+    - what does christianity say about authorities
+    - what does christianity have to say on authorities
+    - how is explained in the bible?authorities
+    - what jesus said about authorities
+    - how is authorities explained in christianity?
+    - what jesus spoke about authorities
+    - what christianity says on authorities
+    - christianity on authorities
+    - jesus on authorities
+    - authorities in bible
+    - authorities as explained by bible
+    - authorities as said by jesus
+
+- intent: confusion_intent
+  examples: |
+    - what does the bible say about confusion
+    - what does the bible have to say onconfusion
+    - what does the bible say on confusion
+    - bible on confusion
+    - what does christianity say about confusion
+    - what does christianity have to say on confusion
+    - how is explained in the bible?confusion
+    - what jesus said about confusion
+    - how is confusion explained in christianity?
+    - what jesus spoke about confusion
+    - what christianity says on confusion
+    - christianity on confusion
+    - jesus on confusion
+    - confusion in bible
+    - confusion as explained by bible
+    - confusion as said by jesus
+
+- intent: sea_intent
+  examples: |
+    - what does the bible say about sea
+    - what does the bible have to say onsea
+    - what does the bible say on sea
+    - bible on sea
+    - what does christianity say about sea
+    - what does christianity have to say on sea
+    - how is explained in the bible?sea
+    - what jesus said about sea
+    - how is sea explained in christianity?
+    - what jesus spoke about sea
+    - what christianity says on sea
+    - christianity on sea
+    - jesus on sea
+    - sea in bible
+    - sea as explained by bible
+    - sea as said by jesus
+
+- intent: doors_intent
+  examples: |
+    - what does the bible say about doors
+    - what does the bible have to say ondoors
+    - what does the bible say on doors
+    - bible on doors
+    - what does christianity say about doors
+    - what does christianity have to say on doors
+    - how is explained in the bible?doors
+    - what jesus said about doors
+    - how is doors explained in christianity?
+    - what jesus spoke about doors
+    - what christianity says on doors
+    - christianity on doors
+    - jesus on doors
+    - doors in bible
+    - doors as explained by bible
+    - doors as said by jesus
+
+- intent: department_intent
+  examples: |
+    - what does the bible say about department
+    - what does the bible have to say ondepartment
+    - what does the bible say on department
+    - bible on department
+    - what does christianity say about department
+    - what does christianity have to say on department
+    - how is explained in the bible?department
+    - what jesus said about department
+    - how is department explained in christianity?
+    - what jesus spoke about department
+    - what christianity says on department
+    - christianity on department
+    - jesus on department
+    - department in bible
+    - department as explained by bible
+    - department as said by jesus
+
+- intent: number_intent
+  examples: |
+    - what does the bible say about number
+    - what does the bible have to say onnumber
+    - what does the bible say on number
+    - bible on number
+    - what does christianity say about number
+    - what does christianity have to say on number
+    - how is explained in the bible?number
+    - what jesus said about number
+    - how is number explained in christianity?
+    - what jesus spoke about number
+    - what christianity says on number
+    - christianity on number
+    - jesus on number
+    - number in bible
+    - number as explained by bible
+    - number as said by jesus
+
+- intent: aladdin_intent
+  examples: |
+    - what does the bible say about aladdin
+    - what does the bible have to say onaladdin
+    - what does the bible say on aladdin
+    - bible on aladdin
+    - what does christianity say about aladdin
+    - what does christianity have to say on aladdin
+    - how is explained in the bible?aladdin
+    - what jesus said about aladdin
+    - how is aladdin explained in christianity?
+    - what jesus spoke about aladdin
+    - what christianity says on aladdin
+    - christianity on aladdin
+    - jesus on aladdin
+    - aladdin in bible
+    - aladdin as explained by bible
+    - aladdin as said by jesus
+
+- intent: multitudes_intent
+  examples: |
+    - what does the bible say about multitudes
+    - what does the bible have to say onmultitudes
+    - what does the bible say on multitudes
+    - bible on multitudes
+    - what does christianity say about multitudes
+    - what does christianity have to say on multitudes
+    - how is explained in the bible?multitudes
+    - what jesus said about multitudes
+    - how is multitudes explained in christianity?
+    - what jesus spoke about multitudes
+    - what christianity says on multitudes
+    - christianity on multitudes
+    - jesus on multitudes
+    - multitudes in bible
+    - multitudes as explained by bible
+    - multitudes as said by jesus
+
+- intent: front_intent
+  examples: |
+    - what does the bible say about front
+    - what does the bible have to say onfront
+    - what does the bible say on front
+    - bible on front
+    - what does christianity say about front
+    - what does christianity have to say on front
+    - how is explained in the bible?front
+    - what jesus said about front
+    - how is front explained in christianity?
+    - what jesus spoke about front
+    - what christianity says on front
+    - christianity on front
+    - jesus on front
+    - front in bible
+    - front as explained by bible
+    - front as said by jesus
+
+- intent: manufacturer_intent
+  examples: |
+    - what does the bible say about manufacturer
+    - what does the bible have to say onmanufacturer
+    - what does the bible say on manufacturer
+    - bible on manufacturer
+    - what does christianity say about manufacturer
+    - what does christianity have to say on manufacturer
+    - how is explained in the bible?manufacturer
+    - what jesus said about manufacturer
+    - how is manufacturer explained in christianity?
+    - what jesus spoke about manufacturer
+    - what christianity says on manufacturer
+    - christianity on manufacturer
+    - jesus on manufacturer
+    - manufacturer in bible
+    - manufacturer as explained by bible
+    - manufacturer as said by jesus
+
+- intent: yonder_intent
+  examples: |
+    - what does the bible say about yonder
+    - what does the bible have to say onyonder
+    - what does the bible say on yonder
+    - bible on yonder
+    - what does christianity say about yonder
+    - what does christianity have to say on yonder
+    - how is explained in the bible?yonder
+    - what jesus said about yonder
+    - how is yonder explained in christianity?
+    - what jesus spoke about yonder
+    - what christianity says on yonder
+    - christianity on yonder
+    - jesus on yonder
+    - yonder in bible
+    - yonder as explained by bible
+    - yonder as said by jesus
+
+- intent: credentials_intent
+  examples: |
+    - what does the bible say about credentials
+    - what does the bible have to say oncredentials
+    - what does the bible say on credentials
+    - bible on credentials
+    - what does christianity say about credentials
+    - what does christianity have to say on credentials
+    - how is explained in the bible?credentials
+    - what jesus said about credentials
+    - how is credentials explained in christianity?
+    - what jesus spoke about credentials
+    - what christianity says on credentials
+    - christianity on credentials
+    - jesus on credentials
+    - credentials in bible
+    - credentials as explained by bible
+    - credentials as said by jesus
+
+- intent: creature_intent
+  examples: |
+    - what does the bible say about creature
+    - what does the bible have to say oncreature
+    - what does the bible say on creature
+    - bible on creature
+    - what does christianity say about creature
+    - what does christianity have to say on creature
+    - how is explained in the bible?creature
+    - what jesus said about creature
+    - how is creature explained in christianity?
+    - what jesus spoke about creature
+    - what christianity says on creature
+    - christianity on creature
+    - jesus on creature
+    - creature in bible
+    - creature as explained by bible
+    - creature as said by jesus
+
+- intent: mosquitoes_intent
+  examples: |
+    - what does the bible say about mosquitoes
+    - what does the bible have to say onmosquitoes
+    - what does the bible say on mosquitoes
+    - bible on mosquitoes
+    - what does christianity say about mosquitoes
+    - what does christianity have to say on mosquitoes
+    - how is explained in the bible?mosquitoes
+    - what jesus said about mosquitoes
+    - how is mosquitoes explained in christianity?
+    - what jesus spoke about mosquitoes
+    - what christianity says on mosquitoes
+    - christianity on mosquitoes
+    - jesus on mosquitoes
+    - mosquitoes in bible
+    - mosquitoes as explained by bible
+    - mosquitoes as said by jesus
+
+- intent: lifter_intent
+  examples: |
+    - what does the bible say about lifter
+    - what does the bible have to say onlifter
+    - what does the bible say on lifter
+    - bible on lifter
+    - what does christianity say about lifter
+    - what does christianity have to say on lifter
+    - how is explained in the bible?lifter
+    - what jesus said about lifter
+    - how is lifter explained in christianity?
+    - what jesus spoke about lifter
+    - what christianity says on lifter
+    - christianity on lifter
+    - jesus on lifter
+    - lifter in bible
+    - lifter as explained by bible
+    - lifter as said by jesus
+
+- intent: defeat_intent
+  examples: |
+    - what does the bible say about defeat
+    - what does the bible have to say ondefeat
+    - what does the bible say on defeat
+    - bible on defeat
+    - what does christianity say about defeat
+    - what does christianity have to say on defeat
+    - how is explained in the bible?defeat
+    - what jesus said about defeat
+    - how is defeat explained in christianity?
+    - what jesus spoke about defeat
+    - what christianity says on defeat
+    - christianity on defeat
+    - jesus on defeat
+    - defeat in bible
+    - defeat as explained by bible
+    - defeat as said by jesus
+
+- intent: businessmen_intent
+  examples: |
+    - what does the bible say about businessmen
+    - what does the bible have to say onbusinessmen
+    - what does the bible say on businessmen
+    - bible on businessmen
+    - what does christianity say about businessmen
+    - what does christianity have to say on businessmen
+    - how is explained in the bible?businessmen
+    - what jesus said about businessmen
+    - how is businessmen explained in christianity?
+    - what jesus spoke about businessmen
+    - what christianity says on businessmen
+    - christianity on businessmen
+    - jesus on businessmen
+    - businessmen in bible
+    - businessmen as explained by bible
+    - businessmen as said by jesus
+
+- intent: believers_intent
+  examples: |
+    - what does the bible say about believers
+    - what does the bible have to say onbelievers
+    - what does the bible say on believers
+    - bible on believers
+    - what does christianity say about believers
+    - what does christianity have to say on believers
+    - how is explained in the bible?believers
+    - what jesus said about believers
+    - how is believers explained in christianity?
+    - what jesus spoke about believers
+    - what christianity says on believers
+    - christianity on believers
+    - jesus on believers
+    - believers in bible
+    - believers as explained by bible
+    - believers as said by jesus
+
+- intent: second_intent
+  examples: |
+    - what does the bible say about second
+    - what does the bible have to say onsecond
+    - what does the bible say on second
+    - bible on second
+    - what does christianity say about second
+    - what does christianity have to say on second
+    - how is explained in the bible?second
+    - what jesus said about second
+    - how is second explained in christianity?
+    - what jesus spoke about second
+    - what christianity says on second
+    - christianity on second
+    - jesus on second
+    - second in bible
+    - second as explained by bible
+    - second as said by jesus
+
+- intent: sceva_intent
+  examples: |
+    - what does the bible say about sceva
+    - what does the bible have to say onsceva
+    - what does the bible say on sceva
+    - bible on sceva
+    - what does christianity say about sceva
+    - what does christianity have to say on sceva
+    - how is explained in the bible?sceva
+    - what jesus said about sceva
+    - how is sceva explained in christianity?
+    - what jesus spoke about sceva
+    - what christianity says on sceva
+    - christianity on sceva
+    - jesus on sceva
+    - sceva in bible
+    - sceva as explained by bible
+    - sceva as said by jesus
+
+- intent: covenant_intent
+  examples: |
+    - what does the bible say about covenant
+    - what does the bible have to say oncovenant
+    - what does the bible say on covenant
+    - bible on covenant
+    - what does christianity say about covenant
+    - what does christianity have to say on covenant
+    - how is explained in the bible?covenant
+    - what jesus said about covenant
+    - how is covenant explained in christianity?
+    - what jesus spoke about covenant
+    - what christianity says on covenant
+    - christianity on covenant
+    - jesus on covenant
+    - covenant in bible
+    - covenant as explained by bible
+    - covenant as said by jesus
+
+- intent: battle_intent
+  examples: |
+    - what does the bible say about battle
+    - what does the bible have to say onbattle
+    - what does the bible say on battle
+    - bible on battle
+    - what does christianity say about battle
+    - what does christianity have to say on battle
+    - how is explained in the bible?battle
+    - what jesus said about battle
+    - how is battle explained in christianity?
+    - what jesus spoke about battle
+    - what christianity says on battle
+    - christianity on battle
+    - jesus on battle
+    - battle in bible
+    - battle as explained by bible
+    - battle as said by jesus
+
+- intent: failures_intent
+  examples: |
+    - what does the bible say about failures
+    - what does the bible have to say onfailures
+    - what does the bible say on failures
+    - bible on failures
+    - what does christianity say about failures
+    - what does christianity have to say on failures
+    - how is explained in the bible?failures
+    - what jesus said about failures
+    - how is failures explained in christianity?
+    - what jesus spoke about failures
+    - what christianity says on failures
+    - christianity on failures
+    - jesus on failures
+    - failures in bible
+    - failures as explained by bible
+    - failures as said by jesus
+
+- intent: cream_intent
+  examples: |
+    - what does the bible say about cream
+    - what does the bible have to say oncream
+    - what does the bible say on cream
+    - bible on cream
+    - what does christianity say about cream
+    - what does christianity have to say on cream
+    - how is explained in the bible?cream
+    - what jesus said about cream
+    - how is cream explained in christianity?
+    - what jesus spoke about cream
+    - what christianity says on cream
+    - christianity on cream
+    - jesus on cream
+    - cream in bible
+    - cream as explained by bible
+    - cream as said by jesus
+
+- intent: ministries_intent
+  examples: |
+    - what does the bible say about ministries
+    - what does the bible have to say onministries
+    - what does the bible say on ministries
+    - bible on ministries
+    - what does christianity say about ministries
+    - what does christianity have to say on ministries
+    - how is explained in the bible?ministries
+    - what jesus said about ministries
+    - how is ministries explained in christianity?
+    - what jesus spoke about ministries
+    - what christianity says on ministries
+    - christianity on ministries
+    - jesus on ministries
+    - ministries in bible
+    - ministries as explained by bible
+    - ministries as said by jesus
+
+- intent: song_intent
+  examples: |
+    - what does the bible say about song
+    - what does the bible have to say onsong
+    - what does the bible say on song
+    - bible on song
+    - what does christianity say about song
+    - what does christianity have to say on song
+    - how is explained in the bible?song
+    - what jesus said about song
+    - how is song explained in christianity?
+    - what jesus spoke about song
+    - what christianity says on song
+    - christianity on song
+    - jesus on song
+    - song in bible
+    - song as explained by bible
+    - song as said by jesus
+
+- intent: mangoes_intent
+  examples: |
+    - what does the bible say about mangoes
+    - what does the bible have to say onmangoes
+    - what does the bible say on mangoes
+    - bible on mangoes
+    - what does christianity say about mangoes
+    - what does christianity have to say on mangoes
+    - how is explained in the bible?mangoes
+    - what jesus said about mangoes
+    - how is mangoes explained in christianity?
+    - what jesus spoke about mangoes
+    - what christianity says on mangoes
+    - christianity on mangoes
+    - jesus on mangoes
+    - mangoes in bible
+    - mangoes as explained by bible
+    - mangoes as said by jesus
+
+- intent: womb_intent
+  examples: |
+    - what does the bible say about womb
+    - what does the bible have to say onwomb
+    - what does the bible say on womb
+    - bible on womb
+    - what does christianity say about womb
+    - what does christianity have to say on womb
+    - how is explained in the bible?womb
+    - what jesus said about womb
+    - how is womb explained in christianity?
+    - what jesus spoke about womb
+    - what christianity says on womb
+    - christianity on womb
+    - jesus on womb
+    - womb in bible
+    - womb as explained by bible
+    - womb as said by jesus
+
+- intent: lanes_intent
+  examples: |
+    - what does the bible say about lanes
+    - what does the bible have to say onlanes
+    - what does the bible say on lanes
+    - bible on lanes
+    - what does christianity say about lanes
+    - what does christianity have to say on lanes
+    - how is explained in the bible?lanes
+    - what jesus said about lanes
+    - how is lanes explained in christianity?
+    - what jesus spoke about lanes
+    - what christianity says on lanes
+    - christianity on lanes
+    - jesus on lanes
+    - lanes in bible
+    - lanes as explained by bible
+    - lanes as said by jesus
+
+- intent: bless_intent
+  examples: |
+    - what does the bible say about bless
+    - what does the bible have to say onbless
+    - what does the bible say on bless
+    - bible on bless
+    - what does christianity say about bless
+    - what does christianity have to say on bless
+    - how is explained in the bible?bless
+    - what jesus said about bless
+    - how is bless explained in christianity?
+    - what jesus spoke about bless
+    - what christianity says on bless
+    - christianity on bless
+    - jesus on bless
+    - bless in bible
+    - bless as explained by bible
+    - bless as said by jesus
+
+- intent: nasha_intent
+  examples: |
+    - what does the bible say about nasha
+    - what does the bible have to say onnasha
+    - what does the bible say on nasha
+    - bible on nasha
+    - what does christianity say about nasha
+    - what does christianity have to say on nasha
+    - how is explained in the bible?nasha
+    - what jesus said about nasha
+    - how is nasha explained in christianity?
+    - what jesus spoke about nasha
+    - what christianity says on nasha
+    - christianity on nasha
+    - jesus on nasha
+    - nasha in bible
+    - nasha as explained by bible
+    - nasha as said by jesus
+
+- intent: farewell_intent
+  examples: |
+    - what does the bible say about farewell
+    - what does the bible have to say onfarewell
+    - what does the bible say on farewell
+    - bible on farewell
+    - what does christianity say about farewell
+    - what does christianity have to say on farewell
+    - how is explained in the bible?farewell
+    - what jesus said about farewell
+    - how is farewell explained in christianity?
+    - what jesus spoke about farewell
+    - what christianity says on farewell
+    - christianity on farewell
+    - jesus on farewell
+    - farewell in bible
+    - farewell as explained by bible
+    - farewell as said by jesus
+
+- intent: egyptians_intent
+  examples: |
+    - what does the bible say about egyptians
+    - what does the bible have to say onegyptians
+    - what does the bible say on egyptians
+    - bible on egyptians
+    - what does christianity say about egyptians
+    - what does christianity have to say on egyptians
+    - how is explained in the bible?egyptians
+    - what jesus said about egyptians
+    - how is egyptians explained in christianity?
+    - what jesus spoke about egyptians
+    - what christianity says on egyptians
+    - christianity on egyptians
+    - jesus on egyptians
+    - egyptians in bible
+    - egyptians as explained by bible
+    - egyptians as said by jesus
+
+- intent: attachment_intent
+  examples: |
+    - what does the bible say about attachment
+    - what does the bible have to say onattachment
+    - what does the bible say on attachment
+    - bible on attachment
+    - what does christianity say about attachment
+    - what does christianity have to say on attachment
+    - how is explained in the bible?attachment
+    - what jesus said about attachment
+    - how is attachment explained in christianity?
+    - what jesus spoke about attachment
+    - what christianity says on attachment
+    - christianity on attachment
+    - jesus on attachment
+    - attachment in bible
+    - attachment as explained by bible
+    - attachment as said by jesus
+
+- intent: joy_intent
+  examples: |
+    - what does the bible say about joy
+    - what does the bible have to say onjoy
+    - what does the bible say on joy
+    - bible on joy
+    - what does christianity say about joy
+    - what does christianity have to say on joy
+    - how is explained in the bible?joy
+    - what jesus said about joy
+    - how is joy explained in christianity?
+    - what jesus spoke about joy
+    - what christianity says on joy
+    - christianity on joy
+    - jesus on joy
+    - joy in bible
+    - joy as explained by bible
+    - joy as said by jesus
+
+- intent: situation_intent
+  examples: |
+    - what does the bible say about situation
+    - what does the bible have to say onsituation
+    - what does the bible say on situation
+    - bible on situation
+    - what does christianity say about situation
+    - what does christianity have to say on situation
+    - how is explained in the bible?situation
+    - what jesus said about situation
+    - how is situation explained in christianity?
+    - what jesus spoke about situation
+    - what christianity says on situation
+    - christianity on situation
+    - jesus on situation
+    - situation in bible
+    - situation as explained by bible
+    - situation as said by jesus
+
+- intent: record_intent
+  examples: |
+    - what does the bible say about record
+    - what does the bible have to say onrecord
+    - what does the bible say on record
+    - bible on record
+    - what does christianity say about record
+    - what does christianity have to say on record
+    - how is explained in the bible?record
+    - what jesus said about record
+    - how is record explained in christianity?
+    - what jesus spoke about record
+    - what christianity says on record
+    - christianity on record
+    - jesus on record
+    - record in bible
+    - record as explained by bible
+    - record as said by jesus
+
+- intent: effort_intent
+  examples: |
+    - what does the bible say about effort
+    - what does the bible have to say oneffort
+    - what does the bible say on effort
+    - bible on effort
+    - what does christianity say about effort
+    - what does christianity have to say on effort
+    - how is explained in the bible?effort
+    - what jesus said about effort
+    - how is effort explained in christianity?
+    - what jesus spoke about effort
+    - what christianity says on effort
+    - christianity on effort
+    - jesus on effort
+    - effort in bible
+    - effort as explained by bible
+    - effort as said by jesus
+
+- intent: ahab_intent
+  examples: |
+    - what does the bible say about ahab
+    - what does the bible have to say onahab
+    - what does the bible say on ahab
+    - bible on ahab
+    - what does christianity say about ahab
+    - what does christianity have to say on ahab
+    - how is explained in the bible?ahab
+    - what jesus said about ahab
+    - how is ahab explained in christianity?
+    - what jesus spoke about ahab
+    - what christianity says on ahab
+    - christianity on ahab
+    - jesus on ahab
+    - ahab in bible
+    - ahab as explained by bible
+    - ahab as said by jesus
+
+- intent: disregard_intent
+  examples: |
+    - what does the bible say about disregard
+    - what does the bible have to say ondisregard
+    - what does the bible say on disregard
+    - bible on disregard
+    - what does christianity say about disregard
+    - what does christianity have to say on disregard
+    - how is explained in the bible?disregard
+    - what jesus said about disregard
+    - how is disregard explained in christianity?
+    - what jesus spoke about disregard
+    - what christianity says on disregard
+    - christianity on disregard
+    - jesus on disregard
+    - disregard in bible
+    - disregard as explained by bible
+    - disregard as said by jesus
+
+- intent: preachers_intent
+  examples: |
+    - what does the bible say about preachers
+    - what does the bible have to say onpreachers
+    - what does the bible say on preachers
+    - bible on preachers
+    - what does christianity say about preachers
+    - what does christianity have to say on preachers
+    - how is explained in the bible?preachers
+    - what jesus said about preachers
+    - how is preachers explained in christianity?
+    - what jesus spoke about preachers
+    - what christianity says on preachers
+    - christianity on preachers
+    - jesus on preachers
+    - preachers in bible
+    - preachers as explained by bible
+    - preachers as said by jesus
+
+- intent: indifference_intent
+  examples: |
+    - what does the bible say about indifference
+    - what does the bible have to say onindifference
+    - what does the bible say on indifference
+    - bible on indifference
+    - what does christianity say about indifference
+    - what does christianity have to say on indifference
+    - how is explained in the bible?indifference
+    - what jesus said about indifference
+    - how is indifference explained in christianity?
+    - what jesus spoke about indifference
+    - what christianity says on indifference
+    - christianity on indifference
+    - jesus on indifference
+    - indifference in bible
+    - indifference as explained by bible
+    - indifference as said by jesus
+
+- intent: compound_intent
+  examples: |
+    - what does the bible say about compound
+    - what does the bible have to say oncompound
+    - what does the bible say on compound
+    - bible on compound
+    - what does christianity say about compound
+    - what does christianity have to say on compound
+    - how is explained in the bible?compound
+    - what jesus said about compound
+    - how is compound explained in christianity?
+    - what jesus spoke about compound
+    - what christianity says on compound
+    - christianity on compound
+    - jesus on compound
+    - compound in bible
+    - compound as explained by bible
+    - compound as said by jesus
+
+- intent: futility_intent
+  examples: |
+    - what does the bible say about futility
+    - what does the bible have to say onfutility
+    - what does the bible say on futility
+    - bible on futility
+    - what does christianity say about futility
+    - what does christianity have to say on futility
+    - how is explained in the bible?futility
+    - what jesus said about futility
+    - how is futility explained in christianity?
+    - what jesus spoke about futility
+    - what christianity says on futility
+    - christianity on futility
+    - jesus on futility
+    - futility in bible
+    - futility as explained by bible
+    - futility as said by jesus
+
+- intent: jesse_intent
+  examples: |
+    - what does the bible say about jesse
+    - what does the bible have to say onjesse
+    - what does the bible say on jesse
+    - bible on jesse
+    - what does christianity say about jesse
+    - what does christianity have to say on jesse
+    - how is explained in the bible?jesse
+    - what jesus said about jesse
+    - how is jesse explained in christianity?
+    - what jesus spoke about jesse
+    - what christianity says on jesse
+    - christianity on jesse
+    - jesus on jesse
+    - jesse in bible
+    - jesse as explained by bible
+    - jesse as said by jesus
+
+- intent: content_intent
+  examples: |
+    - what does the bible say about content
+    - what does the bible have to say oncontent
+    - what does the bible say on content
+    - bible on content
+    - what does christianity say about content
+    - what does christianity have to say on content
+    - how is explained in the bible?content
+    - what jesus said about content
+    - how is content explained in christianity?
+    - what jesus spoke about content
+    - what christianity says on content
+    - christianity on content
+    - jesus on content
+    - content in bible
+    - content as explained by bible
+    - content as said by jesus
+
+- intent: famine_intent
+  examples: |
+    - what does the bible say about famine
+    - what does the bible have to say onfamine
+    - what does the bible say on famine
+    - bible on famine
+    - what does christianity say about famine
+    - what does christianity have to say on famine
+    - how is explained in the bible?famine
+    - what jesus said about famine
+    - how is famine explained in christianity?
+    - what jesus spoke about famine
+    - what christianity says on famine
+    - christianity on famine
+    - jesus on famine
+    - famine in bible
+    - famine as explained by bible
+    - famine as said by jesus
+
+- intent: saul_intent
+  examples: |
+    - what does the bible say about saul
+    - what does the bible have to say onsaul
+    - what does the bible say on saul
+    - bible on saul
+    - what does christianity say about saul
+    - what does christianity have to say on saul
+    - how is explained in the bible?saul
+    - what jesus said about saul
+    - how is saul explained in christianity?
+    - what jesus spoke about saul
+    - what christianity says on saul
+    - christianity on saul
+    - jesus on saul
+    - saul in bible
+    - saul as explained by bible
+    - saul as said by jesus
+
+- intent: discussion_intent
+  examples: |
+    - what does the bible say about discussion
+    - what does the bible have to say ondiscussion
+    - what does the bible say on discussion
+    - bible on discussion
+    - what does christianity say about discussion
+    - what does christianity have to say on discussion
+    - how is explained in the bible?discussion
+    - what jesus said about discussion
+    - how is discussion explained in christianity?
+    - what jesus spoke about discussion
+    - what christianity says on discussion
+    - christianity on discussion
+    - jesus on discussion
+    - discussion in bible
+    - discussion as explained by bible
+    - discussion as said by jesus
+
+- intent: priests_intent
+  examples: |
+    - what does the bible say about priests
+    - what does the bible have to say onpriests
+    - what does the bible say on priests
+    - bible on priests
+    - what does christianity say about priests
+    - what does christianity have to say on priests
+    - how is explained in the bible?priests
+    - what jesus said about priests
+    - how is priests explained in christianity?
+    - what jesus spoke about priests
+    - what christianity says on priests
+    - christianity on priests
+    - jesus on priests
+    - priests in bible
+    - priests as explained by bible
+    - priests as said by jesus
+
+- intent: afresh_intent
+  examples: |
+    - what does the bible say about afresh
+    - what does the bible have to say onafresh
+    - what does the bible say on afresh
+    - bible on afresh
+    - what does christianity say about afresh
+    - what does christianity have to say on afresh
+    - how is explained in the bible?afresh
+    - what jesus said about afresh
+    - how is afresh explained in christianity?
+    - what jesus spoke about afresh
+    - what christianity says on afresh
+    - christianity on afresh
+    - jesus on afresh
+    - afresh in bible
+    - afresh as explained by bible
+    - afresh as said by jesus
+
+- intent: members_intent
+  examples: |
+    - what does the bible say about members
+    - what does the bible have to say onmembers
+    - what does the bible say on members
+    - bible on members
+    - what does christianity say about members
+    - what does christianity have to say on members
+    - how is explained in the bible?members
+    - what jesus said about members
+    - how is members explained in christianity?
+    - what jesus spoke about members
+    - what christianity says on members
+    - christianity on members
+    - jesus on members
+    - members in bible
+    - members as explained by bible
+    - members as said by jesus
+
+- intent: justice_intent
+  examples: |
+    - what does the bible say about justice
+    - what does the bible have to say onjustice
+    - what does the bible say on justice
+    - bible on justice
+    - what does christianity say about justice
+    - what does christianity have to say on justice
+    - how is explained in the bible?justice
+    - what jesus said about justice
+    - how is justice explained in christianity?
+    - what jesus spoke about justice
+    - what christianity says on justice
+    - christianity on justice
+    - jesus on justice
+    - justice in bible
+    - justice as explained by bible
+    - justice as said by jesus
+
+- intent: didst_intent
+  examples: |
+    - what does the bible say about didst
+    - what does the bible have to say ondidst
+    - what does the bible say on didst
+    - bible on didst
+    - what does christianity say about didst
+    - what does christianity have to say on didst
+    - how is explained in the bible?didst
+    - what jesus said about didst
+    - how is didst explained in christianity?
+    - what jesus spoke about didst
+    - what christianity says on didst
+    - christianity on didst
+    - jesus on didst
+    - didst in bible
+    - didst as explained by bible
+    - didst as said by jesus
+
+- intent: possibilities_intent
+  examples: |
+    - what does the bible say about possibilities
+    - what does the bible have to say onpossibilities
+    - what does the bible say on possibilities
+    - bible on possibilities
+    - what does christianity say about possibilities
+    - what does christianity have to say on possibilities
+    - how is explained in the bible?possibilities
+    - what jesus said about possibilities
+    - how is possibilities explained in christianity?
+    - what jesus spoke about possibilities
+    - what christianity says on possibilities
+    - christianity on possibilities
+    - jesus on possibilities
+    - possibilities in bible
+    - possibilities as explained by bible
+    - possibilities as said by jesus
+
+- intent: evangelists_intent
+  examples: |
+    - what does the bible say about evangelists
+    - what does the bible have to say onevangelists
+    - what does the bible say on evangelists
+    - bible on evangelists
+    - what does christianity say about evangelists
+    - what does christianity have to say on evangelists
+    - how is explained in the bible?evangelists
+    - what jesus said about evangelists
+    - how is evangelists explained in christianity?
+    - what jesus spoke about evangelists
+    - what christianity says on evangelists
+    - christianity on evangelists
+    - jesus on evangelists
+    - evangelists in bible
+    - evangelists as explained by bible
+    - evangelists as said by jesus
+
+- intent: joke_intent
+  examples: |
+    - what does the bible say about joke
+    - what does the bible have to say onjoke
+    - what does the bible say on joke
+    - bible on joke
+    - what does christianity say about joke
+    - what does christianity have to say on joke
+    - how is explained in the bible?joke
+    - what jesus said about joke
+    - how is joke explained in christianity?
+    - what jesus spoke about joke
+    - what christianity says on joke
+    - christianity on joke
+    - jesus on joke
+    - joke in bible
+    - joke as explained by bible
+    - joke as said by jesus
+
+- intent: mould_intent
+  examples: |
+    - what does the bible say about mould
+    - what does the bible have to say onmould
+    - what does the bible say on mould
+    - bible on mould
+    - what does christianity say about mould
+    - what does christianity have to say on mould
+    - how is explained in the bible?mould
+    - what jesus said about mould
+    - how is mould explained in christianity?
+    - what jesus spoke about mould
+    - what christianity says on mould
+    - christianity on mould
+    - jesus on mould
+    - mould in bible
+    - mould as explained by bible
+    - mould as said by jesus
+
+- intent: heritage_intent
+  examples: |
+    - what does the bible say about heritage
+    - what does the bible have to say onheritage
+    - what does the bible say on heritage
+    - bible on heritage
+    - what does christianity say about heritage
+    - what does christianity have to say on heritage
+    - how is explained in the bible?heritage
+    - what jesus said about heritage
+    - how is heritage explained in christianity?
+    - what jesus spoke about heritage
+    - what christianity says on heritage
+    - christianity on heritage
+    - jesus on heritage
+    - heritage in bible
+    - heritage as explained by bible
+    - heritage as said by jesus
+
+- intent: envy_intent
+  examples: |
+    - what does the bible say about envy
+    - what does the bible have to say onenvy
+    - what does the bible say on envy
+    - bible on envy
+    - what does christianity say about envy
+    - what does christianity have to say on envy
+    - how is explained in the bible?envy
+    - what jesus said about envy
+    - how is envy explained in christianity?
+    - what jesus spoke about envy
+    - what christianity says on envy
+    - christianity on envy
+    - jesus on envy
+    - envy in bible
+    - envy as explained by bible
+    - envy as said by jesus
+
+- intent: limitation_intent
+  examples: |
+    - what does the bible say about limitation
+    - what does the bible have to say onlimitation
+    - what does the bible say on limitation
+    - bible on limitation
+    - what does christianity say about limitation
+    - what does christianity have to say on limitation
+    - how is explained in the bible?limitation
+    - what jesus said about limitation
+    - how is limitation explained in christianity?
+    - what jesus spoke about limitation
+    - what christianity says on limitation
+    - christianity on limitation
+    - jesus on limitation
+    - limitation in bible
+    - limitation as explained by bible
+    - limitation as said by jesus
+
+- intent: heavens_intent
+  examples: |
+    - what does the bible say about heavens
+    - what does the bible have to say onheavens
+    - what does the bible say on heavens
+    - bible on heavens
+    - what does christianity say about heavens
+    - what does christianity have to say on heavens
+    - how is explained in the bible?heavens
+    - what jesus said about heavens
+    - how is heavens explained in christianity?
+    - what jesus spoke about heavens
+    - what christianity says on heavens
+    - christianity on heavens
+    - jesus on heavens
+    - heavens in bible
+    - heavens as explained by bible
+    - heavens as said by jesus
+
+- intent: pros_intent
+  examples: |
+    - what does the bible say about pros
+    - what does the bible have to say onpros
+    - what does the bible say on pros
+    - bible on pros
+    - what does christianity say about pros
+    - what does christianity have to say on pros
+    - how is explained in the bible?pros
+    - what jesus said about pros
+    - how is pros explained in christianity?
+    - what jesus spoke about pros
+    - what christianity says on pros
+    - christianity on pros
+    - jesus on pros
+    - pros in bible
+    - pros as explained by bible
+    - pros as said by jesus
+
+- intent: epistle_intent
+  examples: |
+    - what does the bible say about epistle
+    - what does the bible have to say onepistle
+    - what does the bible say on epistle
+    - bible on epistle
+    - what does christianity say about epistle
+    - what does christianity have to say on epistle
+    - how is explained in the bible?epistle
+    - what jesus said about epistle
+    - how is epistle explained in christianity?
+    - what jesus spoke about epistle
+    - what christianity says on epistle
+    - christianity on epistle
+    - jesus on epistle
+    - epistle in bible
+    - epistle as explained by bible
+    - epistle as said by jesus
+
+- intent: college_intent
+  examples: |
+    - what does the bible say about college
+    - what does the bible have to say oncollege
+    - what does the bible say on college
+    - bible on college
+    - what does christianity say about college
+    - what does christianity have to say on college
+    - how is explained in the bible?college
+    - what jesus said about college
+    - how is college explained in christianity?
+    - what jesus spoke about college
+    - what christianity says on college
+    - christianity on college
+    - jesus on college
+    - college in bible
+    - college as explained by bible
+    - college as said by jesus
+
+- intent: end_intent
+  examples: |
+    - what does the bible say about end
+    - what does the bible have to say onend
+    - what does the bible say on end
+    - bible on end
+    - what does christianity say about end
+    - what does christianity have to say on end
+    - how is explained in the bible?end
+    - what jesus said about end
+    - how is end explained in christianity?
+    - what jesus spoke about end
+    - what christianity says on end
+    - christianity on end
+    - jesus on end
+    - end in bible
+    - end as explained by bible
+    - end as said by jesus
+
+- intent: rachel_intent
+  examples: |
+    - what does the bible say about rachel
+    - what does the bible have to say onrachel
+    - what does the bible say on rachel
+    - bible on rachel
+    - what does christianity say about rachel
+    - what does christianity have to say on rachel
+    - how is explained in the bible?rachel
+    - what jesus said about rachel
+    - how is rachel explained in christianity?
+    - what jesus spoke about rachel
+    - what christianity says on rachel
+    - christianity on rachel
+    - jesus on rachel
+    - rachel in bible
+    - rachel as explained by bible
+    - rachel as said by jesus
+
+- intent: homosexuality_intent
+  examples: |
+    - what does the bible say about homosexuality
+    - what does the bible have to say onhomosexuality
+    - what does the bible say on homosexuality
+    - bible on homosexuality
+    - what does christianity say about homosexuality
+    - what does christianity have to say on homosexuality
+    - how is explained in the bible?homosexuality
+    - what jesus said about homosexuality
+    - how is homosexuality explained in christianity?
+    - what jesus spoke about homosexuality
+    - what christianity says on homosexuality
+    - christianity on homosexuality
+    - jesus on homosexuality
+    - homosexuality in bible
+    - homosexuality as explained by bible
+    - homosexuality as said by jesus
+
+- intent: meat_intent
+  examples: |
+    - what does the bible say about meat
+    - what does the bible have to say onmeat
+    - what does the bible say on meat
+    - bible on meat
+    - what does christianity say about meat
+    - what does christianity have to say on meat
+    - how is explained in the bible?meat
+    - what jesus said about meat
+    - how is meat explained in christianity?
+    - what jesus spoke about meat
+    - what christianity says on meat
+    - christianity on meat
+    - jesus on meat
+    - meat in bible
+    - meat as explained by bible
+    - meat as said by jesus
+
+- intent: flame_intent
+  examples: |
+    - what does the bible say about flame
+    - what does the bible have to say onflame
+    - what does the bible say on flame
+    - bible on flame
+    - what does christianity say about flame
+    - what does christianity have to say on flame
+    - how is explained in the bible?flame
+    - what jesus said about flame
+    - how is flame explained in christianity?
+    - what jesus spoke about flame
+    - what christianity says on flame
+    - christianity on flame
+    - jesus on flame
+    - flame in bible
+    - flame as explained by bible
+    - flame as said by jesus
+
+- intent: chair_intent
+  examples: |
+    - what does the bible say about chair
+    - what does the bible have to say onchair
+    - what does the bible say on chair
+    - bible on chair
+    - what does christianity say about chair
+    - what does christianity have to say on chair
+    - how is explained in the bible?chair
+    - what jesus said about chair
+    - how is chair explained in christianity?
+    - what jesus spoke about chair
+    - what christianity says on chair
+    - christianity on chair
+    - jesus on chair
+    - chair in bible
+    - chair as explained by bible
+    - chair as said by jesus
+
+- intent: harassment_intent
+  examples: |
+    - what does the bible say about harassment
+    - what does the bible have to say onharassment
+    - what does the bible say on harassment
+    - bible on harassment
+    - what does christianity say about harassment
+    - what does christianity have to say on harassment
+    - how is explained in the bible?harassment
+    - what jesus said about harassment
+    - how is harassment explained in christianity?
+    - what jesus spoke about harassment
+    - what christianity says on harassment
+    - christianity on harassment
+    - jesus on harassment
+    - harassment in bible
+    - harassment as explained by bible
+    - harassment as said by jesus
+
+- intent: plot_intent
+  examples: |
+    - what does the bible say about plot
+    - what does the bible have to say onplot
+    - what does the bible say on plot
+    - bible on plot
+    - what does christianity say about plot
+    - what does christianity have to say on plot
+    - how is explained in the bible?plot
+    - what jesus said about plot
+    - how is plot explained in christianity?
+    - what jesus spoke about plot
+    - what christianity says on plot
+    - christianity on plot
+    - jesus on plot
+    - plot in bible
+    - plot as explained by bible
+    - plot as said by jesus
+
+- intent: week_intent
+  examples: |
+    - what does the bible say about week
+    - what does the bible have to say onweek
+    - what does the bible say on week
+    - bible on week
+    - what does christianity say about week
+    - what does christianity have to say on week
+    - how is explained in the bible?week
+    - what jesus said about week
+    - how is week explained in christianity?
+    - what jesus spoke about week
+    - what christianity says on week
+    - christianity on week
+    - jesus on week
+    - week in bible
+    - week as explained by bible
+    - week as said by jesus
+
+- intent: say_intent
+  examples: |
+    - what does the bible say about say
+    - what does the bible have to say onsay
+    - what does the bible say on say
+    - bible on say
+    - what does christianity say about say
+    - what does christianity have to say on say
+    - how is explained in the bible?say
+    - what jesus said about say
+    - how is say explained in christianity?
+    - what jesus spoke about say
+    - what christianity says on say
+    - christianity on say
+    - jesus on say
+    - say in bible
+    - say as explained by bible
+    - say as said by jesus
+
+- intent: phrase_intent
+  examples: |
+    - what does the bible say about phrase
+    - what does the bible have to say onphrase
+    - what does the bible say on phrase
+    - bible on phrase
+    - what does christianity say about phrase
+    - what does christianity have to say on phrase
+    - how is explained in the bible?phrase
+    - what jesus said about phrase
+    - how is phrase explained in christianity?
+    - what jesus spoke about phrase
+    - what christianity says on phrase
+    - christianity on phrase
+    - jesus on phrase
+    - phrase in bible
+    - phrase as explained by bible
+    - phrase as said by jesus
+
+- intent: edge_intent
+  examples: |
+    - what does the bible say about edge
+    - what does the bible have to say onedge
+    - what does the bible say on edge
+    - bible on edge
+    - what does christianity say about edge
+    - what does christianity have to say on edge
+    - how is explained in the bible?edge
+    - what jesus said about edge
+    - how is edge explained in christianity?
+    - what jesus spoke about edge
+    - what christianity says on edge
+    - christianity on edge
+    - jesus on edge
+    - edge in bible
+    - edge as explained by bible
+    - edge as said by jesus
+
+- intent: condition_intent
+  examples: |
+    - what does the bible say about condition
+    - what does the bible have to say oncondition
+    - what does the bible say on condition
+    - bible on condition
+    - what does christianity say about condition
+    - what does christianity have to say on condition
+    - how is explained in the bible?condition
+    - what jesus said about condition
+    - how is condition explained in christianity?
+    - what jesus spoke about condition
+    - what christianity says on condition
+    - christianity on condition
+    - jesus on condition
+    - condition in bible
+    - condition as explained by bible
+    - condition as said by jesus
+
+- intent: filter_intent
+  examples: |
+    - what does the bible say about filter
+    - what does the bible have to say onfilter
+    - what does the bible say on filter
+    - bible on filter
+    - what does christianity say about filter
+    - what does christianity have to say on filter
+    - how is explained in the bible?filter
+    - what jesus said about filter
+    - how is filter explained in christianity?
+    - what jesus spoke about filter
+    - what christianity says on filter
+    - christianity on filter
+    - jesus on filter
+    - filter in bible
+    - filter as explained by bible
+    - filter as said by jesus
+
+- intent: soul_intent
+  examples: |
+    - what does the bible say about soul
+    - what does the bible have to say onsoul
+    - what does the bible say on soul
+    - bible on soul
+    - what does christianity say about soul
+    - what does christianity have to say on soul
+    - how is explained in the bible?soul
+    - what jesus said about soul
+    - how is soul explained in christianity?
+    - what jesus spoke about soul
+    - what christianity says on soul
+    - christianity on soul
+    - jesus on soul
+    - soul in bible
+    - soul as explained by bible
+    - soul as said by jesus
+
+- intent: heman_intent
+  examples: |
+    - what does the bible say about heman
+    - what does the bible have to say onheman
+    - what does the bible say on heman
+    - bible on heman
+    - what does christianity say about heman
+    - what does christianity have to say on heman
+    - how is explained in the bible?heman
+    - what jesus said about heman
+    - how is heman explained in christianity?
+    - what jesus spoke about heman
+    - what christianity says on heman
+    - christianity on heman
+    - jesus on heman
+    - heman in bible
+    - heman as explained by bible
+    - heman as said by jesus
+
+- intent: zeph_intent
+  examples: |
+    - what does the bible say about zeph
+    - what does the bible have to say onzeph
+    - what does the bible say on zeph
+    - bible on zeph
+    - what does christianity say about zeph
+    - what does christianity have to say on zeph
+    - how is explained in the bible?zeph
+    - what jesus said about zeph
+    - how is zeph explained in christianity?
+    - what jesus spoke about zeph
+    - what christianity says on zeph
+    - christianity on zeph
+    - jesus on zeph
+    - zeph in bible
+    - zeph as explained by bible
+    - zeph as said by jesus
+
+- intent: iron_intent
+  examples: |
+    - what does the bible say about iron
+    - what does the bible have to say oniron
+    - what does the bible say on iron
+    - bible on iron
+    - what does christianity say about iron
+    - what does christianity have to say on iron
+    - how is explained in the bible?iron
+    - what jesus said about iron
+    - how is iron explained in christianity?
+    - what jesus spoke about iron
+    - what christianity says on iron
+    - christianity on iron
+    - jesus on iron
+    - iron in bible
+    - iron as explained by bible
+    - iron as said by jesus
+
+- intent: hen_intent
+  examples: |
+    - what does the bible say about hen
+    - what does the bible have to say onhen
+    - what does the bible say on hen
+    - bible on hen
+    - what does christianity say about hen
+    - what does christianity have to say on hen
+    - how is explained in the bible?hen
+    - what jesus said about hen
+    - how is hen explained in christianity?
+    - what jesus spoke about hen
+    - what christianity says on hen
+    - christianity on hen
+    - jesus on hen
+    - hen in bible
+    - hen as explained by bible
+    - hen as said by jesus
+
+- intent: rain_intent
+  examples: |
+    - what does the bible say about rain
+    - what does the bible have to say onrain
+    - what does the bible say on rain
+    - bible on rain
+    - what does christianity say about rain
+    - what does christianity have to say on rain
+    - how is explained in the bible?rain
+    - what jesus said about rain
+    - how is rain explained in christianity?
+    - what jesus spoke about rain
+    - what christianity says on rain
+    - christianity on rain
+    - jesus on rain
+    - rain in bible
+    - rain as explained by bible
+    - rain as said by jesus
+
+- intent: distress_intent
+  examples: |
+    - what does the bible say about distress
+    - what does the bible have to say ondistress
+    - what does the bible say on distress
+    - bible on distress
+    - what does christianity say about distress
+    - what does christianity have to say on distress
+    - how is explained in the bible?distress
+    - what jesus said about distress
+    - how is distress explained in christianity?
+    - what jesus spoke about distress
+    - what christianity says on distress
+    - christianity on distress
+    - jesus on distress
+    - distress in bible
+    - distress as explained by bible
+    - distress as said by jesus
+
+- intent: surgery_intent
+  examples: |
+    - what does the bible say about surgery
+    - what does the bible have to say onsurgery
+    - what does the bible say on surgery
+    - bible on surgery
+    - what does christianity say about surgery
+    - what does christianity have to say on surgery
+    - how is explained in the bible?surgery
+    - what jesus said about surgery
+    - how is surgery explained in christianity?
+    - what jesus spoke about surgery
+    - what christianity says on surgery
+    - christianity on surgery
+    - jesus on surgery
+    - surgery in bible
+    - surgery as explained by bible
+    - surgery as said by jesus
+
+- intent: mindedness_intent
+  examples: |
+    - what does the bible say about mindedness
+    - what does the bible have to say onmindedness
+    - what does the bible say on mindedness
+    - bible on mindedness
+    - what does christianity say about mindedness
+    - what does christianity have to say on mindedness
+    - how is explained in the bible?mindedness
+    - what jesus said about mindedness
+    - how is mindedness explained in christianity?
+    - what jesus spoke about mindedness
+    - what christianity says on mindedness
+    - christianity on mindedness
+    - jesus on mindedness
+    - mindedness in bible
+    - mindedness as explained by bible
+    - mindedness as said by jesus
+
+- intent: engine_intent
+  examples: |
+    - what does the bible say about engine
+    - what does the bible have to say onengine
+    - what does the bible say on engine
+    - bible on engine
+    - what does christianity say about engine
+    - what does christianity have to say on engine
+    - how is explained in the bible?engine
+    - what jesus said about engine
+    - how is engine explained in christianity?
+    - what jesus spoke about engine
+    - what christianity says on engine
+    - christianity on engine
+    - jesus on engine
+    - engine in bible
+    - engine as explained by bible
+    - engine as said by jesus
+
+- intent: embers_intent
+  examples: |
+    - what does the bible say about embers
+    - what does the bible have to say onembers
+    - what does the bible say on embers
+    - bible on embers
+    - what does christianity say about embers
+    - what does christianity have to say on embers
+    - how is explained in the bible?embers
+    - what jesus said about embers
+    - how is embers explained in christianity?
+    - what jesus spoke about embers
+    - what christianity says on embers
+    - christianity on embers
+    - jesus on embers
+    - embers in bible
+    - embers as explained by bible
+    - embers as said by jesus
+
+- intent: discouragement_intent
+  examples: |
+    - what does the bible say about discouragement
+    - what does the bible have to say ondiscouragement
+    - what does the bible say on discouragement
+    - bible on discouragement
+    - what does christianity say about discouragement
+    - what does christianity have to say on discouragement
+    - how is explained in the bible?discouragement
+    - what jesus said about discouragement
+    - how is discouragement explained in christianity?
+    - what jesus spoke about discouragement
+    - what christianity says on discouragement
+    - christianity on discouragement
+    - jesus on discouragement
+    - discouragement in bible
+    - discouragement as explained by bible
+    - discouragement as said by jesus
+
+- intent: origin_intent
+  examples: |
+    - what does the bible say about origin
+    - what does the bible have to say onorigin
+    - what does the bible say on origin
+    - bible on origin
+    - what does christianity say about origin
+    - what does christianity have to say on origin
+    - how is explained in the bible?origin
+    - what jesus said about origin
+    - how is origin explained in christianity?
+    - what jesus spoke about origin
+    - what christianity says on origin
+    - christianity on origin
+    - jesus on origin
+    - origin in bible
+    - origin as explained by bible
+    - origin as said by jesus
+
+- intent: judgement_intent
+  examples: |
+    - what does the bible say about judgement
+    - what does the bible have to say onjudgement
+    - what does the bible say on judgement
+    - bible on judgement
+    - what does christianity say about judgement
+    - what does christianity have to say on judgement
+    - how is explained in the bible?judgement
+    - what jesus said about judgement
+    - how is judgement explained in christianity?
+    - what jesus spoke about judgement
+    - what christianity says on judgement
+    - christianity on judgement
+    - jesus on judgement
+    - judgement in bible
+    - judgement as explained by bible
+    - judgement as said by jesus
+
+- intent: annas_intent
+  examples: |
+    - what does the bible say about annas
+    - what does the bible have to say onannas
+    - what does the bible say on annas
+    - bible on annas
+    - what does christianity say about annas
+    - what does christianity have to say on annas
+    - how is explained in the bible?annas
+    - what jesus said about annas
+    - how is annas explained in christianity?
+    - what jesus spoke about annas
+    - what christianity says on annas
+    - christianity on annas
+    - jesus on annas
+    - annas in bible
+    - annas as explained by bible
+    - annas as said by jesus
+
+- intent: gospel_intent
+  examples: |
+    - what does the bible say about gospel
+    - what does the bible have to say ongospel
+    - what does the bible say on gospel
+    - bible on gospel
+    - what does christianity say about gospel
+    - what does christianity have to say on gospel
+    - how is explained in the bible?gospel
+    - what jesus said about gospel
+    - how is gospel explained in christianity?
+    - what jesus spoke about gospel
+    - what christianity says on gospel
+    - christianity on gospel
+    - jesus on gospel
+    - gospel in bible
+    - gospel as explained by bible
+    - gospel as said by jesus
+
+- intent: love_intent
+  examples: |
+    - what does the bible say about love
+    - what does the bible have to say onlove
+    - what does the bible say on love
+    - bible on love
+    - what does christianity say about love
+    - what does christianity have to say on love
+    - how is explained in the bible?love
+    - what jesus said about love
+    - how is love explained in christianity?
+    - what jesus spoke about love
+    - what christianity says on love
+    - christianity on love
+    - jesus on love
+    - love in bible
+    - love as explained by bible
+    - love as said by jesus
+
+- intent: attention_intent
+  examples: |
+    - what does the bible say about attention
+    - what does the bible have to say onattention
+    - what does the bible say on attention
+    - bible on attention
+    - what does christianity say about attention
+    - what does christianity have to say on attention
+    - how is explained in the bible?attention
+    - what jesus said about attention
+    - how is attention explained in christianity?
+    - what jesus spoke about attention
+    - what christianity says on attention
+    - christianity on attention
+    - jesus on attention
+    - attention in bible
+    - attention as explained by bible
+    - attention as said by jesus
+
+- intent: priority_intent
+  examples: |
+    - what does the bible say about priority
+    - what does the bible have to say onpriority
+    - what does the bible say on priority
+    - bible on priority
+    - what does christianity say about priority
+    - what does christianity have to say on priority
+    - how is explained in the bible?priority
+    - what jesus said about priority
+    - how is priority explained in christianity?
+    - what jesus spoke about priority
+    - what christianity says on priority
+    - christianity on priority
+    - jesus on priority
+    - priority in bible
+    - priority as explained by bible
+    - priority as said by jesus
+
+- intent: meroz_intent
+  examples: |
+    - what does the bible say about meroz
+    - what does the bible have to say onmeroz
+    - what does the bible say on meroz
+    - bible on meroz
+    - what does christianity say about meroz
+    - what does christianity have to say on meroz
+    - how is explained in the bible?meroz
+    - what jesus said about meroz
+    - how is meroz explained in christianity?
+    - what jesus spoke about meroz
+    - what christianity says on meroz
+    - christianity on meroz
+    - jesus on meroz
+    - meroz in bible
+    - meroz as explained by bible
+    - meroz as said by jesus
+
+- intent: eagerness_intent
+  examples: |
+    - what does the bible say about eagerness
+    - what does the bible have to say oneagerness
+    - what does the bible say on eagerness
+    - bible on eagerness
+    - what does christianity say about eagerness
+    - what does christianity have to say on eagerness
+    - how is explained in the bible?eagerness
+    - what jesus said about eagerness
+    - how is eagerness explained in christianity?
+    - what jesus spoke about eagerness
+    - what christianity says on eagerness
+    - christianity on eagerness
+    - jesus on eagerness
+    - eagerness in bible
+    - eagerness as explained by bible
+    - eagerness as said by jesus
+
+- intent: courage_intent
+  examples: |
+    - what does the bible say about courage
+    - what does the bible have to say oncourage
+    - what does the bible say on courage
+    - bible on courage
+    - what does christianity say about courage
+    - what does christianity have to say on courage
+    - how is explained in the bible?courage
+    - what jesus said about courage
+    - how is courage explained in christianity?
+    - what jesus spoke about courage
+    - what christianity says on courage
+    - christianity on courage
+    - jesus on courage
+    - courage in bible
+    - courage as explained by bible
+    - courage as said by jesus
+
+- intent: period_intent
+  examples: |
+    - what does the bible say about period
+    - what does the bible have to say onperiod
+    - what does the bible say on period
+    - bible on period
+    - what does christianity say about period
+    - what does christianity have to say on period
+    - how is explained in the bible?period
+    - what jesus said about period
+    - how is period explained in christianity?
+    - what jesus spoke about period
+    - what christianity says on period
+    - christianity on period
+    - jesus on period
+    - period in bible
+    - period as explained by bible
+    - period as said by jesus
+
+- intent: biscuit_intent
+  examples: |
+    - what does the bible say about biscuit
+    - what does the bible have to say onbiscuit
+    - what does the bible say on biscuit
+    - bible on biscuit
+    - what does christianity say about biscuit
+    - what does christianity have to say on biscuit
+    - how is explained in the bible?biscuit
+    - what jesus said about biscuit
+    - how is biscuit explained in christianity?
+    - what jesus spoke about biscuit
+    - what christianity says on biscuit
+    - christianity on biscuit
+    - jesus on biscuit
+    - biscuit in bible
+    - biscuit as explained by bible
+    - biscuit as said by jesus
+
+- intent: way_intent
+  examples: |
+    - what does the bible say about way
+    - what does the bible have to say onway
+    - what does the bible say on way
+    - bible on way
+    - what does christianity say about way
+    - what does christianity have to say on way
+    - how is explained in the bible?way
+    - what jesus said about way
+    - how is way explained in christianity?
+    - what jesus spoke about way
+    - what christianity says on way
+    - christianity on way
+    - jesus on way
+    - way in bible
+    - way as explained by bible
+    - way as said by jesus
+
+- intent: knell_intent
+  examples: |
+    - what does the bible say about knell
+    - what does the bible have to say onknell
+    - what does the bible say on knell
+    - bible on knell
+    - what does christianity say about knell
+    - what does christianity have to say on knell
+    - how is explained in the bible?knell
+    - what jesus said about knell
+    - how is knell explained in christianity?
+    - what jesus spoke about knell
+    - what christianity says on knell
+    - christianity on knell
+    - jesus on knell
+    - knell in bible
+    - knell as explained by bible
+    - knell as said by jesus
+
+- intent: persecutions_intent
+  examples: |
+    - what does the bible say about persecutions
+    - what does the bible have to say onpersecutions
+    - what does the bible say on persecutions
+    - bible on persecutions
+    - what does christianity say about persecutions
+    - what does christianity have to say on persecutions
+    - how is explained in the bible?persecutions
+    - what jesus said about persecutions
+    - how is persecutions explained in christianity?
+    - what jesus spoke about persecutions
+    - what christianity says on persecutions
+    - christianity on persecutions
+    - jesus on persecutions
+    - persecutions in bible
+    - persecutions as explained by bible
+    - persecutions as said by jesus
+
+- intent: vow_intent
+  examples: |
+    - what does the bible say about vow
+    - what does the bible have to say onvow
+    - what does the bible say on vow
+    - bible on vow
+    - what does christianity say about vow
+    - what does christianity have to say on vow
+    - how is explained in the bible?vow
+    - what jesus said about vow
+    - how is vow explained in christianity?
+    - what jesus spoke about vow
+    - what christianity says on vow
+    - christianity on vow
+    - jesus on vow
+    - vow in bible
+    - vow as explained by bible
+    - vow as said by jesus
+
+- intent: scheme_intent
+  examples: |
+    - what does the bible say about scheme
+    - what does the bible have to say onscheme
+    - what does the bible say on scheme
+    - bible on scheme
+    - what does christianity say about scheme
+    - what does christianity have to say on scheme
+    - how is explained in the bible?scheme
+    - what jesus said about scheme
+    - how is scheme explained in christianity?
+    - what jesus spoke about scheme
+    - what christianity says on scheme
+    - christianity on scheme
+    - jesus on scheme
+    - scheme in bible
+    - scheme as explained by bible
+    - scheme as said by jesus
+
+- intent: theft_intent
+  examples: |
+    - what does the bible say about theft
+    - what does the bible have to say ontheft
+    - what does the bible say on theft
+    - bible on theft
+    - what does christianity say about theft
+    - what does christianity have to say on theft
+    - how is explained in the bible?theft
+    - what jesus said about theft
+    - how is theft explained in christianity?
+    - what jesus spoke about theft
+    - what christianity says on theft
+    - christianity on theft
+    - jesus on theft
+    - theft in bible
+    - theft as explained by bible
+    - theft as said by jesus
+
+- intent: cross_intent
+  examples: |
+    - what does the bible say about cross
+    - what does the bible have to say oncross
+    - what does the bible say on cross
+    - bible on cross
+    - what does christianity say about cross
+    - what does christianity have to say on cross
+    - how is explained in the bible?cross
+    - what jesus said about cross
+    - how is cross explained in christianity?
+    - what jesus spoke about cross
+    - what christianity says on cross
+    - christianity on cross
+    - jesus on cross
+    - cross in bible
+    - cross as explained by bible
+    - cross as said by jesus
+
+- intent: switch_intent
+  examples: |
+    - what does the bible say about switch
+    - what does the bible have to say onswitch
+    - what does the bible say on switch
+    - bible on switch
+    - what does christianity say about switch
+    - what does christianity have to say on switch
+    - how is explained in the bible?switch
+    - what jesus said about switch
+    - how is switch explained in christianity?
+    - what jesus spoke about switch
+    - what christianity says on switch
+    - christianity on switch
+    - jesus on switch
+    - switch in bible
+    - switch as explained by bible
+    - switch as said by jesus
+
+- intent: hours_intent
+  examples: |
+    - what does the bible say about hours
+    - what does the bible have to say onhours
+    - what does the bible say on hours
+    - bible on hours
+    - what does christianity say about hours
+    - what does christianity have to say on hours
+    - how is explained in the bible?hours
+    - what jesus said about hours
+    - how is hours explained in christianity?
+    - what jesus spoke about hours
+    - what christianity says on hours
+    - christianity on hours
+    - jesus on hours
+    - hours in bible
+    - hours as explained by bible
+    - hours as said by jesus
+
+- intent: birth_intent
+  examples: |
+    - what does the bible say about birth
+    - what does the bible have to say onbirth
+    - what does the bible say on birth
+    - bible on birth
+    - what does christianity say about birth
+    - what does christianity have to say on birth
+    - how is explained in the bible?birth
+    - what jesus said about birth
+    - how is birth explained in christianity?
+    - what jesus spoke about birth
+    - what christianity says on birth
+    - christianity on birth
+    - jesus on birth
+    - birth in bible
+    - birth as explained by bible
+    - birth as said by jesus
+
+- intent: kingdoms_intent
+  examples: |
+    - what does the bible say about kingdoms
+    - what does the bible have to say onkingdoms
+    - what does the bible say on kingdoms
+    - bible on kingdoms
+    - what does christianity say about kingdoms
+    - what does christianity have to say on kingdoms
+    - how is explained in the bible?kingdoms
+    - what jesus said about kingdoms
+    - how is kingdoms explained in christianity?
+    - what jesus spoke about kingdoms
+    - what christianity says on kingdoms
+    - christianity on kingdoms
+    - jesus on kingdoms
+    - kingdoms in bible
+    - kingdoms as explained by bible
+    - kingdoms as said by jesus
+
+- intent: identification_intent
+  examples: |
+    - what does the bible say about identification
+    - what does the bible have to say onidentification
+    - what does the bible say on identification
+    - bible on identification
+    - what does christianity say about identification
+    - what does christianity have to say on identification
+    - how is explained in the bible?identification
+    - what jesus said about identification
+    - how is identification explained in christianity?
+    - what jesus spoke about identification
+    - what christianity says on identification
+    - christianity on identification
+    - jesus on identification
+    - identification in bible
+    - identification as explained by bible
+    - identification as said by jesus
+
+- intent: partaker_intent
+  examples: |
+    - what does the bible say about partaker
+    - what does the bible have to say onpartaker
+    - what does the bible say on partaker
+    - bible on partaker
+    - what does christianity say about partaker
+    - what does christianity have to say on partaker
+    - how is explained in the bible?partaker
+    - what jesus said about partaker
+    - how is partaker explained in christianity?
+    - what jesus spoke about partaker
+    - what christianity says on partaker
+    - christianity on partaker
+    - jesus on partaker
+    - partaker in bible
+    - partaker as explained by bible
+    - partaker as said by jesus
+
+- intent: organization_intent
+  examples: |
+    - what does the bible say about organization
+    - what does the bible have to say onorganization
+    - what does the bible say on organization
+    - bible on organization
+    - what does christianity say about organization
+    - what does christianity have to say on organization
+    - how is explained in the bible?organization
+    - what jesus said about organization
+    - how is organization explained in christianity?
+    - what jesus spoke about organization
+    - what christianity says on organization
+    - christianity on organization
+    - jesus on organization
+    - organization in bible
+    - organization as explained by bible
+    - organization as said by jesus
+
+- intent: ai_intent
+  examples: |
+    - what does the bible say about ai
+    - what does the bible have to say onai
+    - what does the bible say on ai
+    - bible on ai
+    - what does christianity say about ai
+    - what does christianity have to say on ai
+    - how is explained in the bible?ai
+    - what jesus said about ai
+    - how is ai explained in christianity?
+    - what jesus spoke about ai
+    - what christianity says on ai
+    - christianity on ai
+    - jesus on ai
+    - ai in bible
+    - ai as explained by bible
+    - ai as said by jesus
+
+- intent: window_intent
+  examples: |
+    - what does the bible say about window
+    - what does the bible have to say onwindow
+    - what does the bible say on window
+    - bible on window
+    - what does christianity say about window
+    - what does christianity have to say on window
+    - how is explained in the bible?window
+    - what jesus said about window
+    - how is window explained in christianity?
+    - what jesus spoke about window
+    - what christianity says on window
+    - christianity on window
+    - jesus on window
+    - window in bible
+    - window as explained by bible
+    - window as said by jesus
+
+- intent: bank_intent
+  examples: |
+    - what does the bible say about bank
+    - what does the bible have to say onbank
+    - what does the bible say on bank
+    - bible on bank
+    - what does christianity say about bank
+    - what does christianity have to say on bank
+    - how is explained in the bible?bank
+    - what jesus said about bank
+    - how is bank explained in christianity?
+    - what jesus spoke about bank
+    - what christianity says on bank
+    - christianity on bank
+    - jesus on bank
+    - bank in bible
+    - bank as explained by bible
+    - bank as said by jesus
+
+- intent: spite_intent
+  examples: |
+    - what does the bible say about spite
+    - what does the bible have to say onspite
+    - what does the bible say on spite
+    - bible on spite
+    - what does christianity say about spite
+    - what does christianity have to say on spite
+    - how is explained in the bible?spite
+    - what jesus said about spite
+    - how is spite explained in christianity?
+    - what jesus spoke about spite
+    - what christianity says on spite
+    - christianity on spite
+    - jesus on spite
+    - spite in bible
+    - spite as explained by bible
+    - spite as said by jesus
+
+- intent: emotions_intent
+  examples: |
+    - what does the bible say about emotions
+    - what does the bible have to say onemotions
+    - what does the bible say on emotions
+    - bible on emotions
+    - what does christianity say about emotions
+    - what does christianity have to say on emotions
+    - how is explained in the bible?emotions
+    - what jesus said about emotions
+    - how is emotions explained in christianity?
+    - what jesus spoke about emotions
+    - what christianity says on emotions
+    - christianity on emotions
+    - jesus on emotions
+    - emotions in bible
+    - emotions as explained by bible
+    - emotions as said by jesus
+
+- intent: tentmaker_intent
+  examples: |
+    - what does the bible say about tentmaker
+    - what does the bible have to say ontentmaker
+    - what does the bible say on tentmaker
+    - bible on tentmaker
+    - what does christianity say about tentmaker
+    - what does christianity have to say on tentmaker
+    - how is explained in the bible?tentmaker
+    - what jesus said about tentmaker
+    - how is tentmaker explained in christianity?
+    - what jesus spoke about tentmaker
+    - what christianity says on tentmaker
+    - christianity on tentmaker
+    - jesus on tentmaker
+    - tentmaker in bible
+    - tentmaker as explained by bible
+    - tentmaker as said by jesus
+
+- intent: outside_intent
+  examples: |
+    - what does the bible say about outside
+    - what does the bible have to say onoutside
+    - what does the bible say on outside
+    - bible on outside
+    - what does christianity say about outside
+    - what does christianity have to say on outside
+    - how is explained in the bible?outside
+    - what jesus said about outside
+    - how is outside explained in christianity?
+    - what jesus spoke about outside
+    - what christianity says on outside
+    - christianity on outside
+    - jesus on outside
+    - outside in bible
+    - outside as explained by bible
+    - outside as said by jesus
+
+- intent: movement_intent
+  examples: |
+    - what does the bible say about movement
+    - what does the bible have to say onmovement
+    - what does the bible say on movement
+    - bible on movement
+    - what does christianity say about movement
+    - what does christianity have to say on movement
+    - how is explained in the bible?movement
+    - what jesus said about movement
+    - how is movement explained in christianity?
+    - what jesus spoke about movement
+    - what christianity says on movement
+    - christianity on movement
+    - jesus on movement
+    - movement in bible
+    - movement as explained by bible
+    - movement as said by jesus
+
+- intent: justification_intent
+  examples: |
+    - what does the bible say about justification
+    - what does the bible have to say onjustification
+    - what does the bible say on justification
+    - bible on justification
+    - what does christianity say about justification
+    - what does christianity have to say on justification
+    - how is explained in the bible?justification
+    - what jesus said about justification
+    - how is justification explained in christianity?
+    - what jesus spoke about justification
+    - what christianity says on justification
+    - christianity on justification
+    - jesus on justification
+    - justification in bible
+    - justification as explained by bible
+    - justification as said by jesus
+
+- intent: laugh_intent
+  examples: |
+    - what does the bible say about laugh
+    - what does the bible have to say onlaugh
+    - what does the bible say on laugh
+    - bible on laugh
+    - what does christianity say about laugh
+    - what does christianity have to say on laugh
+    - how is explained in the bible?laugh
+    - what jesus said about laugh
+    - how is laugh explained in christianity?
+    - what jesus spoke about laugh
+    - what christianity says on laugh
+    - christianity on laugh
+    - jesus on laugh
+    - laugh in bible
+    - laugh as explained by bible
+    - laugh as said by jesus
+
+- intent: bricks_intent
+  examples: |
+    - what does the bible say about bricks
+    - what does the bible have to say onbricks
+    - what does the bible say on bricks
+    - bible on bricks
+    - what does christianity say about bricks
+    - what does christianity have to say on bricks
+    - how is explained in the bible?bricks
+    - what jesus said about bricks
+    - how is bricks explained in christianity?
+    - what jesus spoke about bricks
+    - what christianity says on bricks
+    - christianity on bricks
+    - jesus on bricks
+    - bricks in bible
+    - bricks as explained by bible
+    - bricks as said by jesus
+
+- intent: word_intent
+  examples: |
+    - what does the bible say about word
+    - what does the bible have to say onword
+    - what does the bible say on word
+    - bible on word
+    - what does christianity say about word
+    - what does christianity have to say on word
+    - how is explained in the bible?word
+    - what jesus said about word
+    - how is word explained in christianity?
+    - what jesus spoke about word
+    - what christianity says on word
+    - christianity on word
+    - jesus on word
+    - word in bible
+    - word as explained by bible
+    - word as said by jesus
+
+- intent: fellow_intent
+  examples: |
+    - what does the bible say about fellow
+    - what does the bible have to say onfellow
+    - what does the bible say on fellow
+    - bible on fellow
+    - what does christianity say about fellow
+    - what does christianity have to say on fellow
+    - how is explained in the bible?fellow
+    - what jesus said about fellow
+    - how is fellow explained in christianity?
+    - what jesus spoke about fellow
+    - what christianity says on fellow
+    - christianity on fellow
+    - jesus on fellow
+    - fellow in bible
+    - fellow as explained by bible
+    - fellow as said by jesus
+
+- intent: bus_intent
+  examples: |
+    - what does the bible say about bus
+    - what does the bible have to say onbus
+    - what does the bible say on bus
+    - bible on bus
+    - what does christianity say about bus
+    - what does christianity have to say on bus
+    - how is explained in the bible?bus
+    - what jesus said about bus
+    - how is bus explained in christianity?
+    - what jesus spoke about bus
+    - what christianity says on bus
+    - christianity on bus
+    - jesus on bus
+    - bus in bible
+    - bus as explained by bible
+    - bus as said by jesus
+
+- intent: afflict_intent
+  examples: |
+    - what does the bible say about afflict
+    - what does the bible have to say onafflict
+    - what does the bible say on afflict
+    - bible on afflict
+    - what does christianity say about afflict
+    - what does christianity have to say on afflict
+    - how is explained in the bible?afflict
+    - what jesus said about afflict
+    - how is afflict explained in christianity?
+    - what jesus spoke about afflict
+    - what christianity says on afflict
+    - christianity on afflict
+    - jesus on afflict
+    - afflict in bible
+    - afflict as explained by bible
+    - afflict as said by jesus
+
+- intent: adam_intent
+  examples: |
+    - what does the bible say about adam
+    - what does the bible have to say onadam
+    - what does the bible say on adam
+    - bible on adam
+    - what does christianity say about adam
+    - what does christianity have to say on adam
+    - how is explained in the bible?adam
+    - what jesus said about adam
+    - how is adam explained in christianity?
+    - what jesus spoke about adam
+    - what christianity says on adam
+    - christianity on adam
+    - jesus on adam
+    - adam in bible
+    - adam as explained by bible
+    - adam as said by jesus
+
+- intent: apollos_intent
+  examples: |
+    - what does the bible say about apollos
+    - what does the bible have to say onapollos
+    - what does the bible say on apollos
+    - bible on apollos
+    - what does christianity say about apollos
+    - what does christianity have to say on apollos
+    - how is explained in the bible?apollos
+    - what jesus said about apollos
+    - how is apollos explained in christianity?
+    - what jesus spoke about apollos
+    - what christianity says on apollos
+    - christianity on apollos
+    - jesus on apollos
+    - apollos in bible
+    - apollos as explained by bible
+    - apollos as said by jesus
+
+- intent: stories_intent
+  examples: |
+    - what does the bible say about stories
+    - what does the bible have to say onstories
+    - what does the bible say on stories
+    - bible on stories
+    - what does christianity say about stories
+    - what does christianity have to say on stories
+    - how is explained in the bible?stories
+    - what jesus said about stories
+    - how is stories explained in christianity?
+    - what jesus spoke about stories
+    - what christianity says on stories
+    - christianity on stories
+    - jesus on stories
+    - stories in bible
+    - stories as explained by bible
+    - stories as said by jesus
+
+- intent: donkey_intent
+  examples: |
+    - what does the bible say about donkey
+    - what does the bible have to say ondonkey
+    - what does the bible say on donkey
+    - bible on donkey
+    - what does christianity say about donkey
+    - what does christianity have to say on donkey
+    - how is explained in the bible?donkey
+    - what jesus said about donkey
+    - how is donkey explained in christianity?
+    - what jesus spoke about donkey
+    - what christianity says on donkey
+    - christianity on donkey
+    - jesus on donkey
+    - donkey in bible
+    - donkey as explained by bible
+    - donkey as said by jesus
+
+- intent: stewardship_intent
+  examples: |
+    - what does the bible say about stewardship
+    - what does the bible have to say onstewardship
+    - what does the bible say on stewardship
+    - bible on stewardship
+    - what does christianity say about stewardship
+    - what does christianity have to say on stewardship
+    - how is explained in the bible?stewardship
+    - what jesus said about stewardship
+    - how is stewardship explained in christianity?
+    - what jesus spoke about stewardship
+    - what christianity says on stewardship
+    - christianity on stewardship
+    - jesus on stewardship
+    - stewardship in bible
+    - stewardship as explained by bible
+    - stewardship as said by jesus
+
+- intent: lily_intent
+  examples: |
+    - what does the bible say about lily
+    - what does the bible have to say onlily
+    - what does the bible say on lily
+    - bible on lily
+    - what does christianity say about lily
+    - what does christianity have to say on lily
+    - how is explained in the bible?lily
+    - what jesus said about lily
+    - how is lily explained in christianity?
+    - what jesus spoke about lily
+    - what christianity says on lily
+    - christianity on lily
+    - jesus on lily
+    - lily in bible
+    - lily as explained by bible
+    - lily as said by jesus
+
+- intent: hesitation_intent
+  examples: |
+    - what does the bible say about hesitation
+    - what does the bible have to say onhesitation
+    - what does the bible say on hesitation
+    - bible on hesitation
+    - what does christianity say about hesitation
+    - what does christianity have to say on hesitation
+    - how is explained in the bible?hesitation
+    - what jesus said about hesitation
+    - how is hesitation explained in christianity?
+    - what jesus spoke about hesitation
+    - what christianity says on hesitation
+    - christianity on hesitation
+    - jesus on hesitation
+    - hesitation in bible
+    - hesitation as explained by bible
+    - hesitation as said by jesus
+
+- intent: failure_intent
+  examples: |
+    - what does the bible say about failure
+    - what does the bible have to say onfailure
+    - what does the bible say on failure
+    - bible on failure
+    - what does christianity say about failure
+    - what does christianity have to say on failure
+    - how is explained in the bible?failure
+    - what jesus said about failure
+    - how is failure explained in christianity?
+    - what jesus spoke about failure
+    - what christianity says on failure
+    - christianity on failure
+    - jesus on failure
+    - failure in bible
+    - failure as explained by bible
+    - failure as said by jesus
+
+- intent: counterfeit_intent
+  examples: |
+    - what does the bible say about counterfeit
+    - what does the bible have to say oncounterfeit
+    - what does the bible say on counterfeit
+    - bible on counterfeit
+    - what does christianity say about counterfeit
+    - what does christianity have to say on counterfeit
+    - how is explained in the bible?counterfeit
+    - what jesus said about counterfeit
+    - how is counterfeit explained in christianity?
+    - what jesus spoke about counterfeit
+    - what christianity says on counterfeit
+    - christianity on counterfeit
+    - jesus on counterfeit
+    - counterfeit in bible
+    - counterfeit as explained by bible
+    - counterfeit as said by jesus
+
+- intent: changers_intent
+  examples: |
+    - what does the bible say about changers
+    - what does the bible have to say onchangers
+    - what does the bible say on changers
+    - bible on changers
+    - what does christianity say about changers
+    - what does christianity have to say on changers
+    - how is explained in the bible?changers
+    - what jesus said about changers
+    - how is changers explained in christianity?
+    - what jesus spoke about changers
+    - what christianity says on changers
+    - christianity on changers
+    - jesus on changers
+    - changers in bible
+    - changers as explained by bible
+    - changers as said by jesus
+
+- intent: meal_intent
+  examples: |
+    - what does the bible say about meal
+    - what does the bible have to say onmeal
+    - what does the bible say on meal
+    - bible on meal
+    - what does christianity say about meal
+    - what does christianity have to say on meal
+    - how is explained in the bible?meal
+    - what jesus said about meal
+    - how is meal explained in christianity?
+    - what jesus spoke about meal
+    - what christianity says on meal
+    - christianity on meal
+    - jesus on meal
+    - meal in bible
+    - meal as explained by bible
+    - meal as said by jesus
+
+- intent: yoke_intent
+  examples: |
+    - what does the bible say about yoke
+    - what does the bible have to say onyoke
+    - what does the bible say on yoke
+    - bible on yoke
+    - what does christianity say about yoke
+    - what does christianity have to say on yoke
+    - how is explained in the bible?yoke
+    - what jesus said about yoke
+    - how is yoke explained in christianity?
+    - what jesus spoke about yoke
+    - what christianity says on yoke
+    - christianity on yoke
+    - jesus on yoke
+    - yoke in bible
+    - yoke as explained by bible
+    - yoke as said by jesus
+
+- intent: thorn_intent
+  examples: |
+    - what does the bible say about thorn
+    - what does the bible have to say onthorn
+    - what does the bible say on thorn
+    - bible on thorn
+    - what does christianity say about thorn
+    - what does christianity have to say on thorn
+    - how is explained in the bible?thorn
+    - what jesus said about thorn
+    - how is thorn explained in christianity?
+    - what jesus spoke about thorn
+    - what christianity says on thorn
+    - christianity on thorn
+    - jesus on thorn
+    - thorn in bible
+    - thorn as explained by bible
+    - thorn as said by jesus
+
+- intent: angel_intent
+  examples: |
+    - what does the bible say about angel
+    - what does the bible have to say onangel
+    - what does the bible say on angel
+    - bible on angel
+    - what does christianity say about angel
+    - what does christianity have to say on angel
+    - how is explained in the bible?angel
+    - what jesus said about angel
+    - how is angel explained in christianity?
+    - what jesus spoke about angel
+    - what christianity says on angel
+    - christianity on angel
+    - jesus on angel
+    - angel in bible
+    - angel as explained by bible
+    - angel as said by jesus
+
+- intent: probation_intent
+  examples: |
+    - what does the bible say about probation
+    - what does the bible have to say onprobation
+    - what does the bible say on probation
+    - bible on probation
+    - what does christianity say about probation
+    - what does christianity have to say on probation
+    - how is explained in the bible?probation
+    - what jesus said about probation
+    - how is probation explained in christianity?
+    - what jesus spoke about probation
+    - what christianity says on probation
+    - christianity on probation
+    - jesus on probation
+    - probation in bible
+    - probation as explained by bible
+    - probation as said by jesus
+
+- intent: judea_intent
+  examples: |
+    - what does the bible say about judea
+    - what does the bible have to say onjudea
+    - what does the bible say on judea
+    - bible on judea
+    - what does christianity say about judea
+    - what does christianity have to say on judea
+    - how is explained in the bible?judea
+    - what jesus said about judea
+    - how is judea explained in christianity?
+    - what jesus spoke about judea
+    - what christianity says on judea
+    - christianity on judea
+    - jesus on judea
+    - judea in bible
+    - judea as explained by bible
+    - judea as said by jesus
+
+- intent: believer_intent
+  examples: |
+    - what does the bible say about believer
+    - what does the bible have to say onbeliever
+    - what does the bible say on believer
+    - bible on believer
+    - what does christianity say about believer
+    - what does christianity have to say on believer
+    - how is explained in the bible?believer
+    - what jesus said about believer
+    - how is believer explained in christianity?
+    - what jesus spoke about believer
+    - what christianity says on believer
+    - christianity on believer
+    - jesus on believer
+    - believer in bible
+    - believer as explained by bible
+    - believer as said by jesus
+
+- intent: talk_intent
+  examples: |
+    - what does the bible say about talk
+    - what does the bible have to say ontalk
+    - what does the bible say on talk
+    - bible on talk
+    - what does christianity say about talk
+    - what does christianity have to say on talk
+    - how is explained in the bible?talk
+    - what jesus said about talk
+    - how is talk explained in christianity?
+    - what jesus spoke about talk
+    - what christianity says on talk
+    - christianity on talk
+    - jesus on talk
+    - talk in bible
+    - talk as explained by bible
+    - talk as said by jesus
+
+- intent: christlike_intent
+  examples: |
+    - what does the bible say about christlike
+    - what does the bible have to say onchristlike
+    - what does the bible say on christlike
+    - bible on christlike
+    - what does christianity say about christlike
+    - what does christianity have to say on christlike
+    - how is explained in the bible?christlike
+    - what jesus said about christlike
+    - how is christlike explained in christianity?
+    - what jesus spoke about christlike
+    - what christianity says on christlike
+    - christianity on christlike
+    - jesus on christlike
+    - christlike in bible
+    - christlike as explained by bible
+    - christlike as said by jesus
+
+- intent: care_intent
+  examples: |
+    - what does the bible say about care
+    - what does the bible have to say oncare
+    - what does the bible say on care
+    - bible on care
+    - what does christianity say about care
+    - what does christianity have to say on care
+    - how is explained in the bible?care
+    - what jesus said about care
+    - how is care explained in christianity?
+    - what jesus spoke about care
+    - what christianity says on care
+    - christianity on care
+    - jesus on care
+    - care in bible
+    - care as explained by bible
+    - care as said by jesus
+
+- intent: authority_intent
+  examples: |
+    - what does the bible say about authority
+    - what does the bible have to say onauthority
+    - what does the bible say on authority
+    - bible on authority
+    - what does christianity say about authority
+    - what does christianity have to say on authority
+    - how is explained in the bible?authority
+    - what jesus said about authority
+    - how is authority explained in christianity?
+    - what jesus spoke about authority
+    - what christianity says on authority
+    - christianity on authority
+    - jesus on authority
+    - authority in bible
+    - authority as explained by bible
+    - authority as said by jesus
+
+- intent: integrity_intent
+  examples: |
+    - what does the bible say about integrity
+    - what does the bible have to say onintegrity
+    - what does the bible say on integrity
+    - bible on integrity
+    - what does christianity say about integrity
+    - what does christianity have to say on integrity
+    - how is explained in the bible?integrity
+    - what jesus said about integrity
+    - how is integrity explained in christianity?
+    - what jesus spoke about integrity
+    - what christianity says on integrity
+    - christianity on integrity
+    - jesus on integrity
+    - integrity in bible
+    - integrity as explained by bible
+    - integrity as said by jesus
+
+- intent: holy_intent
+  examples: |
+    - what does the bible say about holy
+    - what does the bible have to say onholy
+    - what does the bible say on holy
+    - bible on holy
+    - what does christianity say about holy
+    - what does christianity have to say on holy
+    - how is explained in the bible?holy
+    - what jesus said about holy
+    - how is holy explained in christianity?
+    - what jesus spoke about holy
+    - what christianity says on holy
+    - christianity on holy
+    - jesus on holy
+    - holy in bible
+    - holy as explained by bible
+    - holy as said by jesus
+
+- intent: background_intent
+  examples: |
+    - what does the bible say about background
+    - what does the bible have to say onbackground
+    - what does the bible say on background
+    - bible on background
+    - what does christianity say about background
+    - what does christianity have to say on background
+    - how is explained in the bible?background
+    - what jesus said about background
+    - how is background explained in christianity?
+    - what jesus spoke about background
+    - what christianity says on background
+    - christianity on background
+    - jesus on background
+    - background in bible
+    - background as explained by bible
+    - background as said by jesus
+
+- intent: jericho_intent
+  examples: |
+    - what does the bible say about jericho
+    - what does the bible have to say onjericho
+    - what does the bible say on jericho
+    - bible on jericho
+    - what does christianity say about jericho
+    - what does christianity have to say on jericho
+    - how is explained in the bible?jericho
+    - what jesus said about jericho
+    - how is jericho explained in christianity?
+    - what jesus spoke about jericho
+    - what christianity says on jericho
+    - christianity on jericho
+    - jesus on jericho
+    - jericho in bible
+    - jericho as explained by bible
+    - jericho as said by jesus
+
+- intent: prayerless_intent
+  examples: |
+    - what does the bible say about prayerless
+    - what does the bible have to say onprayerless
+    - what does the bible say on prayerless
+    - bible on prayerless
+    - what does christianity say about prayerless
+    - what does christianity have to say on prayerless
+    - how is explained in the bible?prayerless
+    - what jesus said about prayerless
+    - how is prayerless explained in christianity?
+    - what jesus spoke about prayerless
+    - what christianity says on prayerless
+    - christianity on prayerless
+    - jesus on prayerless
+    - prayerless in bible
+    - prayerless as explained by bible
+    - prayerless as said by jesus
+
+- intent: scholar_intent
+  examples: |
+    - what does the bible say about scholar
+    - what does the bible have to say onscholar
+    - what does the bible say on scholar
+    - bible on scholar
+    - what does christianity say about scholar
+    - what does christianity have to say on scholar
+    - how is explained in the bible?scholar
+    - what jesus said about scholar
+    - how is scholar explained in christianity?
+    - what jesus spoke about scholar
+    - what christianity says on scholar
+    - christianity on scholar
+    - jesus on scholar
+    - scholar in bible
+    - scholar as explained by bible
+    - scholar as said by jesus
+
+- intent: sam_intent
+  examples: |
+    - what does the bible say about sam
+    - what does the bible have to say onsam
+    - what does the bible say on sam
+    - bible on sam
+    - what does christianity say about sam
+    - what does christianity have to say on sam
+    - how is explained in the bible?sam
+    - what jesus said about sam
+    - how is sam explained in christianity?
+    - what jesus spoke about sam
+    - what christianity says on sam
+    - christianity on sam
+    - jesus on sam
+    - sam in bible
+    - sam as explained by bible
+    - sam as said by jesus
+
+- intent: confession_intent
+  examples: |
+    - what does the bible say about confession
+    - what does the bible have to say onconfession
+    - what does the bible say on confession
+    - bible on confession
+    - what does christianity say about confession
+    - what does christianity have to say on confession
+    - how is explained in the bible?confession
+    - what jesus said about confession
+    - how is confession explained in christianity?
+    - what jesus spoke about confession
+    - what christianity says on confession
+    - christianity on confession
+    - jesus on confession
+    - confession in bible
+    - confession as explained by bible
+    - confession as said by jesus
+
+- intent: attitude_intent
+  examples: |
+    - what does the bible say about attitude
+    - what does the bible have to say onattitude
+    - what does the bible say on attitude
+    - bible on attitude
+    - what does christianity say about attitude
+    - what does christianity have to say on attitude
+    - how is explained in the bible?attitude
+    - what jesus said about attitude
+    - how is attitude explained in christianity?
+    - what jesus spoke about attitude
+    - what christianity says on attitude
+    - christianity on attitude
+    - jesus on attitude
+    - attitude in bible
+    - attitude as explained by bible
+    - attitude as said by jesus
+
+- intent: experience_intent
+  examples: |
+    - what does the bible say about experience
+    - what does the bible have to say onexperience
+    - what does the bible say on experience
+    - bible on experience
+    - what does christianity say about experience
+    - what does christianity have to say on experience
+    - how is explained in the bible?experience
+    - what jesus said about experience
+    - how is experience explained in christianity?
+    - what jesus spoke about experience
+    - what christianity says on experience
+    - christianity on experience
+    - jesus on experience
+    - experience in bible
+    - experience as explained by bible
+    - experience as said by jesus
+
+- intent: robe_intent
+  examples: |
+    - what does the bible say about robe
+    - what does the bible have to say onrobe
+    - what does the bible say on robe
+    - bible on robe
+    - what does christianity say about robe
+    - what does christianity have to say on robe
+    - how is explained in the bible?robe
+    - what jesus said about robe
+    - how is robe explained in christianity?
+    - what jesus spoke about robe
+    - what christianity says on robe
+    - christianity on robe
+    - jesus on robe
+    - robe in bible
+    - robe as explained by bible
+    - robe as said by jesus
+
+- intent: forgiveness_intent
+  examples: |
+    - what does the bible say about forgiveness
+    - what does the bible have to say onforgiveness
+    - what does the bible say on forgiveness
+    - bible on forgiveness
+    - what does christianity say about forgiveness
+    - what does christianity have to say on forgiveness
+    - how is explained in the bible?forgiveness
+    - what jesus said about forgiveness
+    - how is forgiveness explained in christianity?
+    - what jesus spoke about forgiveness
+    - what christianity says on forgiveness
+    - christianity on forgiveness
+    - jesus on forgiveness
+    - forgiveness in bible
+    - forgiveness as explained by bible
+    - forgiveness as said by jesus
+
+- intent: newness_intent
+  examples: |
+    - what does the bible say about newness
+    - what does the bible have to say onnewness
+    - what does the bible say on newness
+    - bible on newness
+    - what does christianity say about newness
+    - what does christianity have to say on newness
+    - how is explained in the bible?newness
+    - what jesus said about newness
+    - how is newness explained in christianity?
+    - what jesus spoke about newness
+    - what christianity says on newness
+    - christianity on newness
+    - jesus on newness
+    - newness in bible
+    - newness as explained by bible
+    - newness as said by jesus
+
+- intent: kin_intent
+  examples: |
+    - what does the bible say about kin
+    - what does the bible have to say onkin
+    - what does the bible say on kin
+    - bible on kin
+    - what does christianity say about kin
+    - what does christianity have to say on kin
+    - how is explained in the bible?kin
+    - what jesus said about kin
+    - how is kin explained in christianity?
+    - what jesus spoke about kin
+    - what christianity says on kin
+    - christianity on kin
+    - jesus on kin
+    - kin in bible
+    - kin as explained by bible
+    - kin as said by jesus
+
+- intent: environment_intent
+  examples: |
+    - what does the bible say about environment
+    - what does the bible have to say onenvironment
+    - what does the bible say on environment
+    - bible on environment
+    - what does christianity say about environment
+    - what does christianity have to say on environment
+    - how is explained in the bible?environment
+    - what jesus said about environment
+    - how is environment explained in christianity?
+    - what jesus spoke about environment
+    - what christianity says on environment
+    - christianity on environment
+    - jesus on environment
+    - environment in bible
+    - environment as explained by bible
+    - environment as said by jesus
+
+- intent: samuel_intent
+  examples: |
+    - what does the bible say about samuel
+    - what does the bible have to say onsamuel
+    - what does the bible say on samuel
+    - bible on samuel
+    - what does christianity say about samuel
+    - what does christianity have to say on samuel
+    - how is explained in the bible?samuel
+    - what jesus said about samuel
+    - how is samuel explained in christianity?
+    - what jesus spoke about samuel
+    - what christianity says on samuel
+    - christianity on samuel
+    - jesus on samuel
+    - samuel in bible
+    - samuel as explained by bible
+    - samuel as said by jesus
+
+- intent: harpist_intent
+  examples: |
+    - what does the bible say about harpist
+    - what does the bible have to say onharpist
+    - what does the bible say on harpist
+    - bible on harpist
+    - what does christianity say about harpist
+    - what does christianity have to say on harpist
+    - how is explained in the bible?harpist
+    - what jesus said about harpist
+    - how is harpist explained in christianity?
+    - what jesus spoke about harpist
+    - what christianity says on harpist
+    - christianity on harpist
+    - jesus on harpist
+    - harpist in bible
+    - harpist as explained by bible
+    - harpist as said by jesus
+
+- intent: shore_intent
+  examples: |
+    - what does the bible say about shore
+    - what does the bible have to say onshore
+    - what does the bible say on shore
+    - bible on shore
+    - what does christianity say about shore
+    - what does christianity have to say on shore
+    - how is explained in the bible?shore
+    - what jesus said about shore
+    - how is shore explained in christianity?
+    - what jesus spoke about shore
+    - what christianity says on shore
+    - christianity on shore
+    - jesus on shore
+    - shore in bible
+    - shore as explained by bible
+    - shore as said by jesus
+
+- intent: root_intent
+  examples: |
+    - what does the bible say about root
+    - what does the bible have to say onroot
+    - what does the bible say on root
+    - bible on root
+    - what does christianity say about root
+    - what does christianity have to say on root
+    - how is explained in the bible?root
+    - what jesus said about root
+    - how is root explained in christianity?
+    - what jesus spoke about root
+    - what christianity says on root
+    - christianity on root
+    - jesus on root
+    - root in bible
+    - root as explained by bible
+    - root as said by jesus
+
+- intent: imprisonments_intent
+  examples: |
+    - what does the bible say about imprisonments
+    - what does the bible have to say onimprisonments
+    - what does the bible say on imprisonments
+    - bible on imprisonments
+    - what does christianity say about imprisonments
+    - what does christianity have to say on imprisonments
+    - how is explained in the bible?imprisonments
+    - what jesus said about imprisonments
+    - how is imprisonments explained in christianity?
+    - what jesus spoke about imprisonments
+    - what christianity says on imprisonments
+    - christianity on imprisonments
+    - jesus on imprisonments
+    - imprisonments in bible
+    - imprisonments as explained by bible
+    - imprisonments as said by jesus
+
+- intent: descendants_intent
+  examples: |
+    - what does the bible say about descendants
+    - what does the bible have to say ondescendants
+    - what does the bible say on descendants
+    - bible on descendants
+    - what does christianity say about descendants
+    - what does christianity have to say on descendants
+    - how is explained in the bible?descendants
+    - what jesus said about descendants
+    - how is descendants explained in christianity?
+    - what jesus spoke about descendants
+    - what christianity says on descendants
+    - christianity on descendants
+    - jesus on descendants
+    - descendants in bible
+    - descendants as explained by bible
+    - descendants as said by jesus
+
+- intent: departments_intent
+  examples: |
+    - what does the bible say about departments
+    - what does the bible have to say ondepartments
+    - what does the bible say on departments
+    - bible on departments
+    - what does christianity say about departments
+    - what does christianity have to say on departments
+    - how is explained in the bible?departments
+    - what jesus said about departments
+    - how is departments explained in christianity?
+    - what jesus spoke about departments
+    - what christianity says on departments
+    - christianity on departments
+    - jesus on departments
+    - departments in bible
+    - departments as explained by bible
+    - departments as said by jesus
+
+- intent: awfulness_intent
+  examples: |
+    - what does the bible say about awfulness
+    - what does the bible have to say onawfulness
+    - what does the bible say on awfulness
+    - bible on awfulness
+    - what does christianity say about awfulness
+    - what does christianity have to say on awfulness
+    - how is explained in the bible?awfulness
+    - what jesus said about awfulness
+    - how is awfulness explained in christianity?
+    - what jesus spoke about awfulness
+    - what christianity says on awfulness
+    - christianity on awfulness
+    - jesus on awfulness
+    - awfulness in bible
+    - awfulness as explained by bible
+    - awfulness as said by jesus
+
+- intent: prison_intent
+  examples: |
+    - what does the bible say about prison
+    - what does the bible have to say onprison
+    - what does the bible say on prison
+    - bible on prison
+    - what does christianity say about prison
+    - what does christianity have to say on prison
+    - how is explained in the bible?prison
+    - what jesus said about prison
+    - how is prison explained in christianity?
+    - what jesus spoke about prison
+    - what christianity says on prison
+    - christianity on prison
+    - jesus on prison
+    - prison in bible
+    - prison as explained by bible
+    - prison as said by jesus
+
+- intent: rib_intent
+  examples: |
+    - what does the bible say about rib
+    - what does the bible have to say onrib
+    - what does the bible say on rib
+    - bible on rib
+    - what does christianity say about rib
+    - what does christianity have to say on rib
+    - how is explained in the bible?rib
+    - what jesus said about rib
+    - how is rib explained in christianity?
+    - what jesus spoke about rib
+    - what christianity says on rib
+    - christianity on rib
+    - jesus on rib
+    - rib in bible
+    - rib as explained by bible
+    - rib as said by jesus
+
+- intent: camels_intent
+  examples: |
+    - what does the bible say about camels
+    - what does the bible have to say oncamels
+    - what does the bible say on camels
+    - bible on camels
+    - what does christianity say about camels
+    - what does christianity have to say on camels
+    - how is explained in the bible?camels
+    - what jesus said about camels
+    - how is camels explained in christianity?
+    - what jesus spoke about camels
+    - what christianity says on camels
+    - christianity on camels
+    - jesus on camels
+    - camels in bible
+    - camels as explained by bible
+    - camels as said by jesus
+
+- intent: mouthpiece_intent
+  examples: |
+    - what does the bible say about mouthpiece
+    - what does the bible have to say onmouthpiece
+    - what does the bible say on mouthpiece
+    - bible on mouthpiece
+    - what does christianity say about mouthpiece
+    - what does christianity have to say on mouthpiece
+    - how is explained in the bible?mouthpiece
+    - what jesus said about mouthpiece
+    - how is mouthpiece explained in christianity?
+    - what jesus spoke about mouthpiece
+    - what christianity says on mouthpiece
+    - christianity on mouthpiece
+    - jesus on mouthpiece
+    - mouthpiece in bible
+    - mouthpiece as explained by bible
+    - mouthpiece as said by jesus
+
+- intent: car_intent
+  examples: |
+    - what does the bible say about car
+    - what does the bible have to say oncar
+    - what does the bible say on car
+    - bible on car
+    - what does christianity say about car
+    - what does christianity have to say on car
+    - how is explained in the bible?car
+    - what jesus said about car
+    - how is car explained in christianity?
+    - what jesus spoke about car
+    - what christianity says on car
+    - christianity on car
+    - jesus on car
+    - car in bible
+    - car as explained by bible
+    - car as said by jesus
+
+- intent: vacation_intent
+  examples: |
+    - what does the bible say about vacation
+    - what does the bible have to say onvacation
+    - what does the bible say on vacation
+    - bible on vacation
+    - what does christianity say about vacation
+    - what does christianity have to say on vacation
+    - how is explained in the bible?vacation
+    - what jesus said about vacation
+    - how is vacation explained in christianity?
+    - what jesus spoke about vacation
+    - what christianity says on vacation
+    - christianity on vacation
+    - jesus on vacation
+    - vacation in bible
+    - vacation as explained by bible
+    - vacation as said by jesus
+
+- intent: waste_intent
+  examples: |
+    - what does the bible say about waste
+    - what does the bible have to say onwaste
+    - what does the bible say on waste
+    - bible on waste
+    - what does christianity say about waste
+    - what does christianity have to say on waste
+    - how is explained in the bible?waste
+    - what jesus said about waste
+    - how is waste explained in christianity?
+    - what jesus spoke about waste
+    - what christianity says on waste
+    - christianity on waste
+    - jesus on waste
+    - waste in bible
+    - waste as explained by bible
+    - waste as said by jesus
+
+- intent: romans_intent
+  examples: |
+    - what does the bible say about romans
+    - what does the bible have to say onromans
+    - what does the bible say on romans
+    - bible on romans
+    - what does christianity say about romans
+    - what does christianity have to say on romans
+    - how is explained in the bible?romans
+    - what jesus said about romans
+    - how is romans explained in christianity?
+    - what jesus spoke about romans
+    - what christianity says on romans
+    - christianity on romans
+    - jesus on romans
+    - romans in bible
+    - romans as explained by bible
+    - romans as said by jesus
+
+- intent: dependability_intent
+  examples: |
+    - what does the bible say about dependability
+    - what does the bible have to say ondependability
+    - what does the bible say on dependability
+    - bible on dependability
+    - what does christianity say about dependability
+    - what does christianity have to say on dependability
+    - how is explained in the bible?dependability
+    - what jesus said about dependability
+    - how is dependability explained in christianity?
+    - what jesus spoke about dependability
+    - what christianity says on dependability
+    - christianity on dependability
+    - jesus on dependability
+    - dependability in bible
+    - dependability as explained by bible
+    - dependability as said by jesus
+
+- intent: curse_intent
+  examples: |
+    - what does the bible say about curse
+    - what does the bible have to say oncurse
+    - what does the bible say on curse
+    - bible on curse
+    - what does christianity say about curse
+    - what does christianity have to say on curse
+    - how is explained in the bible?curse
+    - what jesus said about curse
+    - how is curse explained in christianity?
+    - what jesus spoke about curse
+    - what christianity says on curse
+    - christianity on curse
+    - jesus on curse
+    - curse in bible
+    - curse as explained by bible
+    - curse as said by jesus
+
+- intent: temperaments_intent
+  examples: |
+    - what does the bible say about temperaments
+    - what does the bible have to say ontemperaments
+    - what does the bible say on temperaments
+    - bible on temperaments
+    - what does christianity say about temperaments
+    - what does christianity have to say on temperaments
+    - how is explained in the bible?temperaments
+    - what jesus said about temperaments
+    - how is temperaments explained in christianity?
+    - what jesus spoke about temperaments
+    - what christianity says on temperaments
+    - christianity on temperaments
+    - jesus on temperaments
+    - temperaments in bible
+    - temperaments as explained by bible
+    - temperaments as said by jesus
+
+- intent: amasai_intent
+  examples: |
+    - what does the bible say about amasai
+    - what does the bible have to say onamasai
+    - what does the bible say on amasai
+    - bible on amasai
+    - what does christianity say about amasai
+    - what does christianity have to say on amasai
+    - how is explained in the bible?amasai
+    - what jesus said about amasai
+    - how is amasai explained in christianity?
+    - what jesus spoke about amasai
+    - what christianity says on amasai
+    - christianity on amasai
+    - jesus on amasai
+    - amasai in bible
+    - amasai as explained by bible
+    - amasai as said by jesus
+
+- intent: cleanliness_intent
+  examples: |
+    - what does the bible say about cleanliness
+    - what does the bible have to say oncleanliness
+    - what does the bible say on cleanliness
+    - bible on cleanliness
+    - what does christianity say about cleanliness
+    - what does christianity have to say on cleanliness
+    - how is explained in the bible?cleanliness
+    - what jesus said about cleanliness
+    - how is cleanliness explained in christianity?
+    - what jesus spoke about cleanliness
+    - what christianity says on cleanliness
+    - christianity on cleanliness
+    - jesus on cleanliness
+    - cleanliness in bible
+    - cleanliness as explained by bible
+    - cleanliness as said by jesus
+
+- intent: beacon_intent
+  examples: |
+    - what does the bible say about beacon
+    - what does the bible have to say onbeacon
+    - what does the bible say on beacon
+    - bible on beacon
+    - what does christianity say about beacon
+    - what does christianity have to say on beacon
+    - how is explained in the bible?beacon
+    - what jesus said about beacon
+    - how is beacon explained in christianity?
+    - what jesus spoke about beacon
+    - what christianity says on beacon
+    - christianity on beacon
+    - jesus on beacon
+    - beacon in bible
+    - beacon as explained by bible
+    - beacon as said by jesus
+
+- intent: minutes_intent
+  examples: |
+    - what does the bible say about minutes
+    - what does the bible have to say onminutes
+    - what does the bible say on minutes
+    - bible on minutes
+    - what does christianity say about minutes
+    - what does christianity have to say on minutes
+    - how is explained in the bible?minutes
+    - what jesus said about minutes
+    - how is minutes explained in christianity?
+    - what jesus spoke about minutes
+    - what christianity says on minutes
+    - christianity on minutes
+    - jesus on minutes
+    - minutes in bible
+    - minutes as explained by bible
+    - minutes as said by jesus
+
+- intent: reverence_intent
+  examples: |
+    - what does the bible say about reverence
+    - what does the bible have to say onreverence
+    - what does the bible say on reverence
+    - bible on reverence
+    - what does christianity say about reverence
+    - what does christianity have to say on reverence
+    - how is explained in the bible?reverence
+    - what jesus said about reverence
+    - how is reverence explained in christianity?
+    - what jesus spoke about reverence
+    - what christianity says on reverence
+    - christianity on reverence
+    - jesus on reverence
+    - reverence in bible
+    - reverence as explained by bible
+    - reverence as said by jesus
+
+- intent: helpers_intent
+  examples: |
+    - what does the bible say about helpers
+    - what does the bible have to say onhelpers
+    - what does the bible say on helpers
+    - bible on helpers
+    - what does christianity say about helpers
+    - what does christianity have to say on helpers
+    - how is explained in the bible?helpers
+    - what jesus said about helpers
+    - how is helpers explained in christianity?
+    - what jesus spoke about helpers
+    - what christianity says on helpers
+    - christianity on helpers
+    - jesus on helpers
+    - helpers in bible
+    - helpers as explained by bible
+    - helpers as said by jesus
+
+- intent: dream_intent
+  examples: |
+    - what does the bible say about dream
+    - what does the bible have to say ondream
+    - what does the bible say on dream
+    - bible on dream
+    - what does christianity say about dream
+    - what does christianity have to say on dream
+    - how is explained in the bible?dream
+    - what jesus said about dream
+    - how is dream explained in christianity?
+    - what jesus spoke about dream
+    - what christianity says on dream
+    - christianity on dream
+    - jesus on dream
+    - dream in bible
+    - dream as explained by bible
+    - dream as said by jesus
+
+- intent: trials_intent
+  examples: |
+    - what does the bible say about trials
+    - what does the bible have to say ontrials
+    - what does the bible say on trials
+    - bible on trials
+    - what does christianity say about trials
+    - what does christianity have to say on trials
+    - how is explained in the bible?trials
+    - what jesus said about trials
+    - how is trials explained in christianity?
+    - what jesus spoke about trials
+    - what christianity says on trials
+    - christianity on trials
+    - jesus on trials
+    - trials in bible
+    - trials as explained by bible
+    - trials as said by jesus
+
+- intent: professors_intent
+  examples: |
+    - what does the bible say about professors
+    - what does the bible have to say onprofessors
+    - what does the bible say on professors
+    - bible on professors
+    - what does christianity say about professors
+    - what does christianity have to say on professors
+    - how is explained in the bible?professors
+    - what jesus said about professors
+    - how is professors explained in christianity?
+    - what jesus spoke about professors
+    - what christianity says on professors
+    - christianity on professors
+    - jesus on professors
+    - professors in bible
+    - professors as explained by bible
+    - professors as said by jesus
+
+- intent: age_intent
+  examples: |
+    - what does the bible say about age
+    - what does the bible have to say onage
+    - what does the bible say on age
+    - bible on age
+    - what does christianity say about age
+    - what does christianity have to say on age
+    - how is explained in the bible?age
+    - what jesus said about age
+    - how is age explained in christianity?
+    - what jesus spoke about age
+    - what christianity says on age
+    - christianity on age
+    - jesus on age
+    - age in bible
+    - age as explained by bible
+    - age as said by jesus
+
+- intent: visualization_intent
+  examples: |
+    - what does the bible say about visualization
+    - what does the bible have to say onvisualization
+    - what does the bible say on visualization
+    - bible on visualization
+    - what does christianity say about visualization
+    - what does christianity have to say on visualization
+    - how is explained in the bible?visualization
+    - what jesus said about visualization
+    - how is visualization explained in christianity?
+    - what jesus spoke about visualization
+    - what christianity says on visualization
+    - christianity on visualization
+    - jesus on visualization
+    - visualization in bible
+    - visualization as explained by bible
+    - visualization as said by jesus
+
+- intent: severity_intent
+  examples: |
+    - what does the bible say about severity
+    - what does the bible have to say onseverity
+    - what does the bible say on severity
+    - bible on severity
+    - what does christianity say about severity
+    - what does christianity have to say on severity
+    - how is explained in the bible?severity
+    - what jesus said about severity
+    - how is severity explained in christianity?
+    - what jesus spoke about severity
+    - what christianity says on severity
+    - christianity on severity
+    - jesus on severity
+    - severity in bible
+    - severity as explained by bible
+    - severity as said by jesus
+
+- intent: rainbow_intent
+  examples: |
+    - what does the bible say about rainbow
+    - what does the bible have to say onrainbow
+    - what does the bible say on rainbow
+    - bible on rainbow
+    - what does christianity say about rainbow
+    - what does christianity have to say on rainbow
+    - how is explained in the bible?rainbow
+    - what jesus said about rainbow
+    - how is rainbow explained in christianity?
+    - what jesus spoke about rainbow
+    - what christianity says on rainbow
+    - christianity on rainbow
+    - jesus on rainbow
+    - rainbow in bible
+    - rainbow as explained by bible
+    - rainbow as said by jesus
+
+- intent: cent_intent
+  examples: |
+    - what does the bible say about cent
+    - what does the bible have to say oncent
+    - what does the bible say on cent
+    - bible on cent
+    - what does christianity say about cent
+    - what does christianity have to say on cent
+    - how is explained in the bible?cent
+    - what jesus said about cent
+    - how is cent explained in christianity?
+    - what jesus spoke about cent
+    - what christianity says on cent
+    - christianity on cent
+    - jesus on cent
+    - cent in bible
+    - cent as explained by bible
+    - cent as said by jesus
+
+- intent: lizard_intent
+  examples: |
+    - what does the bible say about lizard
+    - what does the bible have to say onlizard
+    - what does the bible say on lizard
+    - bible on lizard
+    - what does christianity say about lizard
+    - what does christianity have to say on lizard
+    - how is explained in the bible?lizard
+    - what jesus said about lizard
+    - how is lizard explained in christianity?
+    - what jesus spoke about lizard
+    - what christianity says on lizard
+    - christianity on lizard
+    - jesus on lizard
+    - lizard in bible
+    - lizard as explained by bible
+    - lizard as said by jesus
+
+- intent: kun_intent
+  examples: |
+    - what does the bible say about kun
+    - what does the bible have to say onkun
+    - what does the bible say on kun
+    - bible on kun
+    - what does christianity say about kun
+    - what does christianity have to say on kun
+    - how is explained in the bible?kun
+    - what jesus said about kun
+    - how is kun explained in christianity?
+    - what jesus spoke about kun
+    - what christianity says on kun
+    - christianity on kun
+    - jesus on kun
+    - kun in bible
+    - kun as explained by bible
+    - kun as said by jesus
+
+- intent: pet_intent
+  examples: |
+    - what does the bible say about pet
+    - what does the bible have to say onpet
+    - what does the bible say on pet
+    - bible on pet
+    - what does christianity say about pet
+    - what does christianity have to say on pet
+    - how is explained in the bible?pet
+    - what jesus said about pet
+    - how is pet explained in christianity?
+    - what jesus spoke about pet
+    - what christianity says on pet
+    - christianity on pet
+    - jesus on pet
+    - pet in bible
+    - pet as explained by bible
+    - pet as said by jesus
+
+- intent: smallness_intent
+  examples: |
+    - what does the bible say about smallness
+    - what does the bible have to say onsmallness
+    - what does the bible say on smallness
+    - bible on smallness
+    - what does christianity say about smallness
+    - what does christianity have to say on smallness
+    - how is explained in the bible?smallness
+    - what jesus said about smallness
+    - how is smallness explained in christianity?
+    - what jesus spoke about smallness
+    - what christianity says on smallness
+    - christianity on smallness
+    - jesus on smallness
+    - smallness in bible
+    - smallness as explained by bible
+    - smallness as said by jesus
+
+- intent: presence_intent
+  examples: |
+    - what does the bible say about presence
+    - what does the bible have to say onpresence
+    - what does the bible say on presence
+    - bible on presence
+    - what does christianity say about presence
+    - what does christianity have to say on presence
+    - how is explained in the bible?presence
+    - what jesus said about presence
+    - how is presence explained in christianity?
+    - what jesus spoke about presence
+    - what christianity says on presence
+    - christianity on presence
+    - jesus on presence
+    - presence in bible
+    - presence as explained by bible
+    - presence as said by jesus
+
+- intent: whistle_intent
+  examples: |
+    - what does the bible say about whistle
+    - what does the bible have to say onwhistle
+    - what does the bible say on whistle
+    - bible on whistle
+    - what does christianity say about whistle
+    - what does christianity have to say on whistle
+    - how is explained in the bible?whistle
+    - what jesus said about whistle
+    - how is whistle explained in christianity?
+    - what jesus spoke about whistle
+    - what christianity says on whistle
+    - christianity on whistle
+    - jesus on whistle
+    - whistle in bible
+    - whistle as explained by bible
+    - whistle as said by jesus
+
+- intent: ii_intent
+  examples: |
+    - what does the bible say about ii
+    - what does the bible have to say onii
+    - what does the bible say on ii
+    - bible on ii
+    - what does christianity say about ii
+    - what does christianity have to say on ii
+    - how is explained in the bible?ii
+    - what jesus said about ii
+    - how is ii explained in christianity?
+    - what jesus spoke about ii
+    - what christianity says on ii
+    - christianity on ii
+    - jesus on ii
+    - ii in bible
+    - ii as explained by bible
+    - ii as said by jesus
+
+- intent: look_intent
+  examples: |
+    - what does the bible say about look
+    - what does the bible have to say onlook
+    - what does the bible say on look
+    - bible on look
+    - what does christianity say about look
+    - what does christianity have to say on look
+    - how is explained in the bible?look
+    - what jesus said about look
+    - how is look explained in christianity?
+    - what jesus spoke about look
+    - what christianity says on look
+    - christianity on look
+    - jesus on look
+    - look in bible
+    - look as explained by bible
+    - look as said by jesus
+
+- intent: carmichael_intent
+  examples: |
+    - what does the bible say about carmichael
+    - what does the bible have to say oncarmichael
+    - what does the bible say on carmichael
+    - bible on carmichael
+    - what does christianity say about carmichael
+    - what does christianity have to say on carmichael
+    - how is explained in the bible?carmichael
+    - what jesus said about carmichael
+    - how is carmichael explained in christianity?
+    - what jesus spoke about carmichael
+    - what christianity says on carmichael
+    - christianity on carmichael
+    - jesus on carmichael
+    - carmichael in bible
+    - carmichael as explained by bible
+    - carmichael as said by jesus
+
+- intent: ph_intent
+  examples: |
+    - what does the bible say about ph
+    - what does the bible have to say onph
+    - what does the bible say on ph
+    - bible on ph
+    - what does christianity say about ph
+    - what does christianity have to say on ph
+    - how is explained in the bible?ph
+    - what jesus said about ph
+    - how is ph explained in christianity?
+    - what jesus spoke about ph
+    - what christianity says on ph
+    - christianity on ph
+    - jesus on ph
+    - ph in bible
+    - ph as explained by bible
+    - ph as said by jesus
+
+- intent: amount_intent
+  examples: |
+    - what does the bible say about amount
+    - what does the bible have to say onamount
+    - what does the bible say on amount
+    - bible on amount
+    - what does christianity say about amount
+    - what does christianity have to say on amount
+    - how is explained in the bible?amount
+    - what jesus said about amount
+    - how is amount explained in christianity?
+    - what jesus spoke about amount
+    - what christianity says on amount
+    - christianity on amount
+    - jesus on amount
+    - amount in bible
+    - amount as explained by bible
+    - amount as said by jesus
+
+- intent: mal_intent
+  examples: |
+    - what does the bible say about mal
+    - what does the bible have to say onmal
+    - what does the bible say on mal
+    - bible on mal
+    - what does christianity say about mal
+    - what does christianity have to say on mal
+    - how is explained in the bible?mal
+    - what jesus said about mal
+    - how is mal explained in christianity?
+    - what jesus spoke about mal
+    - what christianity says on mal
+    - christianity on mal
+    - jesus on mal
+    - mal in bible
+    - mal as explained by bible
+    - mal as said by jesus
+
+- intent: noise_intent
+  examples: |
+    - what does the bible say about noise
+    - what does the bible have to say onnoise
+    - what does the bible say on noise
+    - bible on noise
+    - what does christianity say about noise
+    - what does christianity have to say on noise
+    - how is explained in the bible?noise
+    - what jesus said about noise
+    - how is noise explained in christianity?
+    - what jesus spoke about noise
+    - what christianity says on noise
+    - christianity on noise
+    - jesus on noise
+    - noise in bible
+    - noise as explained by bible
+    - noise as said by jesus
+
+- intent: msg_intent
+  examples: |
+    - what does the bible say about msg
+    - what does the bible have to say onmsg
+    - what does the bible say on msg
+    - bible on msg
+    - what does christianity say about msg
+    - what does christianity have to say on msg
+    - how is explained in the bible?msg
+    - what jesus said about msg
+    - how is msg explained in christianity?
+    - what jesus spoke about msg
+    - what christianity says on msg
+    - christianity on msg
+    - jesus on msg
+    - msg in bible
+    - msg as explained by bible
+    - msg as said by jesus
+
+- intent: naaman_intent
+  examples: |
+    - what does the bible say about naaman
+    - what does the bible have to say onnaaman
+    - what does the bible say on naaman
+    - bible on naaman
+    - what does christianity say about naaman
+    - what does christianity have to say on naaman
+    - how is explained in the bible?naaman
+    - what jesus said about naaman
+    - how is naaman explained in christianity?
+    - what jesus spoke about naaman
+    - what christianity says on naaman
+    - christianity on naaman
+    - jesus on naaman
+    - naaman in bible
+    - naaman as explained by bible
+    - naaman as said by jesus
