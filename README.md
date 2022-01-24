@@ -1,9 +1,9 @@
 # Please follow the BERT instructions and then RASA instructions:
 
 
-####################################################################################
-# BERT Instructions: Run the following commands:->
-####################################################################################
+############################################################################################
+# BERT Instructions: Run the following commands:-> Open BERT-API EC2 instance:->
+############################################################################################
 * sudo su  
 * cd /home/ubuntu/bible_api_rasa/docker_version/ui/static/javascript
 * vi app.js :-> Edit the first line of the file with the new public IP of the BERT machine-instance(command in vi is 'i' for insert).               exit vi by pressing escape and then ':wq' 
@@ -12,12 +12,11 @@
 * docker run -p 8002:8002 clientapi:v1
 
 
-
-#######################################################################################
+############################################################################################
 # RASA Instructions: Will have 3 terminals.(3 duplicate sessions, or -d will also work)
-#######################################################################################
+############################################################################################
 #######################################
-# TERMINAL-1: Run the following commands:
+- TERMINAL-1: Run the following commands:
 #######################################
 * sudo su
 * cd /home/ubuntu/rasa_3/alexa_bible_skill  
@@ -31,7 +30,7 @@
 
 
 #######################################
-# TERMINAL-2: Run the following commands:
+- TERMINAL-2: Run the following commands:
 #######################################
 * sudo su
 * source venv/bin/activate
@@ -40,7 +39,7 @@
 
 
 #######################################
-#TERMINAL-3: Run the following commands:
+- TERMINAL-3: Run the following commands:
 #######################################
 * sudo su
 * source venv/bin/activate
@@ -77,4 +76,4 @@ Some working Query Examples:
 18. [kings] as said by jesus
 
 ########################################################################################
-# The updated list of keywords currently embedded into the model is in '200_keywords_list.txt' in the root directory of the project.
+- The updated list of keywords currently embedded into the model is in '200_keywords_list.txt' in the root directory of the project.
