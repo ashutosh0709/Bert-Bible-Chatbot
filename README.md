@@ -4,10 +4,10 @@
 ####################################################################################
 # BERT Instructions: Run the following commands:->
 ####################################################################################
-*sudo su  
-*cd /home/ubuntu/bible_api_rasa/docker_version/ui/static/javascript
-*vi app.js :-> Edit the first line of the file with the new public IP of the BERT machine-instance(command in vi is 'i' for insert).               exit vi by pressing escape and then ':wq' 
-*cd /home/ubuntu/bible_api_rasa/docker_version
+* sudo su  
+* cd /home/ubuntu/bible_api_rasa/docker_version/ui/static/javascript
+* vi app.js :-> Edit the first line of the file with the new public IP of the BERT machine-instance(command in vi is 'i' for insert).               exit vi by pressing escape and then ':wq' 
+* cd /home/ubuntu/bible_api_rasa/docker_version
 *docker build -t clientapi:v1 -f Dockerfile.capi .
 *docker run -p 8002:8002 clientapi:v1
 
