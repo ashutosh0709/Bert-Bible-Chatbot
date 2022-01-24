@@ -4,12 +4,12 @@
 ####################################################################################
 # BERT Instructions: Run the following commands:->
 ####################################################################################
-sudo su  
-cd /home/ubuntu/bible_api_rasa/docker_version/ui/static/javascript
-vi app.js :-> Edit the first line of the file with the new public IP of the BERT machine-instance(command in vi is 'i' for insert).               exit vi by pressing escape and then ':wq' 
-cd /home/ubuntu/bible_api_rasa/docker_version
-docker build -t clientapi:v1 -f Dockerfile.capi .
-docker run -p 8002:8002 clientapi:v1
+*sudo su  
+*cd /home/ubuntu/bible_api_rasa/docker_version/ui/static/javascript
+*vi app.js :-> Edit the first line of the file with the new public IP of the BERT machine-instance(command in vi is 'i' for insert).               exit vi by pressing escape and then ':wq' 
+*cd /home/ubuntu/bible_api_rasa/docker_version
+*docker build -t clientapi:v1 -f Dockerfile.capi .
+*docker run -p 8002:8002 clientapi:v1
 
 
 
@@ -18,35 +18,35 @@ docker run -p 8002:8002 clientapi:v1
 #######################################################################################
 TERMINAL-1: Run the following commands:
 #######################################
-sudo su
-cd /home/ubuntu/rasa_3/alexa_bible_skill  
-git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
-cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3/actions
-vi actions.py  :-> Now update url(located just below the 'from' and 'import' statements) with the bert machine's IP ('wq' for saving                    and exiting vi).
-cd /home/ubuntu 
-source venv/bin/activate
-cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3 
-rasa run actions
+*sudo su
+*cd /home/ubuntu/rasa_3/alexa_bible_skill  
+*git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
+*cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3/actions
+*vi actions.py  :-> Now update url(located just below the 'from' and 'import' statements) with the bert machine's IP ('wq' for saving                    and exiting vi).
+*cd /home/ubuntu 
+*source venv/bin/activate
+*cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3 
+*rasa run actions
 
 
 #######################################
 TERMINAL-2: Run the following commands:
 #######################################
-sudo su
-source venv/bin/activate
-cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3 
-rasa run --enable-api --cors="*" 
+*sudo su
+*source venv/bin/activate
+*cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3 
+*rasa run --enable-api --cors="*" 
 
 
 #######################################
 TERMINAL-3: Run the following commands:
 #######################################
-sudo su
-source venv/bin/activate
-cd /home/ubuntu/rasa_3/alexa_bible_skill/ui/templates  
-vi index.html  :-> Goto the 4th line from BOTTOM and change the IP in 'host=' to rasa-ip.
-cd /home/ubuntu/rasa_3/alexa_bible_skill/ui 
-python3 web_app.py
+*sudo su
+*source venv/bin/activate
+*cd /home/ubuntu/rasa_3/alexa_bible_skill/ui/templates  
+*vi index.html  :-> Goto the 4th line from BOTTOM and change the IP in 'host=' to rasa-ip.
+*cd /home/ubuntu/rasa_3/alexa_bible_skill/ui 
+*python3 web_app.py
 
 
 #######################################################################################
