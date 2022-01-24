@@ -1,4 +1,4 @@
-#### Please follow the BERT instructions and then RASA instructions:
+# Please follow the BERT instructions and then RASA instructions:
 
 
 ####################################################################################
@@ -17,7 +17,7 @@
 # RASA Instructions: Will have 3 terminals.(3 duplicate sessions, or -d will also work)
 #######################################################################################
 #######################################
-TERMINAL-1: Run the following commands:
+# TERMINAL-1: Run the following commands:
 #######################################
 * sudo su
 * cd /home/ubuntu/rasa_3/alexa_bible_skill  
@@ -31,7 +31,7 @@ TERMINAL-1: Run the following commands:
 
 
 #######################################
-TERMINAL-2: Run the following commands:
+# TERMINAL-2: Run the following commands:
 #######################################
 * sudo su
 * source venv/bin/activate
@@ -40,7 +40,7 @@ TERMINAL-2: Run the following commands:
 
 
 #######################################
-TERMINAL-3: Run the following commands:
+#TERMINAL-3: Run the following commands:
 #######################################
 * sudo su
 * source venv/bin/activate
@@ -77,4 +77,4 @@ Some working Query Examples:
 18. [kings] as said by jesus
 
 ########################################################################################
-The updated list of keywords currently embedded into the model is in '200_keywords_list.txt' in the root directory of the project.
+# The updated list of keywords currently embedded into the model is in '200_keywords_list.txt' in the root directory of the project.
