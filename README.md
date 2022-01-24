@@ -2,68 +2,78 @@
 
 
 ####################################################################################
-# BERT Instructions:
+# BERT Instructions: Run the following commands:->
 ####################################################################################
-1. From /home/ubuntu/ , cd into ->  vi 
-2. run -> vi app.js, and edit the first line of the file with the new public IP of the BERT machine-instance. exit vi by ':wq' 
-3. Now cd into- /home/ubuntu/bible_api_rasa/docker_version
-3. build -> sudo docker build -t clientapi:v1 -f Dockerfile.capi .
-2. run -> sudo docker run -p 8002:8002 clientapi:v1
+sudo su  
+cd /home/ubuntu/bible_api_rasa/docker_version/ui/static/javascript
+vi app.js :-> Edit the first line of the file with the new public IP of the BERT machine-instance(command in vi is 'i' for insert).               exit vi by pressing escape and then ':wq' 
+cd /home/ubuntu/bible_api_rasa/docker_version
+docker build -t clientapi:v1 -f Dockerfile.capi .
+docker run -p 8002:8002 clientapi:v1
 
 
 
+#######################################################################################
+# RASA Instructions: Will have 3 terminals.(3 duplicate sessions, or -d will also work)
+#######################################################################################
+TERMINAL-1: Run the following commands:
+#######################################
+sudo su
+cd /home/ubuntu/rasa_3/alexa_bible_skill  
+git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
+cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3/actions
+vi actions.py  :-> Now update url(located just below the 'from' and 'import' statements) with the bert machine's IP ('wq' for saving                    and exiting vi).
+cd /home/ubuntu 
+source venv/bin/activate
+cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3 
+rasa run actions
 
 
+#######################################
+TERMINAL-2: Run the following commands:
+#######################################
+sudo su
+source venv/bin/activate
+cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3 
+rasa run --enable-api --cors="*" 
 
 
-
-
-
-
-
-
-
-
-
-
-#####################################################################################
-# RASA Instructions:
-#####################################################################################
-0. make change is rasa actions file.
----> cd into '/home/ubuntu/rasa_3/alexa_bible_skill/rasa3/actions'
-
-vi actions.py
-update url value(located just below the from and import statements) with the bert machine's api
-
-
-
-
-
-1. Be in /home/ubuntu and run ->    source venv/bin/activate
-2. Now change directory to - >  /home/ubuntu/rasa_3/alexa_bible_skill/rasa3    and run the following commands:
-3. Open python prompt by typing->  python3
-         *Now run the following commands:
-import nltk
-nltk.download('wordnet')
-nltk.download('omw-1.4')
-nltk.download('punkt') 
-
-Now come out of python3 prompt by ctrl+z
-
-3. run ->  rasa run actions
-4. In another terminal(duplicate-session for rasa ec-2),
-1. Be in /home/ubuntu and run ->    source venv/bin/activate
- Now change directory to ->  /home/ubuntu/rasa_3/alexa_bible_skill/rasa3 , and run  command -> rasa run --enable-api --cors="*" 
-
-
-Now open another terminal(duplicate session for rasa-ec2),
-Be in /home/ubuntu and run ->    source venv/bin/activate
- cd into :-> /home/ubuntu/rasa_3/alexa_bible_skill/ui , and run command :->
+#######################################
+TERMINAL-3: Run the following commands:
+#######################################
+sudo su
+source venv/bin/activate
+cd /home/ubuntu/rasa_3/alexa_bible_skill/ui/templates  
+vi index.html  :-> Goto the 4th line from BOTTOM and change the IP in 'host=' to rasa-ip.
+cd /home/ubuntu/rasa_3/alexa_bible_skill/ui 
 python3 web_app.py
 
 
+#######################################################################################
+
 :-> Now we can open the url :-> 'rasa-ip':8005 and the UI will open up as a button on the right bottom of the screen.
 
+#######################################################################################
+Some working Query Examples: 
 
+01. bible on [kings]
+02. what does christianity say about [kings]
+03. what jesus said about [kings]
+04. what does the bible say about [kings]
+05. what does the bible have to say on [kings]
+06. what does the bible say on [kings]
+07. bible on [kings]
+08. what does christianity say about [kings]
+09. what does christianity have to say on [kings]
+10. what jesus said about [kings]
+11. how is [kings] explained in christianity?
+12. what jesus spoke about [kings]
+13. what christianity says on [kings]
+14. christianity on [kings]
+15. jesus on [kings]
+16. [kings] in bible
+17. [kings] as explained by bible
+18. [kings] as said by jesus
 
-Now we can type our query as input like 'bible on [kings], what does christianity say about [kings], jesus on [kings], etc' where we can type in any of the 200 keywords inplace of [kings]. 
+########################################################################################
+The updated list of keywords currently embedded into the model is in '200_keywords_list.txt' in the root directory of the project.
