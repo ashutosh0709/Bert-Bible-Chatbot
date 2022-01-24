@@ -15,9 +15,9 @@
 ############################################################################################
 # RASA Instructions: Will have 3 terminals.(3 duplicate sessions, or -d will also work)
 ############################################################################################
-#######################################
-- TERMINAL-1: Run the following commands:
-#######################################
+################################################
+## TERMINAL-1: Run the following commands:
+################################################
 * sudo su
 * cd /home/ubuntu/rasa_3/alexa_bible_skill  
 * git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
@@ -29,18 +29,18 @@
 * rasa run actions
 
 
-#######################################
-- TERMINAL-2: Run the following commands:
-#######################################
+###############################################
+## TERMINAL-2: Run the following commands:
+###############################################
 * sudo su
 * source venv/bin/activate
 * cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3 
 * rasa run --enable-api --cors="*" 
 
 
-#######################################
-- TERMINAL-3: Run the following commands:
-#######################################
+###############################################
+## TERMINAL-3: Run the following commands:
+###############################################
 * sudo su
 * source venv/bin/activate
 * cd /home/ubuntu/rasa_3/alexa_bible_skill/ui/templates  
