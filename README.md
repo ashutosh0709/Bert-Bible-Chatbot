@@ -8,14 +8,16 @@
 * vi app.js :-> Edit the first line of the file with the new public IP of the BERT machine-instance(command in vi is 'i' for insert). Exit vi by pressing escape and then ':wq' 
 * cd /home/ubuntu/bible_api_rasa/docker_version
 * docker build -t clientapi:v1 -f Dockerfile.capi .
-* docker run -p 8002:8002 clientapi:v1
+* docker run -d -p 8002:8002 clientapi:v1
 
 ##################################################################################
 # RASA Instructions:
 ##################################################################################
 * sudo su
-* cd /home/ubuntu/rasa_3/alexa_bible_skill  
-* If needed, then only run(No need to run currently) :-> git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
+
+* Run only when changes are made on github, none made currently  -------cd /home/ubuntu/rasa_3/alexa_bible_skill  
+* Dont run currently  -------If needed, then only run(No need to run currently) :-> git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
+
 * cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3/actions
 * vi actions.py  :-> Now update url(located just below the 'from' and 'import' statements) with the bert machine's IP ('wq' for saving and exiting vi).
 * cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3
