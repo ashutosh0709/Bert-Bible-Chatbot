@@ -1,9 +1,6 @@
 # With Docker Instructions:
 ###########################################################################################################
-# Please follow the BERT instructions and then RASA instructions:
 
-
-#####################################################################################
 # BERT Instructions: Run the following commands:-> Open BERT-API EC2 instance:->
 #####################################################################################
 * sudo su  
