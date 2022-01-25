@@ -1,0 +1,26 @@
+version: '3.0'
+services:
+  rasa:
+    image: rasa/rasa:3.0.4-full 
+    ports:
+      - 5005:5005
+    volumes:
+      - ./:/app
+    command:
+      - run 
+    networks:
+      - nluactionconnect   
+
+  action-server:
+    #image: rasa/rasa-sdk:3.0.2
+    build: .
+    volumes:
+      - ./actions:/app/actions
+    ports:
+      - 5055:5055         
+    networks:
+      - nluactionconnect
+ 
+networks:
+  nluactionconnect:
+    external: true    
