@@ -15,8 +15,8 @@
 ##################################################################################
 * sudo su
 
-* Run only when changes are made on github, none made currently  -------cd /home/ubuntu/rasa_3/alexa_bible_skill  
-* Dont run currently  -------If needed, then only run(No need to run currently) :-> git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
+* Run this instruction only when changes are made on github, none made currently  -------cd /home/ubuntu/rasa_3/alexa_bible_skill  
+* Dont run this instruction currently  -------If needed, then only run(No need to run currently) :-> git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
 
 * cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3/actions
 * vi actions.py  :-> Now update url(located just below the 'from' and 'import' statements) with the bert machine's IP ('wq' for saving and exiting vi).
