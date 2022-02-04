@@ -26,6 +26,7 @@
 * docker run -d -p 5055:5055 --net networkaction --name actionserver actionimage (If here it says that /actionserver is already in use, then type -> docker rm /actionserver ,     and try to run this command again).
 * vi endpoints.yml, and in the middle portion of the file, update the value after http:// , to the name given above while creating the networkaction (docker network), in the docker run -p 5055:5055 command (Here it is actionserver, as defined by the --name flag).
 * cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3
+* If training is needed perform it :  docker run --user 0 -v $(pwd):/app rasa/rasa:3.0.4-full train
 * docker run --user 1000 -d -v $(pwd):/app -p 5005:5005 --net networkaction rasa/rasa:3.0.4-full run --enable-api --cors="*"
 * cd /home/ubuntu/rasa_3/alexa_bible_skill/ui/templates
 * vi index.html :-> Goto the 4th line from BOTTOM and change the IP in 'host=' to rasa-ip.
