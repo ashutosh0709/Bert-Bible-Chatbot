@@ -104,7 +104,29 @@ nlu:
     - [eye]{"entity": "keyword_entity"} as said by jesus
     - [yoga]{"entity": "keyword_entity"} as said by jesus
     - [satan]{"entity": "keyword_entity"} as said by jesus
-
+    - [hindi]{"entity": "keyword_entity"} as explained by bible   
+    - how is [eve]{"entity": "keyword_entity"} explained in the bible?
+    - what jesus said about [hell]{"entity": "keyword_entity"}
+    - how is [jonah]{"entity": "keyword_entity"} explained in christianity?
+    - what jesus spoke about [babylon]{"entity": "keyword_entity"}    
+    - bible on [christ]{"entity": "keyword_entity"}                                                                          
+    - what does christianity say about [dignity]{"entity": "keyword_entity"}     
+    - [doubt]{"entity": "keyword_entity"} as explained by bible
+    - [threat]{"entity": "keyword_entity"} as said by jesus    
+    - what does the bible say on [mood]{"entity": "keyword_entity"}
+    - bible on [outlook]{"entity": "keyword_entity"}
+    - what does christianity say about [meow]{"entity": "keyword_entity"}    
+    - [habit]{"entity": "keyword_entity"} as explained by bible   
+    - how is [duty]{"entity": "keyword_entity"} explained in the bible?
+    - what jesus said about [thank]{"entity": "keyword_entity"}
+    - how is [worker]{"entity": "keyword_entity"} explained in christianity?
+    - what jesus spoke about [babyhood]{"entity": "keyword_entity"}    
+    - bible on [noah]{"entity": "keyword_entity"}                                                                          
+    - what does christianity say about [pathway]{"entity": "keyword_entity"}     
+    - [idols]{"entity": "keyword_entity"} as explained by bible
+    - [split]{"entity": "keyword_entity"} as said by jesus    
+    - what does the bible say on [sabbath]{"entity": "keyword_entity"}
+    - bible on [sin]{"entity": "keyword_entity"}    
 
 
 
