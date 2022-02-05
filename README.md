@@ -15,7 +15,7 @@
 ##################################################################################
 * sudo su
 
-* Run this instruction only when changes are made on github, none made currently  -------cd /home/ubuntu/rasa_3/alexa_bible_skill  
+* Dont run this instruction -> Run only when changes are made on github, none made currently  -------cd /home/ubuntu/rasa_3/alexa_bible_skill  
 * Dont run this instruction currently  -------If needed, then only run(No need to run currently) :-> git pull  https://github.com/ashutosh0709/alexa_bible_skill.git
 
 * cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3/actions
