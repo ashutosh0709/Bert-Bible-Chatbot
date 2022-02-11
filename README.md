@@ -15,7 +15,7 @@
 * docker run --user 1000 -d -v $(pwd):/app -p 5005:5005 --net networkaction rasa/rasa:3.0.4-full run --enable-api --cors="*"
 * docker run -d -p 8005:8005 rasaui:v1
 
-### BEFORE SHUTTING DOWN THE INSTANCE, DO A DOCKER PS, AND SHUT DOWN THE 4 CONTAINS THAT ARE RUNNING.(COMMAND - docker stop 'container-id').
+### BEFORE SHUTTING DOWN THE INSTANCE, DO A DOCKER PS, AND SHUT DOWN THE 4 CONTAINS THAT ARE RUNNING.COMMAND - docker kill $(docker ps -q)
 
 
 :-> Now we can open the url :-> 'rasa-ip':8005 , and the UI will open up as a button on the right bottom of the screen.
