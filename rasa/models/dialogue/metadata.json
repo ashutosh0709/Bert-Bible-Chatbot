@@ -1,0 +1,49 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_ask_register_online": {
+      "slots": []
+    },
+    "utter_greet": {
+      "slots": []
+    },
+    "utter_my_name_is": {
+      "slots": []
+    },
+    "utter_bye": {
+      "slots": []
+    },
+    "action_display_link": {
+      "slots": []
+    },
+    "action_courses": {
+      "slots": []
+    },
+    "action_reset_slot": {
+      "slots": []
+    },
+    "utter_thank": {
+      "slots": []
+    }
+  },
+  "python": "3.6.8",
+  "max_histories": [
+    3,
+    3,
+    null,
+    2
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.fallback.FallbackPolicy",
+    "rasa_core.policies.form_policy.FormPolicy"
+  ],
+  "trained_at": "20220114-064412",
+  "rasa_core": "0.14.5",
+  "tensorflow": "1.13.2",
+  "sklearn": "0.20.4"
+}

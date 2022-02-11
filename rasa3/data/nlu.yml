@@ -1,0 +1,111 @@
+version: "3.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+
+
+- intent: one_kw_intent
+  examples: |
+    - what does the bible say about [ministry]{"entity": "keyword_entity"}
+    - what does the bible say about [love]{"entity": "keyword_entity"}
+    - what does the bible say about [sacrifice]{"entity": "keyword_entity"}
+    - what does the bible say about [generosity]{"entity": "keyword_entity"}
+    - what does the bible say about [bribery]{"entity": "keyword_entity"}
+    - what does the bible have to say on [betrayal]{"entity": "keyword_entity"}                                                  
+    - what does the bible say on [childhood]{"entity": "keyword_entity"}                                                           
+    - bible on [charge]{"entity": "keyword_entity"} 
+    - bible on [violence]{"entity": "keyword_entity"} 
+    - bible on [psalmist]{"entity": "keyword_entity"} 
+    - bible on [woman]{"entity": "keyword_entity"} 
+    - bible on [messenger]{"entity": "keyword_entity"}                                                                          
+    - what does christianity say about [husband]{"entity": "keyword_entity"}                                                       
+    - what does christianity have to say on [worshippers]{"entity": "keyword_entity"}                                                    
+    - what does the bible have to say on [brightness]{"entity": "keyword_entity"}                                                
+    - what does the bible say on [timothy]{"entity": "keyword_entity"}
+    - bible on [cleanliness]{"entity": "keyword_entity"}                                                                                   
+    - what does christianity say about [refuge]{"entity": "keyword_entity"}
+    - what does the bible have to say on [hearts]{"entity": "keyword_entity"}
+    - what does the bible say on [partner]{"entity": "keyword_entity"}
+    - bible on [calvary]{"entity": "keyword_entity"}
+    - bible on [mangoes]{"entity": "keyword_entity"}
+    - bible on [daddy]{"entity": "keyword_entity"}
+    - bible on [heman]{"entity": "keyword_entity"}
+    - bible on [soul]{"entity": "keyword_entity"}
+    - what does christianity say about [communities]{"entity": "keyword_entity"}
+    - what does the bible have to say on [mother]{"entity": "keyword_entity"}
+    - what does the bible say on [liberty]{"entity": "keyword_entity"}
+    - bible on [punishment]{"entity": "keyword_entity"}
+    - what does christianity say about [religion]{"entity": "keyword_entity"}
+    - what does the bible have to say on [worldliness]{"entity": "keyword_entity"}
+    - what does the bible say on [compassion]{"entity": "keyword_entity"}
+    - bible on [sickness]{"entity": "keyword_entity"}
+    - what does christianity say about [deliverance]{"entity": "keyword_entity"}
+    - what does the bible have to say on [offence]{"entity": "keyword_entity"}
+    - what does the bible say on [heavens]{"entity": "keyword_entity"}                                                           
+    - bible on [discontent]{"entity": "keyword_entity"}
+    - what does christianity say about [friendship]{"entity": "keyword_entity"}
+    - what does the bible have to say on [commandments]{"entity": "keyword_entity"}
+    - what does the bible say on [leaders]{"entity": "keyword_entity"}                                                           
+    - bible on [purity]{"entity": "keyword_entity"} 
+    - what does christianity say about [grace]{"entity": "keyword_entity"}
+    - how is [lazarus]{"entity": "keyword_entity"} explained in the bible?
+    - what jesus said about [desperation]{"entity": "keyword_entity"}
+    - how is [thorns]{"entity": "keyword_entity"} explained in christianity?
+    - what jesus spoke about [strife]{"entity": "keyword_entity"}
+    - what christianity says on [preacher]{"entity": "keyword_entity"}
+    - christianity on [capacity]{"entity": "keyword_entity"}
+    - jesus on [lovers]{"entity": "keyword_entity"}
+    - [philosophers]{"entity": "keyword_entity"} in bible
+    - [followers]{"entity": "keyword_entity"} as explained by bible                                                                      
+    - [hurry]{"entity": "keyword_entity"} as said by jesus
+    - how is [hollowness]{"entity": "keyword_entity"} explained in the bible?
+    - what jesus said about [sham]{"entity": "keyword_entity"}
+    - how is [contrast]{"entity": "keyword_entity"} explained in christianity?
+    - what jesus spoke about [curiosity]{"entity": "keyword_entity"}
+    - what christianity says on [breed]{"entity": "keyword_entity"}
+    - christianity on [slavery]{"entity": "keyword_entity"}
+    - jesus on [stem]{"entity": "keyword_entity"}
+    - [guidance]{"entity": "keyword_entity"} in bible
+    - [answer]{"entity": "keyword_entity"} as explained by bible
+    - [delight]{"entity": "keyword_entity"} as said by jesus
+    - how is [imprisonment]{"entity": "keyword_entity"} explained in the bible?
+    - what jesus said about [enemy]{"entity": "keyword_entity"}
+    - how is [bishop]{"entity": "keyword_entity"} explained in christianity?
+    - what jesus spoke about [ethiopians]{"entity": "keyword_entity"}
+    - what christianity says on [sermons]{"entity": "keyword_entity"}
+    - christianity on [humble]{"entity": "keyword_entity"}
+    - jesus on [mistresses]{"entity": "keyword_entity"}
+    - [rejection]{"entity": "keyword_entity"} in bible
+    - [honesty]{"entity": "keyword_entity"} as explained by bible
+    - [evangelist]{"entity": "keyword_entity"} as said by jesus
+    - [loves]{"entity": "keyword_entity"} as said by jesus
+    - [loved]{"entity": "keyword_entity"} as said by jesus
+    - [loving]{"entity": "keyword_entity"} as said by jesus
+    - [affection]{"entity": "keyword_entity"} as said by jesus
+    - [generousness]{"entity": "keyword_entity"} as said by jesus
+    - [generosities]{"entity": "keyword_entity"} as said by jesus
+    - [unselfishness]{"entity": "keyword_entity"} as said by jesus
+    - [king]{"entity": "keyword_entity"} as said by jesus
+    - [eye]{"entity": "keyword_entity"} as said by jesus
+    - [yoga]{"entity": "keyword_entity"} as said by jesus
+    - [satan]{"entity": "keyword_entity"} as said by jesus
+
+
+
+
+

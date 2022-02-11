@@ -1,0 +1,4 @@
+requests==2.26.0
+responses==0.17.0
+Flask==2.0.2
+

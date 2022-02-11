@@ -1,0 +1,95 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "bible store document",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "searchstring",
+          "slots": [
+            {
+              "name": "searchtype",
+              "type": "SLOTTYPE"
+            }
+          ],
+          "samples": [
+            "hello how do i look",
+            "what does the bible have to say on {searchtype}"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "heaven"
+              }
+            },
+            {
+              "name": {
+                "value": "hell"
+              }
+            },
+            {
+              "name": {
+                "value": "sin"
+              }
+            },
+            {
+              "name": {
+                "value": "kings"
+              }
+            },
+            {
+              "name": {
+                "value": "women"
+              }
+            },
+            {
+              "name": {
+                "value": "men"
+              }
+            },
+            {
+              "name": {
+                "value": "baptism"
+              }
+            },
+            {
+              "name": {
+                "value": "ministry"
+              }
+            },
+            {
+              "name": {
+                "value": "love"
+              }
+            }
+          ],
+          "name": "SLOTTYPE"
+        }
+      ]
+    }
+  },
+  "version": "12"
+}
