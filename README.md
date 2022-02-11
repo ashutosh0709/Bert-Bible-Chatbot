@@ -1,69 +1,58 @@
-#### Please follow the BERT instructions and then RASA instructions:
+With Docker Instructions:
+###########################################################################################################
 
-
-####################################################################################
-# BERT Instructions:
-####################################################################################
-1. From /home/ubuntu/ , cd into ->  vi 
-2. run -> vi app.js, and edit the first line of the file with the new public IP of the BERT machine-instance. exit vi by ':wq' 
-3. Now cd into- /home/ubuntu/bible_api_rasa/docker_version
-3. build -> sudo docker build -t clientapi:v1 -f Dockerfile.capi .
-2. run -> sudo docker run -p 8002:8002 clientapi:v1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+BERT Instructions: Run the following commands:-> Open BERT-API EC2 instance:->
 #####################################################################################
-# RASA Instructions:
-#####################################################################################
-0. make change is rasa actions file.
----> cd into '/home/ubuntu/rasa_3/alexa_bible_skill/rasa3/actions'
 
-vi actions.py
-update url value(located just below the from and import statements) with the bert machine's api
+sudo su
+cd /home/ubuntu/bible_api_rasa/docker_version/ui/static/javascript
+vi app.js :-> Edit the first line of the file with the new public IP of the BERT machine-instance(command in vi is 'i' for insert). Exit vi by pressing escape and then ':wq'
+cd /home/ubuntu/bible_api_rasa/docker_version
+docker build -t clientapi:v1 -f Dockerfile.capi .
+docker run -d -p 8002:8002 clientapi:v1
+##################################################################################
 
+RASA Instructions:
+##################################################################################
 
+sudo su
 
+Dont run this instruction -> Run only when changes are made on github, none made currently -------cd /home/ubuntu/rasa_3/alexa_bible_skill
 
+Dont run this instruction currently -------If needed, then only run(No need to run currently) :-> git pull https://github.com/ashutosh0709/alexa_bible_skill.git
 
-1. Be in /home/ubuntu and run ->    source venv/bin/activate
-2. Now change directory to - >  /home/ubuntu/rasa_3/alexa_bible_skill/rasa3    and run the following commands:
-3. Open python prompt by typing->  python3
-         *Now run the following commands:
-import nltk
-nltk.download('wordnet')
-nltk.download('omw-1.4')
-nltk.download('punkt') 
+cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3/actions
 
-Now come out of python3 prompt by ctrl+z
+vi actions.py :-> Now update url(located just below the 'from' and 'import' statements) with the bert machine's IP ('wq' for saving and exiting vi).
 
-3. run ->  rasa run actions
-4. In another terminal(duplicate-session for rasa ec-2),
-1. Be in /home/ubuntu and run ->    source venv/bin/activate
- Now change directory to ->  /home/ubuntu/rasa_3/alexa_bible_skill/rasa3 , and run  command -> rasa run --enable-api --cors="*" 
+cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3
 
+docker build -t actionimage -f Dockerfile.actions .
 
-Now open another terminal(duplicate session for rasa-ec2),
-Be in /home/ubuntu and run ->    source venv/bin/activate
- cd into :-> /home/ubuntu/rasa_3/alexa_bible_skill/ui , and run command :->
-python3 web_app.py
+docker network create networkaction
 
+docker rm /actionserver -> we need to remove it since the container ran last time.
 
-:-> Now we can open the url :-> 'rasa-ip':8005 and the UI will open up as a button on the right bottom of the screen.
+docker run -d -p 5055:5055 --net networkaction --name actionserver actionimage
 
+vi endpoints.yml, and in the middle portion of the file, update the value after http:// , to the name given above while creating the networkaction (docker network), in the docker run -p 5055:5055 command (Here it is actionserver, as defined by the --name flag).
 
+cd /home/ubuntu/rasa_3/alexa_bible_skill/rasa3
 
-Now we can type our query as input like 'bible on [kings], what does christianity say about [kings], jesus on [kings], etc' where we can type in any of the 200 keywords inplace of [kings]. 
+Dont run this -> If training is needed to be performed, command is : docker run --user 0 -v $(pwd):/app rasa/rasa:3.0.4-full train
+
+docker run --user 1000 -d -v $(pwd):/app -p 5005:5005 --net networkaction rasa/rasa:3.0.4-full run --enable-api --cors="*"
+
+cd /home/ubuntu/rasa_3/alexa_bible_skill/ui/templates
+
+vi index.html :-> Goto the 4th line from BOTTOM and change the IP in 'host=' to rasa-ip.
+
+cd /home/ubuntu/rasa_3/alexa_bible_skill/ui
+
+docker build -t rasaui:v1 .
+
+docker run -d -p 8005:8005 rasaui:v1
+
+:-> Now we can open the url :-> 'rasa-ip':8005 , and the UI will open up as a button on the right bottom of the screen.
+
+###########################################################################################################
