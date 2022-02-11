@@ -9,7 +9,7 @@
 ##################################################################################
 # RASA Instructions:
 ##################################################################################
-
+* docker rm /actionserver -> we need to remove it since the container ran last time.
 * docker run -d -p 5055:5055 --net networkaction --name actionserver actionimage 
 * cd /home/ubuntu/rasa3/alexa_bible_skill/rasa3
 * docker run --user 1000 -d -v $(pwd):/app -p 5005:5005 --net networkaction rasa/rasa:3.0.4-full run --enable-api --cors="*"
