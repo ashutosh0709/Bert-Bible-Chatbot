@@ -39,7 +39,7 @@ def CreateStopwordEntryInDb():
     stopwords_collection = os.getenv('stopwords_collection')
     arangoURL = os.getenv('arangoURL')
 
-    conn = Connection(username=arangodb_username, password=arangodb_password)
+    conn = Connection(arangoURL=arangoURL, username=arangodb_username, password=arangodb_password)
 
     try:
         db = conn.createDatabase(name=database_name) #handles creation of db
