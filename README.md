@@ -7,13 +7,12 @@
 
 # (B) RUNNING INSTRUCTIONS:
 ## (B.1) BERT Instructions, to start the BERT-APIS : 
-##################################
 * FOLLOW THE '(C) RUNNING INSTRUCTIONS' OF BERT-CODE.
 
 
 
 
-#################################
+
 ## (B.2) RASA Instructions:
 #################################
 * sudo su
