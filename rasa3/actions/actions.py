@@ -1,5 +1,9 @@
 #############################################################################################################################################################################################
 import os
+
+import time 
+time.sleep(50)
+
 from dotenv import load_dotenv
 load_dotenv()
 ip = os.getenv("instance_ip")
@@ -40,7 +44,7 @@ from nltk.tokenize import sent_tokenize
 ##############################################################################################################################################################################################################################################################################################################################################################################################################
 ###############################################################################################################################################################################################################################################################################################################################################################################################################
 ######################################################################################################################################################################################################################################################################################################################################################################################################
-logging.basicConfig(filename='rasa_actions.log', level=logging.DEBUG , format='%(asctime)s :: %(levelname)s :: %(message)s', force=True)
+#logging.basicConfig(filename='rasa_actions.log', level=logging.DEBUG , format='%(asctime)s :: %(levelname)s :: %(message)s', force=True)
 ###################################################################################################################################################################################################
 from packages import dac , action_functions
 #################################################################################################################################################################################################################
@@ -64,7 +68,7 @@ class one_keyword_api_call(Action):
         global link_url
         slot_value = tracker.get_slot('keyword')                                             # 1
 
-        logging.info("---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+ #       logging.info("---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
         print(slot_value)                                                                    # 2
 
 
@@ -74,7 +78,7 @@ class one_keyword_api_call(Action):
             
             if dac.isStopword(slot_value) == True:                                        # 5
                 link_url , para = dac.getDataOfStopword(slot_value)
-                logging.info("The para returned by rasa-actions for " +  slot_value  +  " is : " + para)
+  #              logging.info("The para returned by rasa-actions for " +  slot_value  +  " is : " + para)
                 dispatcher.utter_message(para)
                 return []
             
@@ -97,11 +101,11 @@ class one_keyword_api_call(Action):
                 link_url = ""    
                 return []
             para = action_functions.bestParaExtractor(article , str(slot_value))                                # 9
-            logging.info("The para returned by rasa-actions for " +  str(slot_value)  +  " is : " + str(para))
+   #         logging.info("The para returned by rasa-actions for " +  str(slot_value)  +  " is : " + str(para))
             dispatcher.utter_message(para)
         else:
             link_url = ""    
-            logging.info("The para returned by rasa-actions for " + slot_value + " is : " + "Slot-value not picked up")
+    #        logging.info("The para returned by rasa-actions for " + slot_value + " is : " + "Slot-value not picked up")
             dispatcher.utter_message("Slot-value not picked up")
         return []
 
@@ -115,12 +119,12 @@ class DisplayLink(Action):
     def run(self,dispatcher,tracker,domain):
         if link_url != "": 
             try:
-                logging.info("The article-URL returned by rasa-actions is " + str(link_url)) 
+     #           logging.info("The article-URL returned by rasa-actions is " + str(link_url)) 
                 dispatcher.utter_message("Article-Link : " + str(link_url))
             except:
                 pass  
         else:
-            logging.info("The message returned by rasa-actions is " + "Please try again!") 
+      #      logging.info("The message returned by rasa-actions is " + "Please try again!") 
             dispatcher.utter_message("Please try again!")
         return []    
 
