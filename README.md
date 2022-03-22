@@ -10,7 +10,7 @@
 
 # (B) RUNNING INSTRUCTIONS:
 ##############################################################################
-# BERT Instructions, to start the BERT-APIS : 
+## BERT Instructions, to start the BERT-APIS : 
 ##################################
 * FOLLOW THE '(C) RUNNING INSTRUCTIONS' OF BERT-CODE.
 
@@ -18,7 +18,7 @@
 
 
 #################################
-# RASA Instructions:
+## RASA Instructions:
 #################################
 * sudo su
 * cd /home/ubuntu/rasa3/alexa_bible_skill/rasa3/actions
