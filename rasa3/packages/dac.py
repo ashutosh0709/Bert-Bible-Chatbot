@@ -17,7 +17,7 @@ def write_lookup_entries_to_db(word1 , word2):
     lookup_collection = os.getenv('lookup_collection')
     arangoURL = os.getenv('arangoURL')
 
-    conn = Connection(username=arangodb_username, password=arangodb_password)
+    conn = Connection(arangoURL=arangoURL , username=arangodb_username, password=arangodb_password)
 
     try:
         db = conn.createDatabase(name=database_name) #handles creation of db
@@ -145,7 +145,7 @@ def isKeyword(word):
     lookup_collection = os.getenv('keyword_url_collection')
     arangoURL = os.getenv('arangoURL')
 
-    conn = Connection(username=arangodb_username, password=arangodb_password)
+    conn = Connection(arangoURL=arangoURL, username=arangodb_username, password=arangodb_password)
 
     try:
         db = conn.createDatabase(name=database_name) #handles creation of db
@@ -179,7 +179,7 @@ def isStopword(word):
     stopwords_collection = os.getenv('stopwords_collection')
     arangoURL = os.getenv('arangoURL')
 
-    conn = Connection(username=arangodb_username, password=arangodb_password)
+    conn = Connection(arangoURL=arangoURL, username=arangodb_username, password=arangodb_password)
 
     try:
         db = conn.createDatabase(name=database_name) #handles creation of db
@@ -217,7 +217,7 @@ def getDataOfStopword(stopword):
     stopwords_collection = os.getenv('stopwords_collection')
     arangoURL = os.getenv('arangoURL')
 
-    conn = Connection(username=arangodb_username, password=arangodb_password)
+    conn = Connection(arangoURL=arangoURL, username=arangodb_username, password=arangodb_password)
 
     try:
         db = conn.createDatabase(name=database_name) #handles creation of db
