@@ -1,5 +1,4 @@
 # (A) SETUP INSTRUCTIONS:
-###############################################################################
 
 * in -> '/home/ubuntu/' directory on AWS-EC2, git pull  https://github.com/ashutosh0709/alexa_bible_skill.git 
 
@@ -7,8 +6,7 @@
 
 
 # (B) RUNNING INSTRUCTIONS:
-##############################################################################
-## BERT Instructions, to start the BERT-APIS : 
+## (B.1) BERT Instructions, to start the BERT-APIS : 
 ##################################
 * FOLLOW THE '(C) RUNNING INSTRUCTIONS' OF BERT-CODE.
 
@@ -16,7 +14,7 @@
 
 
 #################################
-## RASA Instructions:
+## (B.2) RASA Instructions:
 #################################
 * sudo su
 * cd /home/ubuntu/alexa_bible_skill/rasa3/actions
