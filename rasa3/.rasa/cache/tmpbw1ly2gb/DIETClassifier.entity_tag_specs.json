@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-keyword_entity",
+      "2": "I-keyword_entity",
+      "3": "L-keyword_entity",
+      "4": "U-keyword_entity",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-keyword_entity": 1,
+      "I-keyword_entity": 2,
+      "L-keyword_entity": 3,
+      "U-keyword_entity": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]
