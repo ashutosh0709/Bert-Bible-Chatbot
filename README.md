@@ -1,4 +1,4 @@
-# SETUP INSTRUCTIONS:
+# (A) SETUP INSTRUCTIONS:
 ###############################################################################
 
 * git pull      https://github.com/ashutosh0709/alexa_bible_skill.git in      '/home/ubuntu/' directory on AWS-EC2.
@@ -9,11 +9,11 @@
 
 
 
-# RUNNING INSTRUCTIONS:
+# (B) RUNNING INSTRUCTIONS:
 ##############################################################################
-# BERT Instructions: Run the following commands:-> Open BERT-API EC2 instance:->
+# BERT Instructions, to start the BERT-APIS : 
 ##################################
-* FOLLOW THE 'RUNNING INSTRUCTIONS' OF BERT-CODE.
+* FOLLOW THE '(C) RUNNING INSTRUCTIONS' OF BERT-CODE.
 
 
 
