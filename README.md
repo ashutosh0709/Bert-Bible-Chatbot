@@ -8,6 +8,8 @@
 # (B) RUNNING INSTRUCTIONS:
 ## (B.1) BERT Instructions, to start the BERT-APIS : 
 * FOLLOW THE '(C) RUNNING INSTRUCTIONS' OF BERT-CODE.
+* cd /home/ubuntu/alexa_bible_skill/rasa3
+* docker run --user 0 -v $(pwd):/app rasa/rasa:3.0.4-full train
 
 
 
@@ -24,7 +26,6 @@
 * cd /home/ubuntu/alexa_bible_skill/rasa3
 * docker run -d -p 5055:5055 --net networkaction --name actionserver actionimage 
 * cd /home/ubuntu/alexa_bible_skill/rasa3
-* Dont run this -> If training is needed to be performed, command is :  docker run --user 0 -v $(pwd):/app rasa/rasa:3.0.4-full train
 * docker run --user 1000 -d -v $(pwd):/app -p 5005:5005 --net networkaction rasa/rasa:3.0.4-full run --enable-api --cors="*"
 * cd /home/ubuntu/alexa_bible_skill/ui/templates
 * vi index.html :-> Goto the 4th line from BOTTOM and change the IP in 'host=' to rasa-instance's-ip.
