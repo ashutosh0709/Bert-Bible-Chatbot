@@ -1,6 +1,6 @@
 # (A) SETUP INSTRUCTIONS:
 
-* in -> '/home/ubuntu/' directory on AWS-EC2, git pull  https://github.com/ashutosh0709/alexa_bible_skill.git 
+* In -> '/home/ubuntu/' directory on AWS-EC2 , git pull  https://github.com/ashutosh0709/alexa_bible_skill.git (Please save it here only as the paths described herein (in B.2 below) is according to that only).
 
 
 ###########################################################################################
