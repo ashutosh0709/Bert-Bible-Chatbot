@@ -18,7 +18,7 @@
 ## (B.2) RASA Instructions:
 * sudo su
 * cd /home/ubuntu/alexa_bible_skill/rasa3/actions
-* vi .env  :-> Now create the .env file using 'env_creation_file.txt' -> present in the repo itself. Now update EC2-INSTANCE-IP-OF-BERT-MACHINE in the first line.   ('wq' for saving and exiting vi).
+* vi .env  :-> Now create the .env file using 'env_creation_file.txt' -> present in the repo itself. Now update EC2-INSTANCE-IP-OF-BERT-MACHINE in the first line.   ('wq' for saving and exiting vi). Both the env files of bert and rasa is same.
 * cd /home/ubuntu/alexa_bible_skill/rasa3
 * docker build -t actionimage -f Dockerfile.actions .
 * docker network create networkaction
