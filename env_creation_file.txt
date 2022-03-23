@@ -1,0 +1,22 @@
+instance_ip = "YOUR-INSTANCE-IP"
+
+arangodb_username = "root"
+arangodb_password = "YOUR-PASSWORD"
+arangoURL='http://YOUR-ARANGO-PRIVATE-IP:8529'
+
+database_name = "final_test_run6"
+article_keywords_collection = "articles_collection"
+keyword_url_collection = "keyword_to_url_collection"
+crawler_model_tracker = "crawler_model_tracker"
+keyword_vectors_all_urls = "keyword_vectors_all_urls"
+final_vectors_collection = "final_vectors_collection"
+lookup_collection = "lookupTable"
+words_not_mapped = "words_not_mapped"
+stopwords_collection = "StopWordsCollection"
+keywords_vectors_all_urls = "keywords_vectors_all_urls"
+
+abs_path_of_home_directory = "WHEREEVER YOU HAVE CLONED THE REPO, GO TO THE HOME INSIDE CLONED REPO AND COPY ITS ABSOLUTE PATH"
+
+
+service_name='s3'
+bucketname = 'biblebucket'
