@@ -3,7 +3,7 @@
 * In -> '/home/ubuntu/' directory on AWS-EC2 ,   git clone -b master  https://github.com/ashutosh0709/alexa_bible_skill.git     (Please save it here only as the paths described herein (in B.2 below) is according to that only).
 
 
-###########################################################################################
+#######################################################################################
 
 # (B) RUNNING INSTRUCTIONS:
 ## (B.1) BERT Instructions, to start the BERT-APIS : 
